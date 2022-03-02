@@ -288,6 +288,9 @@ Custom configuration that disables Visual Objectives and Hold Breath. Sets 1st P
 [**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
+[**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
+Adds melee attacks for non-melee weapons, similar to melee hits and buttstrokes in modern FPS games.
+
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
@@ -315,11 +318,8 @@ NPCs will now sprint in melee combat instead of casually jogging. Uses custom sp
 [**NPCs Use Aid Items**](https://www.nexusmods.com/newvegas/mods/68742)  
 NPCs will now use aid items in combat. They will not consume their loot; instead, they will simulate consuming items they can potentially carrying.
 
-[**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
-Makes radiation work like in Fallout 4, by damaging your max health.
-
 [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
-Rewrites the entire UI portion of RAD and makes major changes to the script, including rebalancing and bugfixes.
+Makes radiation work like in Fallout 4, by damaging your max health.
 
 [**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202/)  
 Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing. The slowed movement speed and slower turning speed also makes enemies less likely to bolt out suddenly from around a corner in a jerky way.
@@ -420,14 +420,14 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 
 Files to install:
 - **Uncut Wasteland plus NPCs** (Main files)
-- **Uncut Wasteland Pole Remover** (Optional files)
 - **Uncut Extra Collection** (Optional files)
-
-[**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
-Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
+- **Uncut Wasteland Pole Remover** (Optional files)
 
 [**Uncut Extra Collection - JSawyer Ultimate Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Uncut%20Extra%20Collection%20-%20JSawyer%20Ultimate%20Patch.7z)  
 Patches Uncut Extra Collection for compatibility with JSawyer Ultimate Edition.
+
+[**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
+Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
 
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip.
@@ -679,7 +679,7 @@ An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC 
 
 Files to install:
 - **Desert Natural Weathers 2.6** (Main files)
-- **Desert Natural Weathers 2.7** (Update files)
+- **Desert Natural Weathers 2.8.1** (Update files)
 - **Restore fake interior godrays.** (Optional files)
 
 [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
@@ -687,6 +687,12 @@ Adds vanilla ambient music to the Zion worldspace.
 
 [**HD Moon 2K - Dark Side of the Moon**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/HD%20Moon%202K%20-%20Dark%20Side%20of%20the%20Moon.7z)  
 High quality retexture of the moon using NASA satellite images.
+
+[**Accurate NASA Stars**](https://www.nexusmods.com/newvegas/mods/75522)  
+Star texture and mesh using NASA satellite images to create a real-world accurate starfield.
+
+Files to install:
+- **Accurate Stars 4k** (Main files)
 
 [**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
 High resolution retexture for mist.
@@ -838,14 +844,21 @@ C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
 V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
+X | Melee bash | B42 Melee Bash
 
 # CHANGELOG
 
 <details>
 	<summary>Click to expand</summary>
 
+03-02-2022
+- Updated **Desert Natural Weathers** installation instructions (Visuals).
+- Re-added **B42 Melee Bash** (Gameplay).
+- Added **Accurate NASA Stars** (Visuals).
+- Removed **RAD - Radiation (is) Actually Dangerous**. The **Overhaul** completely replaces this mod now.
+
 02-28-2022
-- Updated **Desert Natural Weathers** installation instructions.
+- Updated **Desert Natural Weathers** installation instructions (Visuals).
 - Removed **JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patch** from modlist.txt (the plugin was removed in an earlier update).
 	
 02-27-2022
