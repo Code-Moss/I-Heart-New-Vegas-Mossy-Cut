@@ -47,7 +47,7 @@ This is *not* a modding guide for beginners. If you've never played Fallout: New
 
 ## My setup
 
-When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 30fps (at worst) to 60fps. For reference, here is a my setup.
+When installing all mods in this guide, my framerate ranges anywhere from 30fps (at worst) to 60fps. For reference, here is a my setup.
 
 System | My Specs
 ------------ | -------------
@@ -85,10 +85,6 @@ Depends on how thorough you are about it. It shouldn't take you longer than thre
 ### How often is the guide updated?
 
 Left My Heart In New Vegas is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
-
-### Is there a Wabbajack installer for the guide available?
-
-No. I already have enough questions asked because users installed a mod without reading what it did. I don't want those questions to increase tenfold by providing an automated installer.
 
 ### Do you have a Patreon I can contribute to?
 
