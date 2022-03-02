@@ -1,6 +1,6 @@
 # LEFT MY HEART IN NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: February 27th, 2022.
+Last updated: March 2nd, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.jpg)
 
