@@ -830,20 +830,6 @@ Adjusts mod order and load order for Left My Heart In New Vegas to work as inten
  
 > ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
-### Generating LOD
-
-> ⚠️ Assuming you use a different mod setup than the one recommended in the guide, you will have to generate LOD yourself.
-
-- Run **FNVLODGen** in MO2.
-- Right click on the list of worldspaces, and click **Select All**.
-- Click **Generate**. The process will take some time.
-- After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
-
-Now all that's left is to install our generated LOD.
-
-- Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
-- Install **FNVLODGen Output** with MO2.
-
 ### Settings config
 
 The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
@@ -891,6 +877,20 @@ iMinGrassSize=40
 
 > ℹ️ Disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout; increases grass density.
 
+### Generating LOD
+
+> ⚠️ Assuming you use a different mod setup than the one recommended in the guide, you will have to generate LOD yourself.
+
+- Run **FNVLODGen** in MO2.
+- Right click on the list of worldspaces, and click **Select All**.
+- Click **Generate**. The process will take some time.
+- After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
+
+Now all that's left is to install our generated LOD.
+
+- Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
+- Install **FNVLODGen Output** with MO2.
+
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
@@ -922,7 +922,8 @@ X | Melee bash | B42 Melee Bash
 	<summary>Click to expand</summary>
 
 03-02-2022
-- Moved the additional NVSE bug fixes, Pip-Boy related mods, and the additional LOD resources, into the main guide.
+- Moved the additional NVSE bug fixes, Pip-Boy related mods, and the additional LOD resources, into the main guide. Now only one FNVLODGen Output is provided as a result.
+- Moved FNVLODGen instructions to the bottom of **Finishing Touches**, as it's the only thing that's entirely optional about that section.
 - Updated **Desert Natural Weathers** installation instructions (Visuals).
 - Re-added **B42 Melee Bash** (Gameplay).
 - Added **Accurate NASA Stars** (Visuals).
