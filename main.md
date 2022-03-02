@@ -645,6 +645,25 @@ Files to install:
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
 
+[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
+Removes the completely useless and ugly Pip-Boy glove from the player.
+
+[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
+Pip-Boy replacer with custom scratch-made meshes, textures and working clock like in Fallout 76.
+
+Files to install:
+- **Pip-Boy 2000 Mk VI replacer version** (Main files)
+- **Working date and clock for replacer** (Optional files)
+
+[**Pip-Boy 2000 Mk VI Working Buttons**](https://www.nexusmods.com/newvegas/mods/75268)  
+Makes the Pip-Boy 2000 Mk VI's buttons functional. Mod by **AleksMarch**.
+
+[**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
+Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+
+[**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
+Gives the Pip-Boy 2000 Mk VI a grittier texture.
+
 ### Environment
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
@@ -761,9 +780,40 @@ Adds extra meshes for LOD generation.
 [**Much Needed LOD YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
 
+[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
+Adds visible Strip signs and moves the Strip buildings to where they should be.
+
+Files to install:
+- **Better Strip View** (Main files)
+
+[**Better Strip View - More Subtle New Vegas Light Pollution Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
+Compatibility patch for More Subtle New Vegas Light Pollution.
+
+[**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
+Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
+
+Files to install:
+- **Hoover Dam Jets Restored and Distant** (Main files)
+- **HDJRaD - Much Needed LOD Patch** (Optional files)  
+
+[**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
+Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
+
+Files to install:
+- **Strip Lights Region Fix** (Main files)
+- **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)
+- **Strip Lights Region Fix - Uncut Wasteland** (Optional files)
+
+[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
+Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
+
+Files to install:
+- **Lucky 38 Lights Redone - Full Model** (Main files)
+- **Lucky 38 Lights Redone - Full Model - Better Strip View** (Optional files)
+
 ## GENERATED LOD
 
-[**FNVLODGen Output**](https://drive.google.com/file/d/12NDJu8vqal7z1AURhn1nuSBRv6TXpqnj/view?usp=sharing)  
+[**FNVLODGen Output Extended**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
 > ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
