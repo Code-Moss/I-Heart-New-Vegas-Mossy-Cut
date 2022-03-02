@@ -922,6 +922,7 @@ X | Melee bash | B42 Melee Bash
 	<summary>Click to expand</summary>
 
 03-02-2022
+- Moved the additional NVSE bug fixes, Pip-Boy related mods, and the additional LOD resources, into the main guide.
 - Updated **Desert Natural Weathers** installation instructions (Visuals).
 - Re-added **B42 Melee Bash** (Gameplay).
 - Added **Accurate NASA Stars** (Visuals).
