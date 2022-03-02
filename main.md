@@ -142,6 +142,26 @@ Custom configuration that enables many quality of life improvements, as well as 
 - Weapon mods can be unequipped.
 </details>
 
+### Additional NVSE bug fixes
+
+[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
+Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
+
+[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
+Fixes several problems at the core level with how ammo scripts and effects work. Includes other gameplay tweaks.
+
+[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
+Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility. Includes other gameplay tweaks.
+
+[**Melee VATS Animation Restoration**](https://www.nexusmods.com/newvegas/mods/73480)  
+Brings VATS melee animations back from Fallout 3.
+
+[**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
+Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. Includes other gameplay tweaks.
+
+[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
+Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
+
 ### Mesh fixes and optimization
 
 [**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
