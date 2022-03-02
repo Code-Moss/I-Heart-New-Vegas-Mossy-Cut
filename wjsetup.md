@@ -2,7 +2,7 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# NEW VEGAS SETUP
+# NEW VEGAS WABBAJACK SETUP
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/8064e94210b0914d6edbf0790d145e40d0c1890da78130c3d3c28f18bdae483e_bg_crop_1920x655.jpg)
 
