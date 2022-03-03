@@ -1,6 +1,6 @@
-# LEFT MY HEART IN NEW VEGAS: A Fallout: New Vegas Modding Guide
+# I HEART NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: March 2nd, 2022.
+Last updated: March 3rd, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.jpg)
 
@@ -18,7 +18,7 @@ I want to thank all users who have supported my [**Morrowind Sharp**](https://gi
 
 ## About
 
-**Left My Heart In New Vegas** is a modular modding guide for **Fallout: New Vegas**. It addresses a number of significant issues with the game:
+**I Heart New Vegas** is a modular modding guide for **Fallout: New Vegas**. It addresses a number of significant issues with the game:
 
 - Bugs and stability: includes all major bug fixes released for the game so far, and a handful of minor, purist bug fixes that are entirely optional.
 - Consolized user interface: improved readability and functionality, ironed out inconsistencies between carried over and new assets.
@@ -36,10 +36,10 @@ What this guide doesn't do:
 - Nitpick over individual meshes or textures: unless it's an actual fix, this guide won't bother. And even then, it probably won't bother either.
 - Improve the meshes and textures of everything I can: this alone can add another 50 or 100 mods to any install, and inconsistency will sooner than later rear its ugly head.
 
-This guide is split in two sections:
+There are two ways to follow this guide:
 
-- [**Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md). Includes setting up utilities and tools, as well as Mod Organizer 2. This section will be useful to anyone deciding to get into Fallout: New Vegas.
-- [**Main**](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md). Includes all mods we will be installing, including instructions for mod and load order, conflict resolution, configuration, and LOD generation.
+- [**Wabbajack Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/wjsetup.md). The recommended way, automated and estimated to take no longer than 1 hour, of which most of the time will be spent leaving Wabbajack running and allowing it to download, extract, and install mods. Some manual tasks will be left up to the user, but they are in the minority. Includes the standard modlist as well as an expanded version, set up in different profiles for ease of selection.
+- [**Manual Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md). The classic way, estimated to take around 3 to 4 hours. The first section (Setup) will list the installation of Fallout: New Vegas, the setup of utilities and tools, with the second section devoted to the installation and configuration of mods.
 
 I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
 
@@ -60,14 +60,6 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ## Frequently asked questions
 
-### Is this guide compatible with A World of Pain/Strip Open/Freeside Open?
-
-My guess is no. At any rate, I wouldn't bother with those mods unless you enjoy conflict solving, or breaking your save on uninstallation.
-
-### Is this mod compatible with the guide?
-
-I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in **FNVEdit**. 
-
 ### How many plugins and mods are there?
 
 There are roughly 140 mods and 110 plugins total.
@@ -76,15 +68,19 @@ Unfortunately a lot of patching is required since many mods do not include fixes
 
 ### How much space do I need to install these mods?
 
-Roughly 5GB.
-
-### How much time will it take me to install all mods?
-
-Depends on how thorough you are about it. It shouldn't take you longer than three hours to set everything up. Even then, I don't suggest installing everything in one go. Resist the urge to rush through this guide. It's better to pace yourself, make sure everything is set up correctly. It will save you headaches down the road.
+Roughly 13GB.
 
 ### How often is the guide updated?
 
-Left My Heart In New Vegas is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
+I Heart New Vegas is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
+
+### Is this guide compatible with A World of Pain/Strip Open/Freeside Open?
+
+My guess is no. At any rate, I wouldn't bother with those mods unless you enjoy conflict solving, or breaking your save on uninstallation.
+
+### Is (X) mod compatible with I Heart New Vegas?
+
+I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in **FNVEdit**. 
 
 ### Do you have a Patreon I can contribute to?
 
