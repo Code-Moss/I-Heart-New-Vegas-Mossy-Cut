@@ -120,54 +120,47 @@ SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textu
 
 # IN-GAME CONFIGURATION
 
-It's time to finally run Morrowind.
+It's time to finally run Fallout: New Vegas.
 
-- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
+- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **New Vegas**. 
 - Click **Run** to run the executable.
 
-> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
-
-- Once the game has finished loading, click **Options** and click the **Video** tab.
-- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
-- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
-- Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
-
-> ⚠️ If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
-
-> ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
+> Always remember to run Fallout: New Vegas through Mod Organizer 2 to detect the Virtual Files folder, and thus load the installed mods.
 
 # MOD KEYBINDINGS
 
-This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
+This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you.
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-K | Orders followers to attack the current target | Kill Command
-L | Equips lockpicks | Security Enhanced
-P | Equips probes | Security Enhanced
-C | Equips light sources | Torch Hotkey
-V | Opens shader controller | MGE XE Shader Pack
-Up/Down | Scrolls through shaders on the shader controller menu | MGE XE Shader Pack
-Left/Right | Disables/enables shaders on the shader controller menu | MGE XE Shader Pack
-Alt + F4 | Creates a permanent save | Sophisticated Save System
-Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
-Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
-Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-E+Left Click | Equips/unequips item in inventory | Quick Equip
-E+Left Click | Use potion/ingredient in inventory | Quick Equip
-Shift+Left Click | Highlight a quest / Hide a quest / Unhide a quest | Better Questlist
+F6 | Create full save | lStewieAl's Tweaks
+F10 | Reload current loaded save | lStewieAl's Tweaks
+Left ALT | Skip player deathcam when dying | lStewieAl's Tweaks
+R (double tap) | Switch ammunition | lStewieAl's Tweaks
+I | Toggle HUD | lStewieAl's Tweaks
+J | Open Pip-Boy quests tab | lStewieAl's Tweaks
+Hold Tab | Toggle scope night vision when aiming down the scope | lStewieAl's Tweaks
+M | Open Pip-Boy world map tab | lStewieAl's Tweaks
+Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
+Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks
+Shift+E | Pick up and equip | lStewieAl's Tweaks
+Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
+G | Equip/unequip grenade/mine | Quick Grenade Hotkey
+C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
+H | Open weapon wheel | Just Assorted Mods
+V | Toggle bullet time | Just Assorted Mods
+Shift+Movement | Sprint | Just Assorted Mods
+X | Melee bash | B42 Melee Bash
 
 # MOD ORGANIZER 2 PROFILES
 
-Morrowind Sharp is offered in two versions:
-- The standard **Morrowind Sharp** profile.
-- The extended **Morrowind Sharper** profile.
+I Heart New Vegas is offered in two versions:
+- The standard **I Heart New Vegas** profile.
+- The extended **I Heart New Vegas Extended** profile.
 
-The first profile is a great modlist for anyone getting their feet wet in Morrowind. It includes the most relevant bug fixes, user interface improvements, quality of life additions, basic gameplay and balance overhauls, and vanilla-friendly visual and audio touch ups. It doesn't make any significant change to the way the game is played.
+The second profile expands on I Heart New Vegas' base install. It adds a selection of minor mods that I would have loved to include in **Misc Immersion Merge**. It also adds modern, high quality body replacers.
 
-The second profile expands on Morrowind Sharp. It adds many minor bug fixes and user interface improvements, many more gameplay tweaks and major gameplay and balance overhauls. It also expands on the selection of visual and audio mods, in particular expanding the sound aspect of the game with new sounds and an entirely new music soundtrack.
-
-Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **Morrowind Sharper** to **Morrowind Sharp**.
+Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **I Heart New Vegas Extended** to **I Heart New Vegas**.
 
 ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/ProfileSelection.png)
 
