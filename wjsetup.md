@@ -112,7 +112,7 @@ All these aforementioned tools and utilities have been downloaded and their file
 
 - Execute **FNV BSA Decompressor.exe**, found in your **Fallout New Vegas** folder.
 - Select **C:\Games\Fallout New Vegas** as the path to your New Vegas installation, and click **Decompress**.
-- **Exit** the program once the process is done.
+- Wait for the **Decompression has completed!** message, then click **EXIT**.
 
 > ℹ️ This utility will add the following lines to your **Fallout.ini** file. If you ever encountering missing meshes in-game (in the form of red exclamation marks), make sure these lines are still present in your .ini.
 ```
