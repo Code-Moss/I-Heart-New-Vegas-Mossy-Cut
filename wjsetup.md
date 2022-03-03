@@ -159,12 +159,10 @@ The following settings need to be configured after you've already started a new 
 - Set **Grenade Swap Hotkey** to **C**.
 
 **RAD**:
-- Enable **Hardcore**.
-- Enable **Alternate**.
-- Enable **Incremental**.
-- Enable **JSawyer Incremental**.
+- Set **Hardcore** to **ON**.
+- Set **JSawyer Increments** to **ON**.
 
-> ℹ️ Sleep deprivation affects max AP; makes all needs affect max AP, with sleep deprivation setting in later than hunger and thirst; makes needs affect max AP at rates similar to how needs cause stat penalties; makes the former setting follow JSawyer's stat penalties progression.
+> ℹ️ Sleep deprivation, hunger, and thirst will affect max AP; makes the former setting follow JSawyer's stat penalties progression.
 
 # MOD KEYBINDINGS
 
