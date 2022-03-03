@@ -126,7 +126,7 @@ SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textu
 
 ## New Vegas Heap Replacer setup
 
-- Execute **cpu_info.exe**, found in your **Fallout New Vegas** folder.
+- Execute **cpu_info.exe**, found in your **Fallout New Vegas\NVHR** folder.
 - Place the d3dx9_38.dll file from the corresponding folder (pointed out by the executable) inside your **Fallout New Vegas** folder.
 
 # IN-GAME CONFIGURATION
