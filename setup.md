@@ -157,7 +157,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
   - [X] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Left My Heart In New Vegas** and click **OK**.
+- With the **Default** profile selected, click **Copy**. Type in **I Heart New Vegas** and click **OK**.
 - Click on the newly created profile, and click **Select**. The window will close, and the new profile should have been automatically selected.
 
 > ℹ️ This is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
