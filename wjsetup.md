@@ -56,7 +56,7 @@ This tool is invaluable for setting up I Heart New Vegas, drastically reducing t
 
 ## Installation
 
-[**I Heart New Vegas Wabbajack**](https://drive.google.com/drive/folders/1UN3IGnf9ZQLbyemHoxtT78cynmS2v9yB?usp=sharing)  
+[**I Heart New Vegas Wabbajack**](https://drive.google.com/drive/folders/1GzS2b1TtYWgCZ57vuk8D9520kJ2dsTEH?usp=sharing)  
 The official Wabbajack files for I Heart New Vegas.
 - Download the file and extract its contents to your **C:\Games** folder.
 
