@@ -21,7 +21,7 @@ All files installed from a same Nexus page should be merged into a single mod wh
 
 By default, this guide will always require you to download the main file. On the occasion more specific instructions are required (e.g. multiple main files are present and you need directions, or additional files need to be installed) they will be provided.
 
-# LEFT MY HEART IN NEW VEGAS
+# I HEART NEW VEGAS
 
 ## xNVSE PLUGINS
 
@@ -823,8 +823,8 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 ### Mod order and load order
 
 [**I Heart New Vegas MO2 Profile Files**](https://github.com/Sigourn/iheartnewvegas/blob/main/I%20Heart%20New%20Vegas%20MO2%20Profile%20Files.7z)  
-Adjusts mod order and load order for Left My Heart In New Vegas to work as intended.
-- Extract the files into **C:\Games\Fallout New Vegas Mods\MO2\profiles\Left My Heart In New Vegas**, overwriting when prompted.
+Adjusts mod order and load order for I Heart New Vegas to work as intended.
+- Extract the files into **C:\Games\Fallout New Vegas Mods\MO2\profiles\I Heart New Vegas**, overwriting when prompted.
 
 > ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
  
