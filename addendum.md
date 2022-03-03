@@ -6,9 +6,9 @@
 
 # DISCLAIMER
 
-The guide presented here is an extension to the [**Main**](https://github.com/Sigourn/iheartnewvegas/blob/master/main.md) Left My Heart In New Vegas guide. It includes optional mods that are not present in **Main** for the sake of streamlining. Feel free to follow this guide in parallel to the main document, or, if you wish, follow it after finishing the main document. The correct mod order and load order, as well as slightly different **Finishing touches** instructions will be found at the end of this guide.
+The guide presented here is an extension to the [**Main**](https://github.com/Sigourn/iheartnewvegas/blob/master/main.md) I Heart New Vegas guide. It includes optional mods that are not present in **Main** for the sake of streamlining. Feel free to follow this guide in parallel to the main document, or, if you wish, follow it after finishing the main document. The correct mod order and load order, as well as slightly different **Finishing touches** instructions will be found at the end of this guide.
 
-# LEFT MY HEART IN NEW VEGAS ADDENDUM
+# I HEART NEW VEGAS ADDENDUM
 
 ## MISC IMMERSION MERGE ADD-ON
 
@@ -151,8 +151,8 @@ Less skimpy Prostitute outfits and less goofy Reinforced Combat Armors.
 ### Mod order and load order
 
 [**I Heart New Vegas MO2 Profile Files**](https://github.com/Sigourn/iheartnewvegas/blob/main/I%20Heart%20New%20Vegas%20MO2%20Profile%20Files.7z)  
-Adjusts mod order and load order for Left My Heart In New Vegas to work as intended.
-- Extract the files into **C:\Games\Fallout New Vegas Mods\MO2\profiles\Left My Heart In New Vegas**, overwriting when prompted.
+Adjusts mod order and load order for I Heart New Vegas to work as intended.
+- Extract the files into **C:\Games\Fallout New Vegas Mods\MO2\profiles\I Heart New Vegas**, overwriting when prompted.
 
 > ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
  
