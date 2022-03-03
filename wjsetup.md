@@ -129,6 +129,34 @@ It's time to finally run Fallout: New Vegas.
 
 > Always remember to run Fallout: New Vegas through Mod Organizer 2 to detect the Virtual Files folder, and thus load the installed mods.
 
+### Settings config
+
+The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
+
+**Gameplay**:
+- Set **Killcam Mode** to None.
+- Set **Difficulty** to Hard.
+
+**Controls -> Action Mapping**:
+- Set **VATS** to Esc in order to disable the keybinding.
+- Set **Ammo Swap** to Esc in order to disable the keybinding.
+
+### MCM config
+
+The following settings need to be configured after you've already started a new save, using the in-game **Mod Configuration** option.
+
+**Quick Grenade Hotkey**:
+- Set **Grenade Hotkey** to **G**.
+- Set **Grenade Swap Hotkey** to **C**.
+
+**RAD**:
+- Enable **Hardcore**.
+- Enable **Alternate**.
+- Enable **Incremental**.
+- Enable **JSawyer Incremental**.
+
+> ℹ️ Sleep deprivation affects max AP; makes all needs affect max AP, with sleep deprivation setting in later than hunger and thirst; makes needs affect max AP at rates similar to how needs cause stat penalties; makes the former setting follow JSawyer's stat penalties progression.
+
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you.
