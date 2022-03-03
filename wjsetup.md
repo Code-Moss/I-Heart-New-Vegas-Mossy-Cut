@@ -99,6 +99,8 @@ The [**New Vegas Script Extender (xNVSE)**](https://github.com/xNVSE/NVSE/releas
 
 All these aforementioned tools and utilities have been downloaded and their files placed inside the **I Heart New Vegas\Game Folder Files** folder.
 
+![GameFolderFiles](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/gameFolderFiles.png)
+
 - Copy the contents of **I Heart New Vegas\Game Folder Files** and paste them inside the **Fallout New Vegas** folder.
 - Allow merge and overwrite when prompted.
 
@@ -162,7 +164,7 @@ The second profile expands on I Heart New Vegas' base install. It adds a selecti
 
 Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **I Heart New Vegas Extended** to **I Heart New Vegas**.
 
-![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/ProfileSelection.png)
+![Profiles](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/profileSelection.png)
 
 # CHANGELOG
 
