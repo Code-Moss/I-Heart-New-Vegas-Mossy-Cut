@@ -1,4 +1,4 @@
-[<< Back to Readme](https://github.com/Sigourn/iheartnewvegas/blob/main/readme.md)  
+[<< Back to Readme](https://github.com/Sigourn/iheartnewvegas/blob/main/README.md)  
 [<< Back to Setup](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md)  
 [<< Back to Main](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)
 
@@ -158,6 +158,6 @@ Adjusts mod order and load order for I Heart New Vegas to work as intended.
  
 > ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
-[<< Back to Readme](https://github.com/Sigourn/iheartnewvegas/blob/main/readme.md)  
+[<< Back to Readme](https://github.com/Sigourn/iheartnewvegas/blob/main/README.md)  
 [<< Back to Setup](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md)  
 [<< Back to Main](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)
