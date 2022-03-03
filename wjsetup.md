@@ -77,6 +77,8 @@ C:\Games\I Heart New Vegas
 ```
 - With our modlist configured, click the play button to the right.
 
+> ⚠️ If at any point the installation process fails because of Wabbajack being unable to download **FNVLODGen Output Extended**, manually download the file from [**Google Drive**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing) and place the file in your **I Heart New Vegas\downloads** folder. Resume the installation process afterwards.
+
 > ℹ️ The installation process, which includes download, extraction, and installation of mods and required tool, can take anywhere from 20 minutes to an hour. Once the process is finished, as indicated by the log, you can close **Wabbajack**. It is encouraged that you take this time to check out the mod slideshow, as it will give you an idea of what mods are included in the guide.
 
 > ℹ️ You can safely delete the installer we downloaded in the first step. It is of no use to us anymore.
@@ -88,6 +90,8 @@ C:\Games\I Heart New Vegas
 The [**FNV BSA Decompressor**](https://www.nexusmods.com/newvegas/mods/65854?) decompresses the Fallout New Vegas BSAs and repacks them without zlib compression for performance. It also transcodes the .ogg sounds effects to .wav so they work, and extracts any mp3 files to loose files because they will not play when in a BSA.
 
 The [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?) makes Fallout New Vegas 4GB Aware. It also automatically loads NVSE if present.
+
+The [**New Vegas Heap Replacer**](https://www.nexusmods.com/newvegas/mods/69779) will replace the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate.
 
 The [**New Vegas Script Extender (xNVSE)**](https://github.com/xNVSE/NVSE/releases) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
 
@@ -119,6 +123,11 @@ SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textu
 
 - Execute **FalloutNVpatch.exe**, found in your **Fallout New Vegas** folder.
 - Run the patch. Close the command prompt once the process is done.
+
+## New Vegas Heap Replacer setup
+
+- Execute **cpu_info.exe**, found in your **Fallout New Vegas** folder.
+- Place the d3dx9_38.dll file from the corresponding folder (pointed out by the executable) inside your **Fallout New Vegas** folder.
 
 # IN-GAME CONFIGURATION
 
