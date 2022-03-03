@@ -136,11 +136,11 @@ It's time to finally run Fallout: New Vegas.
 - In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **New Vegas**. 
 - Click **Run** to run the executable.
 
-> Always remember to run Fallout: New Vegas through Mod Organizer 2 to detect the Virtual Files folder, and thus load the installed mods.
+> ℹ️ Always remember to run Fallout: New Vegas through Mod Organizer 2 to detect the **Virtual Files** folder, and thus load the installed mods.
 
 ### Settings config
 
-The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
+> ℹ️ The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
 
 **Gameplay**:
 - Set **Killcam Mode** to None.
@@ -152,7 +152,7 @@ The following settings need to be configured after you've already started a new 
 
 ### MCM config
 
-The following settings need to be configured after you've already started a new save, using the in-game **Mod Configuration** option.
+> ℹ️ The following settings need to be configured after you've already started a new save, using the in-game **Mod Configuration** option.
 
 **Quick Grenade Hotkey**:
 - Set **Grenade Hotkey** to **G**.
