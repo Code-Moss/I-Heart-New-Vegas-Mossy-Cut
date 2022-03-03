@@ -717,8 +717,8 @@ Files to install:
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
 
 Files to install:
-- **Desert Natural Weathers 2.6** (Main files)
-- **Desert Natural Weathers 2.8.1** (Update files)
+- **Desert Natural Weathers 3.0** (Main files)
+- **Desert Natural Weathers 3.0 Hotfix** (Update files)
 - **Restore fake interior godrays.** (Optional files)
 
 [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
@@ -920,8 +920,9 @@ X | Melee bash | B42 Melee Bash
 	<summary>Click to expand</summary>
 
 03-03-2022
-- Updated **RAD** MCM config instructions (**MCM Config**.
-	
+- Updated **Desert Natural Weathers** installation instructions (Visuals).
+- Updated **RAD** MCM config instructions (**MCM Config**).
+
 03-02-2022
 - Moved the additional NVSE bug fixes, Pip-Boy related mods, and the additional LOD resources, into the main guide. Now only one FNVLODGen Output is provided as a result.
 - Moved FNVLODGen instructions to the bottom of **Finishing Touches**, as it's the only thing that's entirely optional about that section.
