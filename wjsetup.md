@@ -248,6 +248,6 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 
 03-03-2022
 - 1.0.0
-- Initial release. Includes addendum with additional mods and body replacers.
+- Initial release.
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)
