@@ -724,14 +724,23 @@ Files to install:
 [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
 Adds vanilla ambient music to the Zion worldspace.
 
-[**HD Moon 2K - Dark Side of the Moon**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/HD%20Moon%202K%20-%20Dark%20Side%20of%20the%20Moon.7z)  
+[**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/74022?)  
 High quality retexture of the moon using NASA satellite images.
+
+Files to install:
+- **HD NASA Moon 2k - Dark Side of the Moon Uncompressed** (Main files)
 
 [**Accurate NASA Stars**](https://www.nexusmods.com/newvegas/mods/75522)  
 Star texture and mesh using NASA satellite images to create a real-world accurate starfield.
 
 Files to install:
 - **Accurate Stars 4k** (Main files)
+
+[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
+Fixes the bright night sky horizons.
+
+Files to install:
+- **Night Sky Tweaks (Script Runner)** (Main files)
 
 [**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
 High resolution retexture for mist.
@@ -741,12 +750,6 @@ Files to install:
 
 [**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
 High resolution retexture for dust storms.
-
-[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
-Fixes the bright night sky horizons.
-
-Files to install:
-- **Night Sky Tweaks (Script Runner)** (Main files)
 
 ## LOD RESOURCES
 
