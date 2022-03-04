@@ -203,9 +203,13 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 
 # CHANGELOG
 
+03-04-2022
+- Updated **Just Assorted Mods Custom INI** (Gameplay).
+- Updated **Desert Natural Weathers** (Visuals) for latest Nexus release.
+
 03-03-2022
 - Official release. Includes addendum with additional mods and body replacers.
-- Updated **Desert Natural Weathers** for latest Nexus release.
+- Updated **Desert Natural Weathers** (Visuals) for latest Nexus release.
 
 03-02-2022
 - Pre-release.
