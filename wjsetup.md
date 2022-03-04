@@ -235,6 +235,11 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 # CHANGELOG
 
 03-04-2022
+- 1.0.4 Hotfix.
+- Added missing **Restore Fake Interior Godrays** file for **Desert Natural Weathers** (Visuals).
+- Updated **HD Moon 2K - NASA Satellite Images** (Visuals) for latest Nexus release.
+
+03-04-2022
 - 1.0.3 Hotfix.
 - Updated **Desert Natural Weathers** (Visuals) for latest Nexus release.
 
