@@ -235,14 +235,19 @@ Which one you choose to use is up to you. To select profiles, click the **Profil
 # CHANGELOG
 
 03-04-2022
+- 1.0.3 Hotfix.
+- Updated **Desert Natural Weathers** (Visuals) for latest Nexus release.
+
+03-04-2022
+- 1.0.2 Hotfix.
 - Updated **Just Assorted Mods Custom INI** (Gameplay).
+
+03-03-2022
+- 1.0.1 Hotfix.
 - Updated **Desert Natural Weathers** (Visuals) for latest Nexus release.
 
 03-03-2022
-- Official release. Includes addendum with additional mods and body replacers.
-- Updated **Desert Natural Weathers** (Visuals) for latest Nexus release.
-
-03-02-2022
-- Pre-release.
+- 1.0.0
+- Initial release. Includes addendum with additional mods and body replacers.
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)
