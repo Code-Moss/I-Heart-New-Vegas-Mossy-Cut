@@ -224,15 +224,25 @@ X | Melee bash | B42 Melee Bash
 
 I Heart New Vegas is offered in two versions:
 - The standard **I Heart New Vegas** profile.
-- The extended **I Heart New Vegas Extended** profile.
+- The extended **I Heart New Vegas Addendum** profile.
 
 The second profile expands on I Heart New Vegas' base install. It adds a selection of minor mods that I would have loved to include in **Misc Immersion Merge**. It also adds modern, high quality body replacers.
 
-Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **I Heart New Vegas Extended** to **I Heart New Vegas**.
+Additionally, both profiles featured **Altitude**-based profiles. These replace **Desert Natural Weathers** with a more purist-friendly weather overhaul.
+
+Which one you choose to use, standard or addendum, is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **I Heart New Vegas Addendum** to **I Heart New Vegas**.
 
 ![Profiles](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/profileSelection.png)
 
 # CHANGELOG
+
+03-05-2022
+- 1.1.0.
+- Added alternative profiles which use **Altitude** instead of **Desert Natural Weathers**. This covers both the standard and addendum profiles.
+- Added **Elegant Sunglare Retexture** to the Altitude profiles.
+- Updated **Essential DLC Enhancements** (Gameplay).
+- Updated **Desert Natural Weathers** (Visuals).
+- Removed **HD Moon 2K** (Visuals) from the non-Altitude profiles. The latest update of **Desert Natural Weathers** finally fixes the white outline bug on the Moon, so it is no longer needed.
 
 03-04-2022
 - 1.0.5 Hotfix.
