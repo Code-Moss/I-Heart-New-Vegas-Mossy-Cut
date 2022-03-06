@@ -717,18 +717,12 @@ Files to install:
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
 
 Files to install:
-- **Desert Natural Weathers 3.0** (Main files)
-- **Desert Natural Weathers 3.0 Hotfix** (Update files)
+- **Desert Natural Weathers 3.2** (Main files)
+- **3.2 Hotfix 2** (Update files)
 - **Restore fake interior godrays.** (Optional files)
 
 [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
 Adds vanilla ambient music to the Zion worldspace.
-
-[**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/74022?)  
-High quality retexture of the moon using NASA satellite images.
-
-Files to install:
-- **HD NASA Moon 2k - Dark Side of the Moon Uncompressed** (Main files)
 
 [**Accurate NASA Stars**](https://www.nexusmods.com/newvegas/mods/75522)  
 Star texture and mesh using NASA satellite images to create a real-world accurate starfield.
@@ -921,6 +915,10 @@ X | Melee bash | B42 Melee Bash
 
 <details>
 	<summary>Click to expand</summary>
+
+03-05-2022
+- Updated **Desert Natural Weathers** installation instructions (Visuals).
+- Removed **HD Moon 2K** (Visuals). The latest update of **Desert Natural Weathers** finally fixes the white outline bug on the Moon, so it is no longer needed.
 
 03-03-2022
 - Updated **Desert Natural Weathers** installation instructions (Visuals).
