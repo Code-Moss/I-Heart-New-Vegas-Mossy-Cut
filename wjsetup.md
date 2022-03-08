@@ -236,6 +236,14 @@ Which one you choose to use, standard or addendum, is up to you. To select profi
 
 # CHANGELOG
 
+03-07-2022
+- 1.1.1.
+- Hid **NVSE** executable on MO2.
+- Fixed Google Drive link to **FNVLODGen Output Extended**.
+- Updated **yUI - User Ynterface**.
+- Updated **ySI - Sorting Ycons**.
+- Updated **Desert Natural Weathers**.
+
 03-05-2022
 - 1.1.0.
 - Added alternative profiles which use **Altitude** instead of **Desert Natural Weathers**. This covers both the standard and addendum profiles.
