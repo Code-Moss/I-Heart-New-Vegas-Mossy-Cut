@@ -237,6 +237,10 @@ Which one you choose to use, standard or addendum, is up to you. To select profi
 # CHANGELOG
 
 03-07-2022
+- 1.1.2 Hotfix.
+- Updated **Desert Natural Weathers - Zion Ambient Music**.
+
+03-07-2022
 - 1.1.1.
 - Hid **NVSE** executable on MO2.
 - Fixed Google Drive link to **FNVLODGen Output Extended**.
