@@ -236,6 +236,12 @@ Which one you choose to use, standard or addendum, is up to you. To select profi
 
 # CHANGELOG
 
+03-08-2022
+- 1.1.3.
+- Hopefully fixed Google Drive link to **FNVLODGen Output Extended**, now renamed to **I Heart New Vegas LOD**.
+- Updated **Desert Natural Weathers**.
+- Added **Desert Natural Weathers Custom INI**. Disables interior tint fix and increases sunlight during the day.
+
 03-07-2022
 - 1.1.2 Hotfix.
 - Updated **Desert Natural Weathers - Zion Ambient Music**.
