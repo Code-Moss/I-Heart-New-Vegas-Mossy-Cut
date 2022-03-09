@@ -250,6 +250,10 @@ Less skimpy Wasteland Wanderer and Raider outfits.
 
 # CHANGELOG
 
+03-04-2022
+- 1.1.4 Hotfix.
+- Fixed **Desert Natural Weathers Custom INI** not installing as intended, causing the custom INI to not work at all.
+
 03-08-2022
 - 1.1.3.
 - Hopefully fixed Google Drive link to **FNVLODGen Output Extended**, now renamed to **I Heart New Vegas LOD**.
