@@ -717,9 +717,11 @@ Files to install:
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
 
 Files to install:
-- **Desert Natural Weathers 3.2** (Main files)
-- **3.2 Hotfix 2** (Update files)
+- **Desert Natural Weathers 3.3.5** (Main files)
 - **Restore fake interior godrays.** (Optional files)
+
+[**Desert Natural Weathers Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20Custom%20INI.7z)  
+Disables interior tint fix and increases sunlight during the day.
 
 [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
 Adds vanilla ambient music to the Zion worldspace.
@@ -916,6 +918,9 @@ X | Melee bash | B42 Melee Bash
 <details>
 	<summary>Click to expand</summary>
 
+03-09-2022
+- Updated **Desert Natural Weathers** installation instructions (Visuals).
+	
 03-05-2022
 - Updated **Desert Natural Weathers** installation instructions (Visuals).
 - Removed **HD Moon 2K** (Visuals). The latest update of **Desert Natural Weathers** finally fixes the white outline bug on the Moon, so it is no longer needed.
