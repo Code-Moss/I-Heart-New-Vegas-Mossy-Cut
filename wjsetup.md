@@ -164,37 +164,6 @@ It's time to finally run Fallout: New Vegas.
 
 > ℹ️ Sleep deprivation, hunger, and thirst will affect max AP; makes the former setting follow JSawyer's stat penalties progression.
 
-# MODS YOU SHOULD KNOW ABOUT
-
-As an automated Wabbajack setup, it is important to know about a handful of mods which will drastically affect your Fallout: New Vegas experience. This is to let you know in advance which tweaks and features are intended, evacuate some doubts that may arise during gameplay, as well as help you decide whether they are something you want to play with. Note that this is not a comprehensive list of all mods included in the guide. For that, [**please refer to this link**](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md).
-
-[**The Mod Configuration Menu**](https://www.nexusmods.com/newvegas/mods/42507)  
-Allows any number of mods to be configured from a single menu, accessible through the Pause menu.
-
-[**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
-Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
-
-[**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
-Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
-
-[**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
-A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
-
-[**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
-Makes radiation work like in Fallout 4, by damaging your max health.
-
-[**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
-Completely reconstructed version of Josh Sawyer's mod, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
-
-[**Famine - A Loot Rarity Mod**](https://www.nexusmods.com/newvegas/mods/74985)  
-Simple and comprehensive loot scarcity mod using event-based scripting.
-
-[**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
-Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
-
-[**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
-Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
-
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you.
@@ -233,6 +202,51 @@ Additionally, both profiles featured **Altitude**-based profiles. These replace 
 Which one you choose to use, standard or addendum, is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **I Heart New Vegas Addendum** to **I Heart New Vegas**.
 
 ![Profiles](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/profileSelection.png)
+
+# MODS YOU SHOULD KNOW ABOUT
+
+As an automated Wabbajack setup, it is important to know about a handful of mods which will drastically affect your Fallout: New Vegas experience. This is to let you know in advance which tweaks and features are intended, evacuate some doubts that may arise during gameplay, as well as help you decide whether they are something you want to play with. Note that this is not a comprehensive list of all mods included in the guide. For that, [**please refer to this link**](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md).
+
+[**The Mod Configuration Menu**](https://www.nexusmods.com/newvegas/mods/42507)  
+Allows any number of mods to be configured from a single menu, accessible through the Pause menu.
+
+[**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
+Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
+
+[**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
+Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
+
+[**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
+A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
+
+[**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
+Makes radiation work like in Fallout 4, by damaging your max health.
+
+[**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
+Completely reconstructed version of Josh Sawyer's mod, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
+
+[**Famine - A Loot Rarity Mod**](https://www.nexusmods.com/newvegas/mods/74985)  
+Simple and comprehensive loot scarcity mod using event-based scripting.
+
+[**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
+Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
+
+[**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
+Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
+
+The **Addendum** profile adds body replacers. By default, these body replacers will have underwear, as well as reduced nudity in the case of female body replacers. You can choose to disable these options by deactivating a number of mods in the profile. These mods are:
+
+[**Improved Vanilla Male Body - Underwear**](https://www.nexusmods.com/newvegas/mods/70160)  
+Patches **Improved Vanilla Male Body** to add underwear.
+
+[**More Modest TYPE4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
+Less skimpy outfits for many TYPE4 outfits.
+
+[**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
+Fixes mismatching textures on a number of More Modest TYPE4 outfits.
+
+[**TYPE4 Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993)  
+Less skimpy Wasteland Wanderer and Raider outfits.
 
 # CHANGELOG
 
