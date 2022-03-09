@@ -251,8 +251,9 @@ Less skimpy Wasteland Wanderer and Raider outfits.
 # CHANGELOG
 
 03-04-2022
-- 1.1.4 Hotfix.
+- 1.1.4.
 - Fixed **Desert Natural Weathers Custom INI** not installing as intended, causing the custom INI to not work at all.
+- Updated **RAD - Radiation (is) Actually Dangerous - Overhaul**.
 
 03-08-2022
 - 1.1.3.
