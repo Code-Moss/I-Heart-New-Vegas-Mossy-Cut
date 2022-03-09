@@ -234,7 +234,7 @@ Fully-scripted, lightweight, and compatible item value overhaul, taking into con
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
-The **Addendum** profile adds body replacers. By default, these body replacers will have underwear, as well as reduced nudity in the case of female body replacers. You can choose to disable these options by deactivating a number of mods in the profile. These mods are:
+> ℹ️ The **Addendum** profile adds body replacers. By default, these body replacers will have underwear, as well as reduced nudity in the case of female body replacers. You can choose to disable these options by deactivating a number of mods in the profile. These mods are:
 
 [**Improved Vanilla Male Body - Underwear**](https://www.nexusmods.com/newvegas/mods/70160)  
 Patches **Improved Vanilla Male Body** to add underwear.
