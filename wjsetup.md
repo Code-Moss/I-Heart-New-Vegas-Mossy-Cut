@@ -192,14 +192,10 @@ X | Melee bash | B42 Melee Bash
 # MOD ORGANIZER 2 PROFILES
 
 I Heart New Vegas is offered in two versions:
-- The standard **I Heart New Vegas** profile.
-- The extended **I Heart New Vegas Addendum** profile.
+- The **I Heart New Vegas** profile, based on [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437?).
+- The **I Heart New Vegas (Altitude)** profile, based on [**Altitude - A Vanilla Plus Weather Mod**](https://www.nexusmods.com/newvegas/mods/71404), a purist-friendly weather overhaul.
 
-The second profile expands on I Heart New Vegas' base install. It adds a selection of minor mods that I would have loved to include in **Misc Immersion Merge**. It also adds modern, high quality body replacers.
-
-Additionally, both profiles featured **Altitude**-based profiles. These replace **Desert Natural Weathers** with a more purist-friendly weather overhaul.
-
-Which one you choose to use, standard or addendum, is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use. Make sure not to switch profiles on an ongoing save, in particular if going from **I Heart New Vegas Addendum** to **I Heart New Vegas**.
+Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use.
 
 ![Profiles](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/profileSelection.png)
 
@@ -234,21 +230,13 @@ Fully-scripted, lightweight, and compatible item value overhaul, taking into con
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
-> ℹ️ The **Addendum** profile adds body replacers. By default, these body replacers will have underwear, as well as reduced nudity in the case of female body replacers. You can choose to disable these options by deactivating a number of mods in the profile. These mods are:
-
-[**Improved Vanilla Male Body - Underwear**](https://www.nexusmods.com/newvegas/mods/70160)  
-Patches **Improved Vanilla Male Body** to add underwear.
-
-[**More Modest TYPE4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
-Less skimpy outfits for many TYPE4 outfits.
-
-[**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
-Fixes mismatching textures on a number of More Modest TYPE4 outfits.
-
-[**TYPE4 Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993)  
-Less skimpy Wasteland Wanderer and Raider outfits.
-
 # CHANGELOG
+
+03-10-2022
+- 1.2.0.
+- Merged **Addendum** into the main profile.
+- Added **Khans Friendly to Fiends**.
+- Updated **Character Expansions Revised Patches**.
 
 03-09-2022
 - 1.1.5.
