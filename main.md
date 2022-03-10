@@ -466,6 +466,13 @@ Compatibility patch for Weapon Mesh Improvement Mod.
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
 
+[**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
+Makes Fiends passive to Great Khans and the player when wearing Great Khan outfits. The cut dialogues for the fiend leaders have also been reactivated.
+
+Files to install:
+- **Khans Friendly to Fiends** (Main files)
+- **Mojave Raiders Patch** (Main files)
+
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 
@@ -606,11 +613,10 @@ Tones down the dust storm effect near the Hidden Valley bunkers.
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
-[**Character Expansions Revised - YUP - JSU - UW - MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20YUP%20-%20JSU%20-%20UW%20-%20MR.7z)  
-Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland, and Mojave Raiders.
-
-[**Character Expansions Revised - UW Extra Collection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20UW%20Extra%20Collection.7z)  
-Addendum compatibility patch for Uncut Wasteland Extra Collection.
+[**Character Expansions Revised Patches**](https://www.nexusmods.com/newvegas/mods/75268/?)  
+Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland and Extra Collection, Mojave Raiders, and Khans Friendly to Fiends.
+- BAIN options to install:
+  - [X] 00 AIO Complete
 
 [**Character Expansions Revised - FaceGen Tint Fix**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes colored tints on character faces.
@@ -917,6 +923,10 @@ X | Melee bash | B42 Melee Bash
 
 <details>
 	<summary>Click to expand</summary>
+
+03-10-2022
+- Re-added **Khans Friendly to Fiends** (Content).
+- Updated **Character Expansions Revised Patches** (Visuals) installation instructions.
 
 03-09-2022
 - Updated **Desert Natural Weathers** installation instructions (Visuals).
