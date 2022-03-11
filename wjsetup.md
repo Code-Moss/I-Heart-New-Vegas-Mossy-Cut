@@ -233,6 +233,12 @@ Improves the character creation by speeding up the process, adding specialized g
 # CHANGELOG
 
 03-10-2022
+- 1.2.1.
+- Updated **RAD - Radiation (is) Actually Dangerous - Overhaul**.
+- Updated **Mojave Arsenal**.
+- Updated **Character Expansions Revised Patches**.
+
+03-10-2022
 - 1.2.0.
 - Merged **Addendum** into the main profile.
 - Added **Khans Friendly to Fiends**.
