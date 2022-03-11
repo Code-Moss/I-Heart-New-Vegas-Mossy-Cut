@@ -62,7 +62,7 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How many plugins and mods are there?
 
-There are roughly 140 mods and 110 plugins total.
+There are 197 mods and 153 plugins total.
 
 Unfortunately a lot of patching is required since many mods do not include fixes from the unofficial patch and conflicts between mods are a common occurrence, drastically increasing the amount oF plugins required to solve issues.
 
