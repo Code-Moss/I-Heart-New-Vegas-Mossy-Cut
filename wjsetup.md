@@ -42,7 +42,8 @@ FalloutNV_lang.esp
 
 - Run **FalloutNVLauncher.exe** from the game's Root folder.
 - Click **OK** to both pop-ups that say **Detecting Video Hardware**. If there aren't any pop-ups, navigate to **Documents\My Games\FalloutNV** and delete all the files ending in .INI, then retry.
-- Click **Options**, then select the **Ultra** preset option. Set antialiasing to **8 Samples**. If you want to improve performance without drastically changing the game's visuals, disable shadows under the **Options**, **Shadows** tab. These are hardly noticeable but can have a considerable performance impact.
+- Click **Options**, then select the **Ultra** preset option. Set antialiasing to **8 Samples**.
+- If you want to improve performance without drastically changing the game's visuals, disable shadows under the **Advanced..**, **Shadows** tab. These are hardly noticeable but can have a considerable performance impact.
 - Set **Resolution** to your preference.
 - Click **OK**, then **Exit**.
 
