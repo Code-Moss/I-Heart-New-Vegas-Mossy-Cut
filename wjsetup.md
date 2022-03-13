@@ -78,7 +78,7 @@ C:\Games\I Heart New Vegas
 ```
 - With our modlist configured, click the play button to the right.
 
-> ⚠️ If at any point the installation process fails because of Wabbajack being unable to download **FNVLODGen Output Extended**, close Wabbajack. Manually download the file from [**Google Drive**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing) and place the file in your **I Heart New Vegas\downloads** folder, overwriting when prompted. Launch **Wabbajack.exe**, and click the **Install From Disk** button. You'll be able to resume installation by clicking the play button to the right.
+> ⚠️ If at any point the installation process fails because of Wabbajack being unable to download **I Heart New Vegas LOD**, close Wabbajack. Manually download the file from [**Google Drive**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing) and place the file in your **I Heart New Vegas\downloads** folder, overwriting when prompted. Launch **Wabbajack.exe**, and click the **Install From Disk** button. You'll be able to resume installation by clicking the play button to the right.
 
 > ℹ️ The installation process, which includes download, extraction, and installation of mods and required tool, can take anywhere from 20 minutes to an hour. Once the process is finished, as indicated by the log, you can close **Wabbajack**. It is encouraged that you take this time to check out the mod slideshow, as it will give you an idea of what mods are included in the guide.
 
