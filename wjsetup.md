@@ -224,6 +224,11 @@ Improves the character creation by speeding up the process, adding specialized g
 # CHANGELOG
 
 03-13-2022
+- 1.3.2.
+- Updated **OneTweak** with a F:NV-ready version.
+- Slightly tweaked mod and load order.
+
+03-13-2022
 - 1.3.1.
 - Properly excluded mods that shouldn't ship with Wabbajack.
 
