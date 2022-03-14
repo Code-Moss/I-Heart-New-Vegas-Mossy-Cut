@@ -1,6 +1,6 @@
 # I HEART NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: March 9th, 2022.
+Last updated: March 14th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.jpg)
 
@@ -15,6 +15,10 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 ## Acknowledgments
 
 I want to thank all users who have supported my [**Morrowind Sharp**](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md) modding guide. Their feedback, criticisms and insights have all been very valuable to me.
+
+## Disclaimer
+
+This is *not* a modding guide for beginners. If you've never played Fallout: New Vegas before, I recommend following the [**Viva New Vegas**](https://vivanewvegas.github.io/) modding guide. It has a fraction of the mods present here, and will take you considerably less time to follow and install appropriately.
 
 ## About
 
@@ -39,11 +43,9 @@ What this guide doesn't do:
 There are two ways to follow this guide:
 
 - [**Wabbajack Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/wjsetup.md). The recommended way, automated and estimated to take no longer than 1 hour, of which most of the time will be spent leaving Wabbajack running and allowing it to download, extract, and install mods. Some manual tasks will be left up to the user, but they are in the minority. Includes the standard modlist as well as an expanded version, set up in different profiles for ease of selection.
-- [**Manual Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md). The classic way, estimated to take around 3 to 4 hours. The first section (Setup) will list the installation of Fallout: New Vegas, the setup of utilities and tools, with the second section devoted to the installation and configuration of mods.
+- [**Manual Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md). The classic way, estimated to take around 4 hours. The first section (Setup) will list the installation of Fallout: New Vegas, the setup of utilities and tools, with the second section devoted to the installation and configuration of mods.
 
 I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
-
-This is *not* a modding guide for beginners. If you've never played Fallout: New Vegas before, I recommend following the [**Viva New Vegas**](https://vivanewvegas.github.io/) modding guide. It has a fraction of the mods present here, and will take you considerably less time to follow and install appropriately.
 
 ## My setup
 
@@ -62,7 +64,7 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How many plugins and mods are there?
 
-There are 197 mods and 153 plugins total.
+There are 200 mods and 150 plugins total.
 
 Unfortunately a lot of patching is required since many mods do not include fixes from the unofficial patch and conflicts between mods are a common occurrence, drastically increasing the amount oF plugins required to solve issues.
 
