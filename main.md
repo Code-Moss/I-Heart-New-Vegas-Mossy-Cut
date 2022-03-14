@@ -1057,9 +1057,6 @@ X | Melee bash | B42 Melee Bash
 
 # CHANGELOG
 
-<details>
-	<summary>Click to expand</summary>
-
 03-13-2022
 - Merged in Addendum guide for simplicity.
 
@@ -1085,6 +1082,9 @@ X | Melee bash | B42 Melee Bash
 - Re-added **B42 Melee Bash** (Gameplay).
 - Added **Accurate NASA Stars** (Visuals).
 - Removed **RAD - Radiation (is) Actually Dangerous**. The **Overhaul** completely replaces this mod now.
+
+<details>
+	<summary>Older entries - Click to expand</summary>
 
 02-28-2022
 - Updated **Desert Natural Weathers** installation instructions (Visuals).
