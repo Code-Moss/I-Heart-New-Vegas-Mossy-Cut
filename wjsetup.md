@@ -190,16 +190,6 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 X | Melee bash | B42 Melee Bash
 
-# MOD ORGANIZER 2 PROFILES
-
-I Heart New Vegas is offered in two versions:
-- The **I Heart New Vegas** profile, based on [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437?).
-- The **I Heart New Vegas (Altitude)** profile, based on [**Altitude - A Vanilla Plus Weather Mod**](https://www.nexusmods.com/newvegas/mods/71404), a purist-friendly weather overhaul.
-
-Which one you choose to use is up to you. To select profiles, click the **Profile** dropdown menu as seen in the screenshot, and click the profile you want to use.
-
-![Profiles](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/profileSelection.png)
-
 # MODS YOU SHOULD KNOW ABOUT
 
 As an automated Wabbajack setup, it is important to know about a handful of mods which will drastically affect your Fallout: New Vegas experience. This is to let you know in advance which tweaks and features are intended, evacuate some doubts that may arise during gameplay, as well as help you decide whether they are something you want to play with. Note that this is not a comprehensive list of all mods included in the guide. For that, [**please refer to this link**](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md).
@@ -232,6 +222,11 @@ Fully-scripted, lightweight, and compatible item value overhaul, taking into con
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
 # CHANGELOG
+
+03-13-2022
+- 1.3.0.
+- Fixed broken Wabbajack.
+- Removed **Altitude** profile.
 
 03-10-2022
 - 1.2.1.
