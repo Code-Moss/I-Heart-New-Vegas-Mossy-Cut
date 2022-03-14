@@ -224,6 +224,10 @@ Improves the character creation by speeding up the process, adding specialized g
 # CHANGELOG
 
 03-13-2022
+- 1.3.1.
+- Properly excluded mods that shouldn't ship with Wabbajack.
+
+03-13-2022
 - 1.3.0.
 - Fixed broken Wabbajack.
 - Removed **Altitude** profile.
