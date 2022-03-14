@@ -23,7 +23,7 @@ By default, this guide will always require you to download the main file. On the
 
 # I HEART NEW VEGAS
 
-## xNVSE PLUGINS
+## NVSE PLUGINS
 
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
@@ -731,81 +731,6 @@ Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
 Gives the Pip-Boy 2000 Mk VI a grittier texture.
 
-## Body replacers
-
-> ℹ️ This section uses modest (i.e. non-nude) outfits.
-
-[**Improved Vanilla Male Body**](https://www.nexusmods.com/newvegas/mods/70160)  
-High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
-
-Files to install:
-- **01 - Improved Male Body - FOMOD Installer** (Main files)
-  - FOMOD options to install:
-    - [X] 00 - Main
-    - [X] 05 - Underwear Options
-      - [X] 08 - Legacy Underwear
-- **00 - Outfit Conversions - Hotfix** (Update files)
-
-[**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
-Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
-- Hide the **meshes\characters\ _male\locomotion** folder.
-- Hide the **meshes\pipboy3000** folder.
-
-> ℹ️ This fixes compatibility issues with animation mods and mods that replace the Pip-Boy model.
-
-[**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
-Fixes a glitch that caused light reflections to flicker with TYPE4 armors.
-  
-Files to install:
-- **T4 Armor Mesh Fixes (Vanilla)** (Main files)
-
-[**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893)  
-Patches **TYPE4** for a variety of mods.
-- BAIN options to install:
-  - [X] 00 YUP Patch
-  - [X] 01 Vanilla Radiation Suits
-  - [X] 02 JSUE Patch
-  - [X] 03 PA Gloves Patch
-  - [X] 04 Eyelashes FNV Patch
-  - [X] 05 Red Vault 19 Jumpsuits Patch
-
-[**TYPE4 Misc Gameplay Merge Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE4%20Misc%20Gameplay%20Merge%20Patch.7z)  
-Omits the armor fixes related to Legion armors in Misc Gameplay Merge's script to prevent it from overriding TYPE4's Legion armor meshes.
-
-[**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
-High resolution textures for Type-based female bodies.
-
-Files to install:
-- **00 - Default Version - CORE** (Main files)
-- **00b - Raider Textures** (Main files)
-- **00 - Dead Money DLC - Christine face** (Update files)
-- **01 - Old Female** (Update files)  
-- **01 - Detailed Face Normalmap** (Optional files)  
-- **03 - Body Hairy Clean** (Optional files)  
-- **05 - Face Vanilla Feel** (Optional files)  
-
-> ⚠️ The following are outfit replacers to address some rather skimpy outfits in **TYPE4**. As such, they are entirely optional.
-
-[**More Modest TYPE4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
-Less skimpy outfits for many TYPE4 outfits.
-- Hide **jumpsuit fix.esp**
-
-[**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
-Fixes mismatching textures on a number of More Modest TYPE4 outfits.
-
-[**TYPE4 Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993)  
-Less skimpy Wasteland Wanderer and Raider outfits.
-  
-Files to install:
-- **Raider armors** (Main files)
-- **Wasteland Wanderer** (Main files)
-
-[**T6M Prostitute Outfits and Combat Armor**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Prostitute%20Outfits%20and%20Combat%20Armor.7z)  
-Less skimpy Prostitute outfits and less goofy Reinforced Combat Armors.
-- BAIN options to install:
-  - [X] 00 Prostitute Outfits
-  - [X] 01 Combat Armor
-
 ### Environment
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
@@ -889,7 +814,82 @@ Files to install:
 [**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
 High resolution retexture for dust storms.
 
-## LOD RESOURCES
+## BODY REPLACERS
+
+> ℹ️ This section uses modest (i.e. non-nude) outfits.
+
+[**Improved Vanilla Male Body**](https://www.nexusmods.com/newvegas/mods/70160)  
+High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
+
+Files to install:
+- **01 - Improved Male Body - FOMOD Installer** (Main files)
+  - FOMOD options to install:
+    - [X] 00 - Main
+    - [X] 05 - Underwear Options
+      - [X] 08 - Legacy Underwear
+- **00 - Outfit Conversions - Hotfix** (Update files)
+
+[**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
+Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
+- Hide the **meshes\characters\ _male\locomotion** folder.
+- Hide the **meshes\pipboy3000** folder.
+
+> ℹ️ This fixes compatibility issues with animation mods and mods that replace the Pip-Boy model.
+
+[**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
+Fixes a glitch that caused light reflections to flicker with TYPE4 armors.
+  
+Files to install:
+- **T4 Armor Mesh Fixes (Vanilla)** (Main files)
+
+[**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893)  
+Patches **TYPE4** for a variety of mods.
+- BAIN options to install:
+  - [X] 00 YUP Patch
+  - [X] 01 Vanilla Radiation Suits
+  - [X] 02 JSUE Patch
+  - [X] 03 PA Gloves Patch
+  - [X] 04 Eyelashes FNV Patch
+  - [X] 05 Red Vault 19 Jumpsuits Patch
+
+[**TYPE4 Misc Gameplay Merge Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE4%20Misc%20Gameplay%20Merge%20Patch.7z)  
+Omits the armor fixes related to Legion armors in Misc Gameplay Merge's script to prevent it from overriding TYPE4's Legion armor meshes.
+
+[**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
+High resolution textures for Type-based female bodies.
+
+Files to install:
+- **00 - Default Version - CORE** (Main files)
+- **00b - Raider Textures** (Main files)
+- **00 - Dead Money DLC - Christine face** (Update files)
+- **01 - Old Female** (Update files)  
+- **01 - Detailed Face Normalmap** (Optional files)  
+- **03 - Body Hairy Clean** (Optional files)  
+- **05 - Face Vanilla Feel** (Optional files)  
+
+> ⚠️ The following are outfit replacers to address some rather skimpy outfits in **TYPE4**. As such, they are entirely optional.
+
+[**More Modest TYPE4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
+Less skimpy outfits for many TYPE4 outfits.
+- Hide **jumpsuit fix.esp**
+
+[**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
+Fixes mismatching textures on a number of More Modest TYPE4 outfits.
+
+[**TYPE4 Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993)  
+Less skimpy Wasteland Wanderer and Raider outfits.
+  
+Files to install:
+- **Raider armors** (Main files)
+- **Wasteland Wanderer** (Main files)
+
+[**T6M Prostitute Outfits and Combat Armor**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Prostitute%20Outfits%20and%20Combat%20Armor.7z)  
+Less skimpy Prostitute outfits and less goofy Reinforced Combat Armors.
+- BAIN options to install:
+  - [X] 00 Prostitute Outfits
+  - [X] 01 Combat Armor
+
+## LOD
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on distant land.
@@ -952,9 +952,9 @@ Files to install:
 - **Lucky 38 Lights Redone - Full Model** (Main files)
 - **Lucky 38 Lights Redone - Full Model - Better Strip View** (Optional files)
 
-## GENERATED LOD
+### Generated LOD
 
-[**FNVLODGen Output Extended**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing)  
+[**I Heart New Vegas LOD**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
 > ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
