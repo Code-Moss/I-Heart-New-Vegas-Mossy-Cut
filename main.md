@@ -41,26 +41,14 @@ Adds new functions, engine bug fixes and tweaks.
 [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336)  
 Enables having custom animations for weapons and actors. Also fixes the engine-bound anim group limit problem.
 
-[**yUI - User Ynterface**](https://www.nexusmods.com/newvegas/mods/74357)  
-Aims to fix UI bugs and add new UI features. 
-
-Files to install:
-- **yUI** (Main files)
-- **Matched Cursor - Fallout New Vegas** (Optional files)  
-
-[**yUI - User Ynterface Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/yUI%20-%20User%20Ynterface%20Custom%20INI.7z)  
-Matches cursor color to HUD color,  required for the Matched Cursor - Fallout New Vegas file we installed earlier.
+[**OneTweak 2.1.0.2**](https://www.nexusmods.com/newvegas/mods/75685)  
+Enables borderless window mode for safe alt-tabbing.
+- After installing the mod in MO2, click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button.
+- Click **INI Editor**. Select the **FalloutCustom.ini** tab.
+- Set **bFull Screen** to 0.
 
 [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
 Implements structured exception handling and sanity checking to reduce frequency of game crashes.
-
-[**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
-Enables borderless window mode for safe alt-tabbing.
-- Manually download the **OneTweak** main file.
-- Extract the contents of the archive. Inside, rename the **SKSE** folder to **NVSE**, and copy this NVSE folder into your **Fallout New Vegas\Data** folder, merging both NVSE folders into one.
-- Launch Mod Organizer 2.
-- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **FalloutCustom.ini** tab.
-- Set **bFull Screen** to 0.
 
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
@@ -74,6 +62,16 @@ Allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing
 
 [**Improved lighting Shaders**](https://www.nexusmods.com/newvegas/mods/69833)  
 Almost completely fixes the exterior lighting bug, and allows up to four times the number of active lights.
+
+[**yUI - User Ynterface**](https://www.nexusmods.com/newvegas/mods/74357)  
+Aims to fix UI bugs and add new UI features. 
+
+Files to install:
+- **yUI** (Main files)
+- **Matched Cursor - Fallout New Vegas** (Optional files)  
+
+[**yUI - User Ynterface Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/yUI%20-%20User%20Ynterface%20Custom%20INI.7z)  
+Matches cursor color to HUD color,  required for the Matched Cursor - Fallout New Vegas file we installed earlier.
 
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Enables hotkeys for pasting and enhanced movement/deletion of console commands.
@@ -1059,6 +1057,7 @@ X | Melee bash | B42 Melee Bash
 
 03-13-2022
 - Merged in Addendum guide for simplicity.
+- Updated **OneTweak** installation instructions (NVSE Plugins).
 
 03-10-2022
 - Re-added **Khans Friendly to Fiends** (Content).
