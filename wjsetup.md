@@ -232,6 +232,9 @@ Improves the character creation by speeding up the process, adding specialized g
 - 1.3.1.
 - Properly excluded mods that shouldn't ship with Wabbajack.
 
+<details>
+  <summary>Older entries - Click to expand</summary>
+
 03-13-2022
 - 1.3.0.
 - Fixed broken Wabbajack.
@@ -309,5 +312,6 @@ Improves the character creation by speeding up the process, adding specialized g
 03-03-2022
 - 1.0.0
 - Initial release.
+</details>
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)
