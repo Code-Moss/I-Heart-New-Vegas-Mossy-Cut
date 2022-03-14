@@ -34,7 +34,7 @@ Enables Fallout 3-style repair, localized damage (allowing headshots to be more 
 [**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
-[**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases)  
+[**ShowOff NVSE**](https://github.com/Demorome/Showoff-NVSE/releases)  
 Adds new functions, engine bug fixes and tweaks.
 - Click the **ShowOffNVSE.7z** under **Assets** to download it.
  
@@ -52,7 +52,6 @@ Implements structured exception handling and sanity checking to reduce frequency
 
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
-- Install as **NVTF - New Vegas Tick Fix**.
 
 [**NVTF Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NVTF%20Custom%20INI.7z)  
 Custom configuration that enables a number of settings to achieve the best balance between performance and stability.
@@ -162,7 +161,7 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052?)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
-[**Weapon Mesh Improvement Mod ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/WMIM%20ESP%20Replacer%201.4.7z)  
+[**WMIM ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/WMIM%20ESP%20Replacer%201.4.7z)  
 Omits ITM records and removes unnecessary tweaks to Ammunition, Object Effect, Explosion, FormID List, and Recipe recorts.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
@@ -323,9 +322,6 @@ Files to install:
 <details>
 	<summary>Misc Immersion Merge Addendum</summary>
 
-[**Barton Thorn Acts Normally**](https://ln4.sync.com/dl/4834e2030/eay934pu-bvhzmi6f-iub53fi8-4p6cxtan/view/default/1982540082010)  
-Barton Thorn will run up to the player to initiate his scheme, instead of waiting for them to talk to him. At the end of the quest, he will approach the player with his weapon drawn.
-
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
 Adds gore effects when devouring corpses, makes health and hunger restored from cannibalism scale with Survival, and adds numerous quality of life improvements.
 
@@ -475,7 +471,7 @@ Gives the new traits from FNV Opposite Traits the Improved Traits treatment.
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
-[**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
+[**Consistent Pip-Boy Icons - Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Collection of upscaled icons for a variety of mods.
 - FOMOD options to install:
   - [X] B42 Melee Bash
@@ -516,7 +512,6 @@ Overhaul of New Vegas's raider factions, balancing their loot and adding more of
 
 Files to install:
 - **Mojave Raiders** (Main files)
-- **Mojave Raiders - Nipton Takeover Disabled** (Optional files)
 - **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
 
 [**No NPC Throwing Weapon Consumption - WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/No%20NPC%20Throwing%20Weapon%20Consumption%20-%20WMIM%20Patch.7z)  
@@ -701,7 +696,7 @@ Files to install:
 - **HD teeth 3.0** (Main files)
 - **HQ eyebrows** (Main files)
 
-[**Natural Eyes by zzjay**](https://www.nexusmods.com/newvegas/mods/62811)  
+[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
 
 Files to install:
@@ -710,7 +705,7 @@ Files to install:
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
 
-[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
+[**No More Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
 Removes the completely useless and ugly Pip-Boy glove from the player.
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
@@ -723,16 +718,19 @@ Files to install:
 [**Pip-Boy 2000 Mk VI Working Buttons**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes the Pip-Boy 2000 Mk VI's buttons functional. Mod by **AleksMarch**.
 
-[**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
-Makes NPCs wear the new Pip-Boy 2000 Mk VI.
-
 [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
 Gives the Pip-Boy 2000 Mk VI a grittier texture.
+
+[**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
+Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 
 ### Environment
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
+
+[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
+Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
 [**Clean Lucky 38**](https://www.nexusmods.com/newvegas/mods/74796)  
 Retextures and cleanups the interior of the Lucky 38.
@@ -748,9 +746,6 @@ Turns walls from junk to brick, cleans the litter up off of the street, and buff
 Files to install:
 - **Lightweight Strip Overhaul - No Walls** (Main files)
 - **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
-
-[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
-Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
 [**Strip Lighting Overhaul LSO Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Lightweight Strip Overhaul.
