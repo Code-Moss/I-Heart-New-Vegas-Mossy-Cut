@@ -223,11 +223,7 @@ Improves the character creation by speeding up the process, adding specialized g
 
 # CHANGELOG
 
-## Preamble
-
 > ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the linked mods instead of reinstalling the provided Wabbajack every single time. Else you risk losing your custom mods and savegames.
-
-## Updates
 
 03-13-2022
 - 1.3.2.
