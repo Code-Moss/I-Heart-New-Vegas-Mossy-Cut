@@ -223,9 +223,15 @@ Improves the character creation by speeding up the process, adding specialized g
 
 # CHANGELOG
 
+## Preamble
+
+> ⚠️ It is recommended that you use the Wabbajack only on your first install of the game, and to manually update your setup by downloading the linked mods instead of reinstalling the provided Wabbajack every single time. Else you risk losing your custom mods and savegames.
+
+## Updates
+
 03-13-2022
 - 1.3.2.
-- Updated **OneTweak** with a F:NV-ready version.
+- Updated [**OneTweak**](https://www.nexusmods.com/newvegas/mods/75685) with a F:NV-ready version.
 - Slightly tweaked mod and load order.
 
 03-13-2022
@@ -238,76 +244,76 @@ Improves the character creation by speeding up the process, adding specialized g
 03-13-2022
 - 1.3.0.
 - Fixed broken Wabbajack.
-- Removed **Altitude** profile.
+- Removed [**Altitude**](https://www.nexusmods.com/newvegas/mods/71404) profile.
 
 03-10-2022
 - 1.2.1.
-- Updated **RAD - Radiation (is) Actually Dangerous - Overhaul**.
-- Updated **Mojave Arsenal**.
-- Updated **Character Expansions Revised Patches**.
+- Updated [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541).
+- Updated [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941).
+- Updated [**Character Expansions Revised Patches**](https://www.nexusmods.com/newvegas/mods/75268). The plugin used is the **00 AIO Complete** option.
 
 03-10-2022
 - 1.2.0.
 - Merged **Addendum** into the main profile.
-- Added **Khans Friendly to Fiends**.
-- Updated **Character Expansions Revised Patches**.
+- Added [**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381). Includes both main files.
+- Updated [**Character Expansions Revised Patches**](https://www.nexusmods.com/newvegas/mods/75268). The plugin used is the **00 AIO Complete** option.
 
 03-09-2022
 - 1.1.5.
-- Updated **TYPE4 Patches**.
+- Updated [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893).
 
 03-09-2022
 - 1.1.4.
-- Fixed **Desert Natural Weathers Custom INI** not installing as intended, causing the custom INI to not work at all.
-- Updated **RAD - Radiation (is) Actually Dangerous - Overhaul**.
+- Fixed [**Desert Natural Weathers Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20Custom%20INI.7z) not installing as intended, causing the custom INI to not work at all.
+- Updated [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541).
 
 03-08-2022
 - 1.1.3.
-- Hopefully fixed Google Drive link to **FNVLODGen Output Extended**, now renamed to **I Heart New Vegas LOD**.
-- Updated **Desert Natural Weathers**.
-- Added **Desert Natural Weathers Custom INI**. Disables interior tint fix and increases sunlight during the day.
+- Hopefully fixed Google Drive link to pre-generated LOD, renamed to [**I Heart New Vegas LOD**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing).
+- Updated [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437).
+- Added [**Desert Natural Weathers Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20Custom%20INI.7z). Disables interior tint fix and increases sunlight during the day.
 
 03-07-2022
 - 1.1.2 Hotfix.
-- Updated **Desert Natural Weathers - Zion Ambient Music**.
+- Updated [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z).
 
 03-07-2022
 - 1.1.1.
 - Hid **NVSE** executable on MO2.
-- Fixed Google Drive link to **FNVLODGen Output Extended**.
-- Updated **yUI - User Ynterface**.
-- Updated **ySI - Sorting Ycons**.
-- Updated **Desert Natural Weathers**.
+- Fixed Google Drive link to pre-generated LOD.
+- Updated [**yUI - User Ynterface**](https://www.nexusmods.com/newvegas/mods/74357).
+- Updated [**ySI - Sorting Ycons**](https://www.nexusmods.com/newvegas/mods/74358).
+- Updated [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437).
 
 03-05-2022
 - 1.1.0.
-- Added alternative profiles which use **Altitude** instead of **Desert Natural Weathers**. This covers both the standard and addendum profiles.
-- Added **Elegant Sunglare Retexture** to the Altitude profiles.
-- Updated **Essential DLC Enhancements** (Gameplay).
-- Updated **Desert Natural Weathers** (Visuals).
-- Removed **HD Moon 2K** (Visuals) from the non-Altitude profiles. The latest update of **Desert Natural Weathers** finally fixes the white outline bug on the Moon, so it is no longer needed.
+- Added alternative profiles which use [**Altitude**](https://www.nexusmods.com/newvegas/mods/71404) instead of **Desert Natural Weathers**. This covers both the standard and addendum profiles.
+- Added [**Elegant Sunglare Retexture**](https://www.nexusmods.com/newvegas/mods/75086) to the Altitude profiles.
+- Updated [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803).
+- Updated [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437).
+- Removed [**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/74022) from the non-Altitude profiles. The latest update of [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437) finally fixes the white outline bug on the Moon, so it is no longer needed.
 
 03-04-2022
 - 1.0.5 Hotfix.
-- Updated **lStewieAl's Tweaks and Engine Fixes** (Patches) for latest Nexus release.
-- Updated **lStewieAl's Tweaks Custom INI** (Patches).
+- Updated [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347).
+- Updated [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI.7z).
 
 03-04-2022
 - 1.0.4 Hotfix.
-- Added missing **Restore Fake Interior Godrays** file for **Desert Natural Weathers** (Visuals).
-- Updated **HD Moon 2K - NASA Satellite Images** (Visuals) for latest Nexus release.
+- Added missing **Restore Fake Interior Godrays** file for [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437).
+- Updated [**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/74022).
 
 03-04-2022
 - 1.0.3 Hotfix.
-- Updated **Desert Natural Weathers** (Visuals) for latest Nexus release.
+- Updated [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437).
 
 03-04-2022
 - 1.0.2 Hotfix.
-- Updated **Just Assorted Mods Custom INI** (Gameplay).
+- Updated [**Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Just%20Mods%20Assorted%20Custom%20INI.7z).
 
 03-03-2022
 - 1.0.1 Hotfix.
-- Updated **Desert Natural Weathers** (Visuals) for latest Nexus release.
+- Updated [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437).
 
 03-03-2022
 - 1.0.0
