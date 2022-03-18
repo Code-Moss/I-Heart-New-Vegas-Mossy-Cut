@@ -62,8 +62,6 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 There are 200 mods and 150 plugins total.
 
-Unfortunately a lot of patching is required since many mods do not include fixes from the unofficial patch and conflicts between mods are a common occurrence, drastically increasing the amount oF plugins required to solve issues.
-
 ### How much space do I need to install these mods?
 
 Roughly 13GB.
@@ -74,4 +72,8 @@ This modlist is offered as is, and I won't answer compatibility questions. If yo
 
 ### Do you have a Patreon I can contribute to?
 
-No. I'm always open to be given a game as a gift from my [**GOG Wishlist**](https://www.gog.com/u/Lucas9/wishlist), though. Argentina charges an extra 80% on purchasing foreign products, so you can imagine it adds up over time (if not discourages such purchases altogether).
+No.
+
+### Is a Wabbajack available for this mod list?
+
+Not anymore. Maintaining one is more trouble than it is worth.
