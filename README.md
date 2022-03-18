@@ -38,12 +38,10 @@ What this guide doesn't do:
 - Nitpick over individual meshes or textures: unless it's an actual fix, this guide won't bother. And even then, it probably won't bother either.
 - Improve the meshes and textures of everything I can: this alone can add another 50 or 100 mods to any install, and inconsistency will sooner than later rear its ugly head.
 
-There are two ways to follow this guide:
-
-- [**Wabbajack Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/wjsetup.md). The recommended way, automated and estimated to take no longer than 1 hour, of which most of the time will be spent leaving Wabbajack running and allowing it to download, extract, and install mods. Some manual tasks will be left up to the user, but they are in the minority. Includes the standard modlist as well as an expanded version, set up in different profiles for ease of selection.
-- [**Manual Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md). The classic way, estimated to take around 4 hours. The first section (Setup) will list the installation of Fallout: New Vegas, the setup of utilities and tools, with the second section devoted to the installation and configuration of mods.
-
 I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
+
+[**Clik here to get started**](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md).
+
 
 ## My setup
 
