@@ -1,6 +1,6 @@
 # I HEART NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: March 14th, 2022.
+Last updated: March 16th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.jpg)
 
