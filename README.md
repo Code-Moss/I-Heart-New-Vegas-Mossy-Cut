@@ -76,4 +76,4 @@ No.
 
 ### Is a Wabbajack available for this mod list?
 
-Not anymore. Maintaining one is more trouble than it is worth.
+No.
