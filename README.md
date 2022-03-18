@@ -68,17 +68,9 @@ Unfortunately a lot of patching is required since many mods do not include fixes
 
 Roughly 13GB.
 
-### How often is the guide updated?
+### Is this guide compatible with...?
 
-I Heart New Vegas is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
-
-### Is this guide compatible with A World of Pain/Strip Open/Freeside Open?
-
-My guess is no. At any rate, I wouldn't bother with those mods unless you enjoy conflict solving, or breaking your save on uninstallation.
-
-### Is (X) mod compatible with I Heart New Vegas?
-
-I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in **FNVEdit**. 
+This modlist is offered as is, and I won't answer compatibility questions. If you want to find out if a mod is compatible, ask someone else, or use **FNVEdit** to check for yourself and solve conflicts.
 
 ### Do you have a Patreon I can contribute to?
 
