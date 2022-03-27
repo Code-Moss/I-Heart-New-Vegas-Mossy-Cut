@@ -1,4 +1,4 @@
-# I HEART NEW VEGAS, _THE MOSSY CUT_ : A Fallout: New Vegas Modding Guide
+# I HEART NEW VEGAS..._THE MOSSY CUT_ : A Fallout: New Vegas Modding Guide
 [_Original Guide_](https://github.com/Sigourn/iheartnewvegas)
 
 Last updated: March 16th, 2022.
