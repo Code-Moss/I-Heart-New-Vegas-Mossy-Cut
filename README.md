@@ -3,7 +3,7 @@
 
 Last updated: March 16th, 2022.
 
-![Banner](https://github.com/Code-Moss/iheartnewvegasmossycut/main/MainBanner.png)
+![Banner](https://raw.githubusercontent.com/Code-Moss/iheartnewvegasmossycut/main/MainBanner.png)
 
 ## *Sigourns* Contact info
 
