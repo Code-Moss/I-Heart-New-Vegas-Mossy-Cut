@@ -1,17 +1,17 @@
 # I HEART NEW VEGAS..._THE MOSSY CUT_ : A Fallout: New Vegas Modding Guide
-[_Original Guide_](https://github.com/Sigourn/iheartnewvegas)
+[_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas)
 
 Last updated: March 16th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.jpg)
 
-## Contact info
+## *Sigourns* Contact info
 
 - Discord: [Morrowind Modding Community](https://discord.me/mwmods)
 - Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
 - RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
-## Acknowledgments
+## *Sigourns* Acknowledgments
 
 I want to thank all users who have supported my [**Morrowind Sharp**](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md) modding guide. Their feedback, criticisms and insights have all been very valuable to me.
 
@@ -37,13 +37,13 @@ This is *not* a modding guide for beginners. A certain level of modding competen
 What this guide doesn't do:
 
 - Address every single micro-issue in the game: no game is perfect and all of them have flaws, yet we still enjoy them. My intention is to fix or at least address the most glaring ones, those that are a problem in the moment to moment experience.
-- Add new features no one asked for: there are many gameplay mods out there, but the amount of them that actually try to fix issues with the existing game are in the minority. If you want to build your own settlement or robot army, look someplace else.
+- ~~Add new features no one asked for: there are many gameplay mods out there, but the amount of them that actually try to fix issues with the existing game are in the minority. If you want to build your own settlement or robot army, look someplace else.~~
 - Nitpick over individual meshes or textures: unless it's an actual fix, this guide won't bother. And even then, it probably won't bother either.
 - Improve the meshes and textures of everything I can: this alone can add another 50 or 100 mods to any install, and inconsistency will sooner than later rear its ugly head.
 
-I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
+Sigourn: "I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them."
 
-[**Clik here to get started**](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md).
+[**Clik here to get started**](https://github.com/Code-Moss/iheartnewvegasmossycut/blob/main/setup.md).
 
 
 ## My setup
@@ -52,18 +52,18 @@ When installing all mods in this guide, my framerate ranges anywhere from 30fps 
 
 System | My Specs
 ------------ | -------------
-Operative System | Windows 8.1 Pro 64-bit
-CPU | Intel Core i5 4440
-RAM | 8GB
-Graphics | 1GB ATI AMD Radeon HD 7700 Series
-HDD | 1TB
-Monitor | Samsung 24" 1080p @ 60Hz
+Operative System | Windows 10 (2018) 64-bit
+CPU | Intel Core i3 4150
+RAM | 10GB
+Graphics | 2GB PNY NVIDIA T400 Low Profile GPU
+HDD | 1TB 
+Monitor | Telefunken +/-17" 960p (4:3) @ 60Hz, analog, like a real gamer.
 
 ## Frequently asked questions
 
 ### How many plugins and mods are there?
 
-There are 200 mods and 150 plugins total.
+There are TBC mods and TBC plugins total.
 
 ### How much space do I need to install these mods?
 
@@ -73,7 +73,7 @@ Roughly 13GB.
 
 This modlist is offered as is, and I won't answer compatibility questions. If you want to find out if a mod is compatible, ask someone else, or use **FNVEdit** to check for yourself and solve conflicts.
 
-### Do you have a Patreon I can contribute to?
+### Does Sigourn have a Patreon I can contribute to?
 
 No.
 
