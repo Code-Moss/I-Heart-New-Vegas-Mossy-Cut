@@ -8,7 +8,7 @@
 
 ## Requirements
 
-- An english copy of the game from [**GOG**](https://www.gog.com/game/fallout_new_vegas_ultimate_edition).
+- An english copy of the game from [**GOG**](https://www.gog.com/game/fallout_new_vegas_ultimate_edition), or Steam.
   - Installation instructions are found on the next section. 
 - A [**Nexus**](https://users.nexusmods.com/register) account. This guide assumes you are using a Free account, so no need to pay for Premium.
 - A file archiver. I recommend [**7-Zip**](https://www.7-zip.org/).
@@ -28,10 +28,10 @@ C:\Games\Fallout New Vegas
 ```
 Additional, you will need a folder where to install our mod manager and keep your mods. The following path will be used for this guide:
 ```
-C:\Games\Fallout New Vegas Mods
+C:\Mods
 ```
 
-> ⚠️ Make sure you *don't* create your Fallout New Vegas Mods folder *inside* your Fallou New Vegas folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
+> ⚠️ Make sure you *don't* create your Fallout New Vegas Mods folder *inside* your Fallout New Vegas folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
 
 Once you've finished installation of the game, go to the game's **Data** folder. If there is a plugin called **FalloutNV_lang.esp**, delete it.
 
@@ -59,16 +59,16 @@ Decompresses the Fallout New Vegas BSAs and repacks them without zlib compressio
 SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa
 ```
 
+[**xNVSE**](https://github.com/xNVSE/NVSE/releases)  
+New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
+- Click the **nvse_6_2_5.7z** under **Assets** to download it.
+- Extract the contents of the archive to the game's **Root** folder. Allow it to merge and overwrite if asked.
+
 [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?)  
 Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 - Manually download the **FNV 4GB Patch** main file.
 - Extract the contents of the archive, and place **FalloutNVpatch.exe** in your game's **Root** folder.
 - Run the patch. Close the command prompt once the process is done.
-
-[**xNVSE**](https://github.com/xNVSE/NVSE/releases)  
-New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
-- Click the **nvse_6_2_5.7z** under **Assets** to download it.
-- Extract the contents of the archive to the game's **Root** folder. Allow it to merge and overwrite if asked.
 
 [**New Vegas Heap Replacer**](https://www.nexusmods.com/newvegas/mods/69779)  
 Replaces the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate. 
@@ -82,14 +82,14 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process.
 - Manually download the **Mod Organizer 2** main file.
 - Run the **Mod Organizer 2.exe**.
-- When prompted to choose an install location, choose your Fallout: New Vegas **Mods** folder (**C:\Games\Fallout New Vegas Mods\MO2**).
+- When prompted to choose an install location, choose your Fallout: New Vegas **Mods** folder (**C:\Mods\MO2**).
 - When installation has finished, uncheck the **Launch Mod Organizer** option and click **Finish**.
 
 ## Configuration
 
 ### Initial setup
 
-- Run **ModOrganizer.exe**, found in **C:\Games\Fallout New Vegas Mods\MO2**.
+- Run **ModOrganizer.exe**, found in **C:\Mods\MO2**.
 - The **Instance manager** window will appear. Click on the **Create a new instance** bottom to the upper left. Choose **Create a portable instance**.
 - You will be asked to select a game to manage. If **New Vegas** is available using the appropriate file path, select it. Otherwise, click **Browse...** and choose your game's **Root** folder.
 - You will be asked to select a folder where data will be stored. The default MO2 folder is fine.
