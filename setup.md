@@ -163,7 +163,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
   - [X] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **I Heart New Vegas** and click **OK**.
+- With the **Default** profile selected, click **Copy**. Type in **I Heart New Vegas MC** and click **OK**.
 - Click on the newly created profile, and click **Select**. The window will close, and the new profile should have been automatically selected.
 
 > ℹ️ This is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
@@ -187,7 +187,7 @@ Because mods can conflict with one another, or have bugs/unintended changes them
 [**FNVEdit**](https://www.nexusmods.com/newvegas/mods/34703)  
 An advanced graphical module viewer/editor and conflict detector.
 - Manually download the **FNVEdit 4.0.4** main file.
-- Extract the contents of the archive to **Fallout New Vegas Mods\FNVEdit**.
+- Extract the contents of the archive to **Mods\FNVEdit**.
 
 ## FNVLODGen
 
@@ -196,7 +196,7 @@ An advanced graphical module viewer/editor and conflict detector.
 [**FNVLODGen**](https://www.nexusmods.com/newvegas/mods/58562)  
 Allows generation of LOD for worldspaces by scanning all mods in the load order that add visible from distant objects.
 - Manually download the **FNVLODGen** main file.
-- Extract the contents of the archive to **Fallout New Vegas Mods\FNVLODGen**.
+- Extract the contents of the archive to **Mods\FNVLODGen**.
 
 ## Registering tools in Mod Organizer 2
 
@@ -206,7 +206,7 @@ Follow these steps for **FNVEdit**:
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and choose **Add from file...**.
-- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit**) and double click **FNVEdit.exe**.
+- Navigate to FNVEdit's folder (**C:\Mods\FNVEdit**) and double click **FNVEdit.exe**.
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
 - In the **Arguments** field, paste **-IKnowWhatImDoing**.
 - Click **Apply** and then **OK**.
@@ -215,7 +215,7 @@ Follow these steps for **FNVEditQuickAutoClean**:
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and choose **Add from file...**.
-- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit**) and double click **FNVEditQuickAutoClean.exe**.
+- Navigate to FNVEdit's folder (**C:\Mods\FNVEdit**) and double click **FNVEditQuickAutoClean.exe**.
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
 - Click **Apply** and then **OK**.
 
@@ -223,9 +223,9 @@ Follow these steps for **FNVLODGen**:
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and choose **Add from file...**.
-- Navigate to FNVLODGen's folder (**C:\Games\Fallout New Vegas Mods\FNVLODGen**) and double click its .exe file.
+- Navigate to FNVLODGen's folder (**C:\Mods\FNVLODGen**) and double click its .exe file.
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
-- In the **Arguments** field, paste **-o:"C:\Games\Fallout New Vegas Mods\FNVLODGen Output\"**.
+- In the **Arguments** field, paste **-o:"C:\Mods\FNVLODGen Output\"**.
 - Click **Apply** and then **OK**.
 
 > ℹ️ This argument will make the files generated through FNVLODGen appear in a folder called **FNVLODGen Output** on your **Fallout New Vegas Mods** folder.
