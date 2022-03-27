@@ -4,7 +4,7 @@
 
 # NEW VEGAS SETUP
 
-![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/8064e94210b0914d6edbf0790d145e40d0c1890da78130c3d3c28f18bdae483e_bg_crop_1920x655.jpg)
+![Banner](https://raw.githubusercontent.com/Code-Moss/iheartnewvegasmossycut/main/data/SetupBanner.jpg)
 
 ## Requirements
 
