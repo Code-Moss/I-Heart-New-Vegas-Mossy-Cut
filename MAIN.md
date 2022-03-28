@@ -551,18 +551,23 @@ A compatible skeleton for many animation mods.
 
 ### VFX
 
-[NV Kill Flash](https://www.nexusmods.com/newvegas/mods/74019)  
+[**NV Kill Flash**](https://www.nexusmods.com/newvegas/mods/74019)  
 A fairly simple mod that applies an IMOD when you kill someone to recreate the Kill Flash effect seen in games like Red Dead 2. 
 
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
-
 
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Improves the gas leak refraction effect, making it easier to spot.
 
 [**More Subtle Hidden Valley Dust Storm**](https://www.nexusmods.com/newvegas/mods/70275)  
 Tones down the dust storm effect near the Hidden Valley bunkers.
+
+[HUD Only Explosion Shake](https://www.nexusmods.com/newvegas/mods/75064)  
+Makes it so that only HUD shakes when hit by explosion.
+
+[Bullet Trails](https://www.nexusmods.com/newvegas/mods/75122)  
+Adds smoky trails to bullets.
 
 ### Characters
 
