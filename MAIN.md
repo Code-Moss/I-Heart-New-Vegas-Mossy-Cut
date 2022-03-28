@@ -1,5 +1,5 @@
 [<< Back to Readme](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/README.md)  
-[<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
+[<< Back to Setup](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
