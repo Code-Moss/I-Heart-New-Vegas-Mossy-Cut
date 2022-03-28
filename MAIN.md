@@ -259,8 +259,15 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 
 ## GAMEPLAY
 
-[**Building Bridges**](https://www.nexusmods.com/newvegas/mods/75601)
+[**Building Bridges**](https://www.nexusmods.com/newvegas/mods/75601)  
 This plugin allows players to interact with each other by leaving messages in gameworld. These messages will appear in the playthrough of other players and you also will see what they wrote.
+
+Installation:
+
+1) Download and install the package and all it's requirements.
+2) Get your Nexus API key via this [link](https://www.nexusmods.com/users/myaccount?tab=api%20access). Look for "Building Bridges" at the bottom of the page.
+3) Launch the game. You will see a pop up box. Enter your Nexus API key. In the main menu you will see text "Nexus API key is detected".
+4) Load a game and you will see a pop-up box. Press "Yes" and get your BB key.5)RESTART THE GAME.6)You will see text "BB::Ready, Fetched N messages" where N is the real number of processed messages
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
@@ -349,7 +356,7 @@ Fully-scripted, lightweight, and compatible item value overhaul, taking into con
 Files to install:
 - **New Vegas Economy Improved** (Main files)
 
-[**BLEED**](https://www.nexusmods.com/newvegas/mods/61141)
+[**BLEED**](https://www.nexusmods.com/newvegas/mods/61141)  
 Ballistic Locational Energy Explosive Damage.
 
 Files to install:
@@ -528,10 +535,10 @@ Tones down the dust storm effect near the Hidden Valley bunkers.
 
 ### Characters
 
-[New Vegas Redesigned 2 Revised](https://www.nexusmods.com/newvegas/mods/71556)
+[New Vegas Redesigned 2 Revised](https://www.nexusmods.com/newvegas/mods/71556)  
 Fixes skin issues, ghastly neon hair (there's a lot), white splotches, poor face proportions, personality mismatches, etc in an attempt to make each character look a bit more realistic.  
 
-[Real Eyes](https://www.nexusmods.com/newvegas/mods/70471)
+[Real Eyes](https://www.nexusmods.com/newvegas/mods/70471)  
 Replaces all the eye textures with more realistic looking eyes.
 
 ### Environment
