@@ -234,15 +234,6 @@ Files to install:
     - [X] Main File
 - **6. Vanilla UI Plus Patch** (Optional files)
 
-[**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
-High-res satellite map for the Mojave Wasteland.
-
-Files to install:
-- **Satellite World Map** (Main files)
-
-[**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292)  
-High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and Lonesome Road.
-
 ## GAMEPLAY QOL
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
