@@ -311,5 +311,5 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
-[To I Heart New Vegas >>](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)  
-[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)
+[To I Heart New Vegas >>](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/MAIN.md)  
+[<< Back to Readme](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/README.md)
