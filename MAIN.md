@@ -290,9 +290,6 @@ Improves animation transitions when going from idle to sprint, plus allows the p
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
-[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
-Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging from quality of life improvements, gameplay and balance tweaks, and visual tweaks.
-
 [**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
 Compilation of minor visual, gameplay, and immersion mods.
 
