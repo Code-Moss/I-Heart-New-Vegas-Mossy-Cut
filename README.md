@@ -3,7 +3,7 @@
 
 Last updated: March 16th, 2022.
 
-![Banner](https://raw.githubusercontent.com/Code-Moss/iheartnewvegasmossycut/main/data/MainBanner.jpg)
+![Banner](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/assets/MainBanner.jpg)
 >A personal modlist using Sigourns original *I Heart New Vegas* as a base with some extra mods and setups I use. NOT FOR FIRST TIME PLAYERS.
 
 ## *Sigourns* Contact info
