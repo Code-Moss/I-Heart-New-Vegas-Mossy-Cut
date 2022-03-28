@@ -256,6 +256,9 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 
 ## GAMEPLAY
 
+[**Building Bridges**](https://www.nexusmods.com/newvegas/mods/75601)
+This plugin allows players to interact with each other by leaving messages in gameworld. These messages will appear in the playthrough of other players and you also will see what they wrote.
+
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
@@ -290,93 +293,11 @@ Improves animation transitions when going from idle to sprint, plus allows the p
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
-[**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
-Compilation of minor visual, gameplay, and immersion mods.
-
-Files to install:
-- **Misc Immersion Merge** (Main files)
-- **Follower Formula Redone Patch** (Optional files)
-- **JSawyer Ultimate Patch** (Optional files)
-- **JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) Patch** (Optional files)
-
-> ℹ️ Unfortunately there were many mods that I would have liked to include in this compilation, but couldn't. For the sake of this guide these are not considered essential, but know that I Heart New Vegas does account for them in its mod and load order. If you wish to install them, see the following summary of mods.
-
-<details>
-	<summary>Misc Immersion Merge Addendum</summary>
-
-[**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
-Adds gore effects when devouring corpses, makes health and hunger restored from cannibalism scale with Survival, and adds numerous quality of life improvements.
-
-Files to install:
-- **Cannibal Reborn** (Main files)
-
-[**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
-Applies the cannibalism effects and quality of life improvements from Cannibal Reborn to the Ghastly Scavenger perk.
-
-[**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
-Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
-
-[**Even More Accurate Geiger Clicking**](https://www.nexusmods.com/newvegas/mods/74901)  
-Increases the Pip-Boy Geiger clicking beyond the vanilla default. Increases the accuracy of the radiation meter. Forces the speed effects of the Atomic! perk to apply immediately.
-
-Files to install:
-- **Even More Accurate Geiger Clicking** (Main files)
-
-[**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
-Fixes the glass texture in the Gun Runners' kiosk.
-
-Files to install:
-- **Gun Runners Kiosk Glass Fix Alternate Version** (Optional files)
-
-[**High-Quality Classic Music**](https://www.nexusmods.com/newvegas/mods/72150)  
-Replaces the low-quality soundtrack from the classic Fallout games with high-quality versions.
-
-[**Immersive Pickup Sounds Patched**](https://www.nexusmods.com/newvegas/mods/70552)  
-Adds a variety of sound effects for picking up numerous items.
-
-[**Improved Duster Coats - YUP Edition**](https://www.nexusmods.com/newvegas/mods/66629)  
-Modifies the overcoats on the NCR Ranger and Desert Ranger armors so they hang straight rather than flaring out at the base. Includes mesh fixes from Yukichigai Unofficial Patch.
-
-[**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
-Modifies the Ranger Hat and the Park Ranger Hat so they sit slightly lower on the head. 
-
-[**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
-Gets rid of the big fingerprint on Mr. House/Yes Man's screen. 
-
-[**Red Vault 19 Jumpsuits**](https://www.nexusmods.com/newvegas/mods/67135)  
-Adds red versions of the Vault 19 jumpsuit to the red sections of the vault.
-
-[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
-Adds CRT lines to the monitors of Securitrons.
-
-Files to install:
-- **Securitrons in CRT 1.0** (Main files)
-- **OWB in CRT** (Optional files)
-
-[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
-Makes the visors of all the Ranger Helmets (NCR, Desert, Riot, Advanced Riot, Elite Riot) have a neat glowing effect.
-
-Files to install:
-- **Simple Glowing Ranger Visors (No Neck Covers)** (Main files)
-
-[**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
-Makes it so you need to first discover the snow globe display in the Lucky 38 Presidential Suite then ask Jane in the Penthouse about the snow globe collection in order to sell them. DLCs snow globes now need to be sold to Jane, instead of automatically rewarding the player. If Mr. House is dead, you can place the snow globes on the display yourself (you won't get the caps reward, however).
-</details>
-
-[**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
-Collection of gameplay and balance tweaks.
-
-[**Miscellaneous Tweaks Collection Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%20Tweaks.7z)  
-Nerfs Feral Ghoul Reavers, ties Honest Hearts recipes to reaching Zion (mirroring how other DLC recipes work), and adds a new Mojave Express dropbox outside Camp McCarran.
-
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
 [**NPCs Use Aid Items**](https://www.nexusmods.com/newvegas/mods/68742)  
 NPCs will now use aid items in combat. They will not consume their loot; instead, they will simulate consuming items they can potentially carrying.
-
-[**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
-Makes radiation work like in Fallout 4, by damaging your max health.
 
 [**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202/)  
 Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing. The slowed movement speed and slower turning speed also makes enemies less likely to bolt out suddenly from around a corner in a jerky way.
@@ -424,6 +345,14 @@ Fully-scripted, lightweight, and compatible item value overhaul, taking into con
 
 Files to install:
 - **New Vegas Economy Improved** (Main files)
+
+[**BLEED**](https://www.nexusmods.com/newvegas/mods/61141)
+Ballistic Locational Energy Explosive Damage.
+
+Files to install:
+- **BLEEDNV** (Optional Files)
+- **BLEEDNV - Ragdolls Patch** (Optional Files)
+- **BLEEDNV - Unofficial Patch NVSE Plus Patch** (Optional Files)
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Makes enemies more likely to target the player in combat rather than companions.
