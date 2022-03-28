@@ -176,7 +176,7 @@ Fixes the White Glove Society Mask mesh for female characters.
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
 
-[**No More Muzzle Flash Lights**](https://www.nexusmods.com/newvegas/mods/73742)
+[**No More Muzzle Flash Lights**](https://www.nexusmods.com/newvegas/mods/73742)  
 Remove muzzle flash lights to boost performances. 
 
 ## USER INTERFACE
@@ -212,7 +212,7 @@ Makes the crafting interface easier, more efficient and less tedious to use.
 [Magazine (and Chem) Submenu](https://www.nexusmods.com/newvegas/mods/73719)  
 Adds a submenu for skill magazines, so that they don't clutter up your Aid item list in the inventory menu
 
-[WND - Weapon Name Display](https://www.nexusmods.com/newvegas/mods/63687)
+[WND - Weapon Name Display](https://www.nexusmods.com/newvegas/mods/63687)  
 A simple mod that displays the name of your weapon when you want.
 
 [**ySI - Sorting Ycons**](https://www.nexusmods.com/newvegas/mods/74358?)  
