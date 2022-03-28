@@ -135,12 +135,6 @@ Custom configuration that enables many quality of life improvements, as well as 
 
 ### Additional NVSE bug fixes
 
-[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
-Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
-
-[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
-Fixes several problems at the core level with how ammo scripts and effects work. Includes other gameplay tweaks.
-
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
 Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility. Includes other gameplay tweaks.
 
