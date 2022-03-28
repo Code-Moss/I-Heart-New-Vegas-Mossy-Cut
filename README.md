@@ -4,6 +4,7 @@
 Last updated: March 16th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Code-Moss/iheartnewvegasmossycut/main/data/MainBanner.jpg)
+>A modlist using Sigourns original *I Heart New Vegas* as a Base
 
 ## *Sigourns* Contact info
 
