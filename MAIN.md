@@ -75,7 +75,7 @@ Matches cursor color to HUD color,  required for the Matched Cursor - Fallout Ne
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Enables hotkeys for pasting and enhanced movement/deletion of console commands.
 
-[**SUP NVSE**](https://www.nexusmods.com/newvegas/mods/73160)
+[**SUP NVSE**](https://www.nexusmods.com/newvegas/mods/73160)  
 NVSE plugin which adds new functions and allows modders to easily add new UI elements to the game (HUD Bars) and read Pastebin Pastes(Pastebin Reader).
 
 ## PATCHES
