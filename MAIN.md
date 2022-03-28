@@ -102,7 +102,7 @@ Files to install:
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
-[**yGTM**](https://www.nexusmods.com/newvegas/mods/72784)
+[**yGTM**](https://www.nexusmods.com/newvegas/mods/72784)  
 NVSE plugin that alters the way Global Time Multiplier is modified so to provide better compatibility between mods and base game.
 
 [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
