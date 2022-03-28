@@ -364,6 +364,9 @@ Files to install:
 - **BLEEDNV - Ragdolls Patch** (Optional Files)
 - **BLEEDNV - Unofficial Patch NVSE Plus Patch** (Optional Files)
 
+[SIDE - Simple Items Distributed Everywhere](https://www.nexusmods.com/newvegas/mods/75746)  
+This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black Coffee, Nuka Cola Quantums, Daturana/Datura Hide/Datura Antivenom. Healing Poultices, Fiery Purgatives, Blood Shields, Snakebite Tourniquets, Weapon Binding Rituals, and Auto Inject Stimpaks around the wasteland.
+
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Makes enemies more likely to target the player in combat rather than companions.
 
@@ -427,6 +430,9 @@ Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and r
 
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip.
+
+[Slightly more interesting - Gun Runners](https://www.nexusmods.com/newvegas/mods/75562)  
+Gives the Gun Runners vendor shack a bit more detail.
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
