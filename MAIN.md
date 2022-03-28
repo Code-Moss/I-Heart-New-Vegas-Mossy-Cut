@@ -102,6 +102,9 @@ Files to install:
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
+[**yGTM**](https://www.nexusmods.com/newvegas/mods/72784)
+NVSE plugin that alters the way Global Time Multiplier is modified so to provide better compatibility between mods and base game.
+
 [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
@@ -173,6 +176,9 @@ Fixes the White Glove Society Mask mesh for female characters.
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
 
+[**No More Muzzle Flash Lights**](https://www.nexusmods.com/newvegas/mods/73742)
+Remove muzzle flash lights to boost performances. 
+
 ## USER INTERFACE
 
 ### Menus
@@ -202,6 +208,12 @@ Increases the amount of visible dialogue topics, and displays numbers next to di
 
 [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
+
+[Magazine (and Chem) Submenu](https://www.nexusmods.com/newvegas/mods/73719)  
+Adds a submenu for skill magazines, so that they don't clutter up your Aid item list in the inventory menu
+
+[WND - Weapon Name Display](https://www.nexusmods.com/newvegas/mods/63687)
+A simple mod that displays the name of your weapon when you want.
 
 [**ySI - Sorting Ycons**](https://www.nexusmods.com/newvegas/mods/74358?)  
 Sorting mod, using features of yUI to make inventory management a better experience. Each item gets assigned one of the 140+ included custom icons, representing different categories of items.
@@ -538,6 +550,9 @@ A compatible skeleton for many animation mods.
   - [X] Vanilla Weights
 
 ### VFX
+
+[NV Kill Flash](https://www.nexusmods.com/newvegas/mods/74019)  
+A fairly simple mod that applies an IMOD when you kill someone to recreate the Kill Flash effect seen in games like Red Dead 2. 
 
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
