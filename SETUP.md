@@ -4,7 +4,7 @@
 
 # NEW VEGAS SETUP
 
-![Banner](https://raw.githubusercontent.com/Code-Moss/iheartnewvegasmossycut/main/data/SetupBanner.jpg)
+![Banner](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/assets/SetupBanner.jpg)
 
 ## Requirements
 
