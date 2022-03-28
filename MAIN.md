@@ -234,6 +234,9 @@ Files to install:
     - [X] Main File
 - **6. Vanilla UI Plus Patch** (Optional files)
 
+[**The HUD Editor**](https://www.nexusmods.com/newvegas/mods/67470)
+Allows you to edit the HUD... 
+
 ## GAMEPLAY QOL
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
