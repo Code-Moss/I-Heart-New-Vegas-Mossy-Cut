@@ -235,7 +235,7 @@ Files to install:
 - **6. Vanilla UI Plus Patch** (Optional files)
 
 [**The HUD Editor**](https://www.nexusmods.com/newvegas/mods/67470)
-Allows you to edit the HUD... 
+Allows you to edit the HUD.
 
 ## GAMEPLAY QOL
 
@@ -286,9 +286,6 @@ Custom configuration that disables Visual Objectives and Hold Breath. Sets 1st P
 
 [**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
-
-[**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
-Adds melee attacks for non-melee weapons, similar to melee hits and buttstrokes in modern FPS games.
 
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
@@ -521,39 +518,6 @@ Adds hundreds more leveled, vanilla-friendly creature spawn points throughout th
 Files to install:
 - **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files)
 
-## AUDIO
-
-[**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
-Replaces every gun sound in the game, from ballistic to energy weapons.
-
-[**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z)  
-Scripted ESP replacer that vastly improves compatibility with other mods.
-
-[**All Weapon Sounds Overhaul WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/All%20Weapon%20Sounds%20Overhaul%20WMIM%20Patch.7z)  
-Compatibility patch for Weapon Mesh Improvement Mod.
-
-[**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
-Replaces every explosion sound in the game.
-
-Files to install:
-- **All Explosion Sounds Overhaul BSA and YUP Patch** (Main files)
-- **All Explosion Sounds Overhaul SCRIPT Version** (Optional files)
-
-[**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
-As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
-
-Files to install:
-- **Project Nevada - Immersive Primary Needs 1.1**  
-  Install as **Immersive Primary Needs**.
-
-[**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
-Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
-
-Files to install:
-- **Female Nuka-Cola Drinking Sound replacer** (Main files)
-
-> ⚠️ You should only use this mod when playing a female character, since it replaces the vanilla male drinking sound.
-
 ## VISUALS
 
 ### Animations
@@ -623,26 +587,9 @@ A compatible skeleton for many animation mods.
 
 ### VFX
 
-[**IMPACT**](https://www.nexusmods.com/newvegas/mods/57113)  
-Ballistic VFX overhaul. Bullet holes match ammo, casings match ammo, new custom particle effects impacts.
-
-Files to install:
-- **IMPACT - The Michael Bay** (Main files)
-
-[**IMPACT - Compatibility Edition**](https://www.nexusmods.com/newvegas/mods/62050)  
-Scripted ESP replacer that automatically patches all weapons in the game, DLC, and mods, to have the appropriate shell casings and Impact Data Sets based on their ammo types.
-
-[**EXE - Effect teXtures Enhanced**](https://www.nexusmods.com/newvegas/mods/62989)  
-Remakes all visual effects in the game.
-
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
 
-[**Gore Overhaul**](https://www.nexusmods.com/newvegas/mods/67666)  
-Retextures the gore assets to give them a severely detailed look with attention to minor details. Also improves on the exploding head meshes to give it more gore bits.
-
-[**Gore Overhaul Optimized Textures**](https://www.nexusmods.com/newvegas/mods/75268)  
-Optimizes the very high resolution textures, without noticeably sacrificing quality.
 
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Improves the gas leak refraction effect, making it easier to spot.
@@ -652,91 +599,16 @@ Tones down the dust storm effect near the Hidden Valley bunkers.
 
 ### Characters
 
-[**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
-Visual overhaul of characters' faces, following vanilla aesthetics. 
+[New Vegas Redesigned 2 Revised](https://www.nexusmods.com/newvegas/mods/71556)
+Fixes skin issues, ghastly neon hair (there's a lot), white splotches, poor face proportions, personality mismatches, etc in an attempt to make each character look a bit more realistic.  
 
-[**Character Expansions Revised Patches**](https://www.nexusmods.com/newvegas/mods/75268/?)  
-Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland and Extra Collection, Mojave Raiders, and Khans Friendly to Fiends.
-- BAIN options to install:
-  - [X] 00 AIO Complete
-
-[**Character Expansions Revised - FaceGen Tint Fix**](https://www.nexusmods.com/newvegas/mods/75268)  
-Fixes colored tints on character faces.
-- [**Visual comparison.**](https://imgsli.com/ODY2MzE)
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**, whose fixed meshes were used as a resource for this mod.
-
-[**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
-Adds animated eyelashes to NPCs and the player character.
-
-Files to install:
-- **tkEyelashesFNV** (Main files)
-  - Hide **tkEyelashesFNV_FemalesOnly.esp**.
-
-[**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/75268)  
-ESP Replacer that fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
-
-[**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
-Improves teeth, eyelashes, and eyebrow textures.
-
-Files to install:
-- **Eyelashes 1.3** (Main files)  
-- **HD teeth 3.0** (Main files)
-- **HQ eyebrows** (Main files)
-
-[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
-Improves eye textures.
-
-Files to install:
-- **00 - Natural Eyes - Shadow** (Main files)
-
-[**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
-Removes shine from vanilla hairs.
-
-[**No More Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
-Removes the completely useless and ugly Pip-Boy glove from the player.
-
-[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
-Pip-Boy replacer with custom scratch-made meshes, textures and working clock like in Fallout 76.
-
-Files to install:
-- **Pip-Boy 2000 Mk VI replacer version** (Main files)
-- **Working date and clock for replacer** (Optional files)
-
-[**Pip-Boy 2000 Mk VI Working Buttons**](https://www.nexusmods.com/newvegas/mods/75268)  
-Makes the Pip-Boy 2000 Mk VI's buttons functional. Mod by **AleksMarch**.
-
-[**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
-Gives the Pip-Boy 2000 Mk VI a grittier texture.
-
-[**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
-Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+[Real Eyes](https://www.nexusmods.com/newvegas/mods/70471)
+Replaces all the eye textures with more realistic looking eyes.
 
 ### Environment
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
-
-[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
-Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
-
-[**Clean Lucky 38**](https://www.nexusmods.com/newvegas/mods/74796)  
-Retextures and cleanups the interior of the Lucky 38.
-
-Files to install:
-- **Clean Lucky 38 Mesh Fix** (Update files)
-
-> ℹ️ This file is not an update, but the latest version of the mod.
-
-[**LSO - A Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
-Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
-
-Files to install:
-- **Lightweight Strip Overhaul - No Walls** (Main files)
-- **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
-
-[**Strip Lighting Overhaul LSO Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for Lightweight Strip Overhaul.
 
 [**Palm Tree Replacer**](https://www.nexusmods.com/newvegas/mods/72917)  
 Replaces the dated palm trees seen on the Strip with way better custom models. Installed for consistency with The Strip Planters Fixed.
@@ -778,97 +650,7 @@ Adds vanilla ambient music to the Zion worldspace.
 Star texture and mesh using NASA satellite images to create a real-world accurate starfield.
 
 Files to install:
-- **Accurate Stars 4k** (Main files)
-
-[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
-Fixes the bright night sky horizons.
-
-Files to install:
-- **Night Sky Tweaks (Script Runner)** (Main files)
-
-[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
-High resolution retexture for mist.
-
-Files to install:
-- **HD Mist 2K** (Main files)
-
-[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
-High resolution retexture for dust storms.
-
-## BODY REPLACERS
-
-> ℹ️ This section uses modest (i.e. non-nude) outfits.
-
-[**Improved Vanilla Male Body**](https://www.nexusmods.com/newvegas/mods/70160)  
-High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
-
-Files to install:
-- **01 - Improved Male Body - FOMOD Installer** (Main files)
-  - FOMOD options to install:
-    - [X] 00 - Main
-    - [X] 05 - Underwear Options
-      - [X] 08 - Legacy Underwear
-- **00 - Outfit Conversions - Hotfix** (Update files)
-
-[**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
-Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
-- Hide the **meshes\characters\ _male\locomotion** folder.
-- Hide the **meshes\pipboy3000** folder.
-
-> ℹ️ This fixes compatibility issues with animation mods and mods that replace the Pip-Boy model.
-
-[**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
-Fixes a glitch that caused light reflections to flicker with TYPE4 armors.
-  
-Files to install:
-- **T4 Armor Mesh Fixes (Vanilla)** (Main files)
-
-[**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893)  
-Patches **TYPE4** for a variety of mods.
-- BAIN options to install:
-  - [X] 00 YUP Patch
-  - [X] 01 Vanilla Radiation Suits
-  - [X] 02 JSUE Patch
-  - [X] 03 PA Gloves Patch
-  - [X] 04 Eyelashes FNV Patch
-  - [X] 05 Red Vault 19 Jumpsuits Patch
-
-[**TYPE4 Misc Gameplay Merge Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE4%20Misc%20Gameplay%20Merge%20Patch.7z)  
-Omits the armor fixes related to Legion armors in Misc Gameplay Merge's script to prevent it from overriding TYPE4's Legion armor meshes.
-
-[**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
-High resolution textures for Type-based female bodies.
-
-Files to install:
-- **00 - Default Version - CORE** (Main files)
-- **00b - Raider Textures** (Main files)
-- **00 - Dead Money DLC - Christine face** (Update files)
-- **01 - Old Female** (Update files)  
-- **01 - Detailed Face Normalmap** (Optional files)  
-- **03 - Body Hairy Clean** (Optional files)  
-- **05 - Face Vanilla Feel** (Optional files)  
-
-> ⚠️ The following are outfit replacers to address some rather skimpy outfits in **TYPE4**. As such, they are entirely optional.
-
-[**More Modest TYPE4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
-Less skimpy outfits for many TYPE4 outfits.
-- Hide **jumpsuit fix.esp**
-
-[**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
-Fixes mismatching textures on a number of More Modest TYPE4 outfits.
-
-[**TYPE4 Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993)  
-Less skimpy Wasteland Wanderer and Raider outfits.
-  
-Files to install:
-- **Raider armors** (Main files)
-- **Wasteland Wanderer** (Main files)
-
-[**T6M Prostitute Outfits and Combat Armor**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Prostitute%20Outfits%20and%20Combat%20Armor.7z)  
-Less skimpy Prostitute outfits and less goofy Reinforced Combat Armors.
-- BAIN options to install:
-  - [X] 00 Prostitute Outfits
-  - [X] 01 Combat Armor
+- **Accurate Stars 1k** (Main files)
 
 ## LOD
 
