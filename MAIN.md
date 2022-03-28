@@ -303,6 +303,13 @@ Improves animation transitions when going from idle to sprint, plus allows the p
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
+[Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921)
+A compilation of many smaller gameplay mods by various authors, all fully fixed, optimized, and updated.
+
+Files to install:
+- **Misc Gameplay Merge** (Main files)
+- **JSawyer Ultimate Edition Patch** (Optional files)
+
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
