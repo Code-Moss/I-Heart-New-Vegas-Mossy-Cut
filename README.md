@@ -43,7 +43,7 @@ What this guide doesn't do:
 
 Sigourn: "I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them."
 
-[**Clik here to get started**](https://github.com/Code-Moss/iheartnewvegasmossycut/blob/main/setup.md).
+[**Clik here to get started**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md).
 
 
 ## My setup
