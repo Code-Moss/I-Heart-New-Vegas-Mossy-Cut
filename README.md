@@ -46,8 +46,6 @@ What this guide doesn't do:
 
 Sigourn: "I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them."
 
-[**Click here to get started**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md).
-
 
 ## My setup
 
@@ -83,3 +81,7 @@ No.
 ### Is a Wabbajack available for this mod list?
 
 No.
+
+---
+
+[**CLICK HERE TO GET STARTED >>**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md).
