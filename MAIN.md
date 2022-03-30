@@ -492,6 +492,7 @@ Merge of many animation mods by the same author, improving the game's overall lo
 Files to install:
 - **Anniversary Anim Pack** (Main files)
   - Hide/delete all folders inside **Meshes** minus the **Meshes\Characters** folder.
+- **Weapon Mesh Improvement Mod Patch** (Optional files)
 
 [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
 Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person when using Anniversary Anim Pack.
@@ -500,12 +501,11 @@ Files to install:
 - **AnniAnimPack_BugFix 1.3** (Main files)  
 - **Bonus Patch** (Main files)
 
-[**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
-Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
+[**Hit's Anims - Season 1**](https://www.nexusmods.com/newvegas/mods/73856)  
+Compilation of hitman47101 kNVSE Weapon Animations.
 
-Files to install:
-- **FNV Clean Animations** (Main files)
-- **FNV Clean Animations - Update 2.2.2** (Update files)
+[**Hit's Anims - Season 2**](https://www.nexusmods.com/newvegas/mods/75208)  
+Even more hitman goodness.
 
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
 Removes the need to manually patch weapons for animations using the ISControl node system, used in most kNVSE sets by New Vegas animators. Works with every weapon and every mod, instantly.
