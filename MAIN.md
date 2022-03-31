@@ -28,7 +28,7 @@ By default, this guide will always require you to download the main file. On the
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
-[**JIP LN NVSE Plugin Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JIP%20LN%20NVSE%20Plugin%20Custom%20INI.7z)  
+[**JIP LN NVSE Plugin Custom INI**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/resources/JIP%20LN%20NVSE%20Plugin%20Custom%20INI.7z)  
 Enables Fallout 3-style repair, localized damage (allowing headshots to be more powerful when the enemy has no helmet), and a chance for random NPCs to have weapon mods. Disables the voice modulation fix, which could cause noticeable audio popping, particularly in Elijah's dialogue.
 
 [**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
