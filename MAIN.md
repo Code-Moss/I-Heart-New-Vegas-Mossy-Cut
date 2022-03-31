@@ -378,6 +378,18 @@ Fully-scripted, lightweight, and compatible item value overhaul, taking into con
 Files to install:
 - **New Vegas Economy Improved** (Main files)
 
+[**GRA Unique Weapons Relocated**](https://www.nexusmods.com/newvegas/mods/68153)  
+Makes the GRA unique weapons unavailable for purchase and scatters them across the Mojave, Zion, and the Big MT - just like all the other unique weapons.
+
+Files to install:
+- **GUWR Balanced NVSE** (Main files)
+
+[**Immersive Fast Travel Encounters**](https://www.nexusmods.com/newvegas/mods/73879)  
+A user configurable overhaul of the fast travel system that implements D&D styled random encounters when the player fast travels.
+
+[**Point that somewhere else**](https://www.nexusmods.com/newvegas/mods/73938)  
+Simple, scripted mod makes it so that NPCs will either fight or flee you if you point a gun at them.
+
 [**BLEED**](https://www.nexusmods.com/newvegas/mods/61141)  
 Ballistic Locational Energy Explosive Damage.
 
@@ -385,6 +397,12 @@ Files to install:
 - **BLEEDNV** (Optional Files)
 - **BLEEDNV - Ragdolls Patch** (Optional Files)
 - **BLEEDNV - Unofficial Patch NVSE Plus Patch** (Optional Files)
+
+[C93 - FPS Health Regeneration](https://www.nexusmods.com/newvegas/mods/44454)  
+Adds FPS-style health regeneration. ('coz I like it in this game)
+
+Files to install:
+- **C93 - FPS Health Regeneration - Minor Wound Healing** (Main Files)
 
 [SIDE - Simple Items Distributed Everywhere](https://www.nexusmods.com/newvegas/mods/75746)  
 This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black Coffee, Nuka Cola Quantums, Daturana/Datura Hide/Datura Antivenom. Healing Poultices, Fiery Purgatives, Blood Shields, Snakebite Tourniquets, Weapon Binding Rituals, and Auto Inject Stimpaks around the wasteland.
@@ -434,6 +452,9 @@ Collection of compatibility patches for mods installed so far.
   - [X] 05 Opposite Traits
   - [X] 06 Improved Traits
 
+[**B42 Descriptions aka Pip-Info**](https://www.nexusmods.com/newvegas/mods/68049)  
+Adds descriptions to all items in the game. For extra roleplaying experience.
+
 ## CONTENT
 
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
@@ -453,6 +474,9 @@ Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and r
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip.
 
+[**The Living Desert**](https://www.nexusmods.com/newvegas/mods/64623)  
+This mod adds hundreds of npcs and several scripted events to the world of Fallout: New Vegas.
+
 [Slightly more interesting - Gun Runners](https://www.nexusmods.com/newvegas/mods/75562)  
 Gives the Gun Runners vendor shack a bit more detail.
 
@@ -461,7 +485,9 @@ Overhaul of New Vegas's raider factions, balancing their loot and adding more of
 
 Files to install:
 - **Mojave Raiders** (Main files)
+- **Mojave Raiders - .22LR Varmint Rifle Patch** (Optional files)
 - **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
+- **Mojave Raiders - The Living Desert Patch** (Optional files)
 
 [**No NPC Throwing Weapon Consumption - WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/No%20NPC%20Throwing%20Weapon%20Consumption%20-%20WMIM%20Patch.7z)  
 Compatibility patch for Weapon Mesh Improvement Mod.
@@ -623,6 +649,11 @@ Star texture and mesh using NASA satellite images to create a real-world accurat
 
 Files to install:
 - **Accurate Stars 1k** (Main files)
+
+### Audio
+
+[**Ed-E the Silent Eyebot**](https://www.nexusmods.com/newvegas/mods/72430)  
+Removes ED-E's "Combat Initiated" Audio.
 
 ## LOD
 
