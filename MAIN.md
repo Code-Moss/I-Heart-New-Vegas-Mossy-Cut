@@ -212,6 +212,9 @@ Makes the crafting interface easier, more efficient and less tedious to use.
 [Magazine (and Chem) Submenu](https://www.nexusmods.com/newvegas/mods/73719)  
 Adds a submenu for skill magazines, so that they don't clutter up your Aid item list in the inventory menu
 
+[**Inventory Search**](https://www.nexusmods.com/newvegas/mods/66329)  
+This mod will add a search button (recognized by a magnifying glass icon) to the inventory, container, barter and recipe menus.
+
 [WND - Weapon Name Display](https://www.nexusmods.com/newvegas/mods/63687)  
 A simple mod that displays the name of your weapon when you want.
 
@@ -525,6 +528,13 @@ Adds hundreds more leveled, vanilla-friendly creature spawn points throughout th
 
 Files to install:
 - **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files)
+
+[**Titans of The New West**](https://www.nexusmods.com/newvegas/mods/68699)  
+Brings the iconic power armor look of the classic Fallout games back to New Vegas.
+
+Files to install:
+- **Titans of The New West** (Main files)
+- **B42 Compatibility Skeleton** (Optional files)
 
 ## VISUALS
 
