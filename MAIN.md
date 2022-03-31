@@ -222,7 +222,7 @@ Sorting mod, using features of yUI to make inventory management a better experie
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
 [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z)  
-Custom configuration that increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install in the **Visuals** section.
+Custom configuration that increases field of view.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
@@ -591,6 +591,9 @@ A compatible skeleton for many animation mods.
   - [X] Vanilla Weights
 
 ### VFX
+
+[**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
+Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
 
 [**NV Kill Flash**](https://www.nexusmods.com/newvegas/mods/74019)  
 A fairly simple mod that applies an IMOD when you kill someone to recreate the Kill Flash effect seen in games like Red Dead 2. 
