@@ -254,6 +254,9 @@ Allows you to edit the HUD.
 
 ## GAMEPLAY QOL
 
+[**Toggleable Helmet Effects**](https://www.nexusmods.com/newvegas/mods/71761)  
+Replaces the PipBoy light with sneak sight (riot gear) or nightvision (hazmat suit), depending on what helmet is being used.
+
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
 
