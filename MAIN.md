@@ -404,6 +404,12 @@ Adds FPS-style health regeneration. ('coz I like it in this game)
 Files to install:
 - **C93 - FPS Health Regeneration - Minor Wound Healing** (Main Files)
 
+[**New Vegas Landscape Overhaul Re-Remastered**](https://www.nexusmods.com/newvegas/mods/74218)  
+This mod aims to add new life the the Mojave Wasteland by making bland locations more detailed. 
+
+Files to install:
+- **New Vegas Landscape Overhaul Re-Remastered** (Main Files)
+
 [SIDE - Simple Items Distributed Everywhere](https://www.nexusmods.com/newvegas/mods/75746)  
 This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black Coffee, Nuka Cola Quantums, Daturana/Datura Hide/Datura Antivenom. Healing Poultices, Fiery Purgatives, Blood Shields, Snakebite Tourniquets, Weapon Binding Rituals, and Auto Inject Stimpaks around the wasteland.
 
@@ -416,6 +422,12 @@ Makes repairing more difficult by making each repair require a consumable Repair
 Files to install:
 - **Repair Tools** (Main files)
 - **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files)
+
+[**PerkPackPlus**](https://www.nexusmods.com/newvegas/mods/70473)  
+Adds various new perks suited for specialization and to add spice to your build.
+
+[**Food Effect Tweaks**](https://www.nexusmods.com/newvegas/mods/75103)  
+Simple and customisable reduced food healing effects, to help balance Survival versus Medicine. Affects all items, including from other mods. 
 
 [**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141?)  
 Expands the idea of traits with opposite effects (seen in Fast Shot and Trigger Discipline) to the game's other traits.
