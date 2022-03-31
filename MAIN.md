@@ -422,6 +422,9 @@ Files to install:
 [SIDE - Simple Items Distributed Everywhere](https://www.nexusmods.com/newvegas/mods/75746)  
 This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black Coffee, Nuka Cola Quantums, Daturana/Datura Hide/Datura Antivenom. Healing Poultices, Fiery Purgatives, Blood Shields, Snakebite Tourniquets, Weapon Binding Rituals, and Auto Inject Stimpaks around the wasteland.
 
+[**Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
+This is a NVSE plugin that enables a visible body and player shadows when in first person.
+
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Makes enemies more likely to target the player in combat rather than companions.
 
@@ -613,6 +616,13 @@ A fairly simple mod that applies an IMOD when you kill someone to recreate the K
 
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
+
+[Dusty Distance Redone](https://www.nexusmods.com/newvegas/mods/75183)  
+.esp-free mod to apply dusty distance effects.
+
+Files to install:
+- **Dusty Distance Redone** (Main files).
+- **Dusty Distance Redone - 39k (no nights tweaks)** (Optional Files)
 
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Improves the gas leak refraction effect, making it easier to spot.
