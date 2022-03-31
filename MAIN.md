@@ -41,7 +41,7 @@ Adds new functions, engine bug fixes and tweaks.
 [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336)  
 Enables having custom animations for weapons and actors. Also fixes the engine-bound anim group limit problem.
 
-[**OneTweak 2.1.0.2**](https://www.nexusmods.com/newvegas/mods/75685)  
+[**OneTweak**](https://www.nexusmods.com/newvegas/mods/75685)  
 Enables borderless window mode for safe alt-tabbing.
 - After installing the mod in MO2, click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button.
 - Click **INI Editor**. Select the **FalloutCustom.ini** tab.
