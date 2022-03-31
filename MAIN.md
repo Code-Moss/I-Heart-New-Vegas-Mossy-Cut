@@ -654,6 +654,19 @@ Files to install:
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
+[**Simple Open Freeside**](https://www.nexusmods.com/newvegas/mods/73128)  
+Modern recreation of Freeside Open, featuring many bug fixes, occlusion panes, and fixed meshes to deliver a much more stable, performance friendly, and bug free experience.
+
+Files to install:
+- **Simple Open Freeside** (Main files)
+- **Uncut Wasteland Patch** (Optional files)
+
+[**Simple Open Strip**](https://www.nexusmods.com/newvegas/mods/73127)  
+Modern recreation of Strip Open, featuring many bug fixes, occlusion panes, and fixed meshes to deliver a much more stable, performance friendly, and bug free experience.
+
+Files to install:
+- **Simple Open Strip** (Main files)
+
 [**Palm Tree Replacer**](https://www.nexusmods.com/newvegas/mods/72917)  
 Replaces the dated palm trees seen on the Strip with way better custom models. Installed for consistency with The Strip Planters Fixed.
 
