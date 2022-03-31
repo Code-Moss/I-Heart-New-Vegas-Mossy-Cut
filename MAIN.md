@@ -360,6 +360,9 @@ Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throw
 [**Food Effect Tweaks - Custom Food Healing**](https://www.nexusmods.com/newvegas/mods/75103)  
 Reduces food healing effects to help balance Survival versus Medicine. Affects all items, including from other mods.
 
+[**Better Hacking**](https://www.nexusmods.com/newvegas/mods/70277)  
+Allows the player to bypass the hacking mini-game by using a Password Bypass, similar to The Outer Worlds.
+
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
