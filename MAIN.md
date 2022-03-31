@@ -275,6 +275,12 @@ Adjusts the positioning of the grenade/mine icon to not overlap with other UI el
 [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
 
+[**Retrievable Throwables**](https://www.nexusmods.com/newvegas/mods/66461)  
+If you can throw it - you can pick it up.
+
+[Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583)  
+Allows any empty bottles or canteens to be filled from any water source, even from other mods
+
 ## GAMEPLAY
 
 [**Building Bridges**](https://www.nexusmods.com/newvegas/mods/75601)  
@@ -425,6 +431,12 @@ This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black
 [**Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 This is a NVSE plugin that enables a visible body and player shadows when in first person.
 
+[JIP Companions Command and Control](https://www.nexusmods.com/newvegas/mods/50468)  
+This mod is designed to revolutionize the way companions are controlled and interacted with.
+
+[Perk Styled CCC Icons](https://www.nexusmods.com/newvegas/mods/70849)  
+Replaces many of "JIP Companions Command and Control"'s icons.
+
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Makes enemies more likely to target the player in combat rather than companions.
 
@@ -480,6 +492,24 @@ Collection of compatibility patches for mods installed so far.
 Adds descriptions to all items in the game. For extra roleplaying experience.
 
 ## CONTENT
+
+[**Weapons of Our Millenia**](https://www.nexusmods.com/newvegas/mods/72210)  
+A collection of Millenia's 22 best weapons, all painstakingly rebalanced and adjusted from the ground in a vanilla-friendly way.
+
+Files to install:
+- **Weapons of Our Millenia - BSAs** (Main files)
+- **Weapons of Our Millenia - Plugin** (Main files)
+- **Anniversary Anims Pack Patch** (Optional files)
+- **JSawyer Ultimate Edition Patch** (Optional files)
+- **Miscellaneous Tweaks Patch** (Optional files)
+
+[**Scottmack's Weapons Redone**](https://www.nexusmods.com/newvegas/mods/72529)  
+Qolore7's 10 favorite weapons made by Scottmack, all painstakingly rebalanced and adjusted from the ground in a vanilla-friendly way.
+
+Files to install:
+- **Scottmack's Weapons Redone** (Main files)
+- **Anniversary Anims Patch** (Optional files)
+- **Weapons of Our Millenia and Misc Tweaks Patch** (Optional files)
 
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
