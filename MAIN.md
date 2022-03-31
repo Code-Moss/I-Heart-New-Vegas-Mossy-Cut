@@ -25,6 +25,9 @@ By default, this guide will always require you to download the main file. On the
 
 ## NVSE PLUGINS
 
+[**Discord Rich Presence**](https://www.nexusmods.com/newvegas/mods/68976?tab=files)  
+Integrates Discord Rich Presence into Fallout NV/TTW.
+
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
@@ -104,6 +107,9 @@ Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
 [**yGTM**](https://www.nexusmods.com/newvegas/mods/72784)  
 NVSE plugin that alters the way Global Time Multiplier is modified so to provide better compatibility between mods and base game.
+
+[**Combat Lag Fix**](https://www.nexusmods.com/newvegas/mods/71973)  
+Improves framerate in combat by fixing an engine bug that lowered framerate while attacking an enemy with a health-bar visible.
 
 [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
