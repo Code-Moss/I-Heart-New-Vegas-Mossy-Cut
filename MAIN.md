@@ -595,6 +595,8 @@ Makes it so that only HUD shakes when hit by explosion.
 [Bullet Trails](https://www.nexusmods.com/newvegas/mods/75122)  
 Adds smoky trails to bullets.
 
+
+
 ### Characters
 
 [New Vegas Redesigned 2 Revised](https://www.nexusmods.com/newvegas/mods/71556)  
@@ -604,6 +606,15 @@ Fixes skin issues, ghastly neon hair (there's a lot), white splotches, poor face
 Replaces all the eye textures with more realistic looking eyes.
 
 ### Environment
+
+[**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
+Simple scripted interior lighting overhaul.
+
+[**Hidden Valley Overhauled**](https://www.nexusmods.com/newvegas/mods/70859)  
+Hidden Valley: Overhauled is a comprehensive, lore-friendly rework of the lighting and atmosphere of the Brotherhood of Steel's Hidden Valley Bunker that aims to better realise the potential of the location while staying true to Obsidian's vision. 
+
+Files to install:
+- **Hidden Valley Overhauled Classic BoS Theme** (Optional files)
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
