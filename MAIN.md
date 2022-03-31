@@ -674,11 +674,14 @@ Files to install:
 
 ### Characters
 
-[New Vegas Redesigned 2 Revised](https://www.nexusmods.com/newvegas/mods/71556)  
+[**New Vegas Redesigned 2 Revised**](https://www.nexusmods.com/newvegas/mods/71556)  
 Fixes skin issues, ghastly neon hair (there's a lot), white splotches, poor face proportions, personality mismatches, etc in an attempt to make each character look a bit more realistic.  
 
-[Real Eyes](https://www.nexusmods.com/newvegas/mods/70471)  
+[**Real Eyes**](https://www.nexusmods.com/newvegas/mods/70471)  
 Replaces all the eye textures with more realistic looking eyes.
+
+[**Securitrons On Alert**](https://www.nexusmods.com/newvegas/mods/69245)  
+Securitrons' faces will change when they enter combat mode.
 
 ### Environment
 
@@ -921,6 +924,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 X | Melee bash | B42 Melee Bash
 
 # CHANGELOG
+
+03-31-2022
+- Removed some mods (Body mods, and some other minor ones).
+- Added quite a few more mods and [Building Bridges](https://www.nexusmods.com/newvegas/mods/75601).
 
 03-13-2022
 - Merged in Addendum guide for simplicity.
