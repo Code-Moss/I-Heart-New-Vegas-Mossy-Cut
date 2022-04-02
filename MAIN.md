@@ -127,7 +127,7 @@ Custom configuration that enables many quality of life improvements, as well as 
 - Throwables can be held and released, like grenades.
 - Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside Misc Gameplay Merge (Gameplay section).
 - Can't steal caps after paying for repairs.
-- Binoculars can zoom in and out.
+- Scopes can zoom in and out.
 - Entering VATS costs AP.
 - Opening Pip-Boy in combat costs AP.
 - Living Anatomy perk shows Damage Resistance.
