@@ -445,13 +445,6 @@ Replaces many of "JIP Companions Command and Control"'s icons.
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Makes enemies more likely to target the player in combat rather than companions.
 
-[**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884)  
-Makes repairing more difficult by making each repair require a consumable Repair Tools item.
-
-Files to install:
-- **Repair Tools** (Main files)
-- **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files)
-
 [**PerkPackPlus**](https://www.nexusmods.com/newvegas/mods/70473)  
 Adds various new perks suited for specialization and to add spice to your build.
 
