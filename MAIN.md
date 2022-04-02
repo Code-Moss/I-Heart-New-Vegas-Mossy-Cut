@@ -448,9 +448,6 @@ Makes enemies more likely to target the player in combat rather than companions.
 [**PerkPackPlus**](https://www.nexusmods.com/newvegas/mods/70473)  
 Adds various new perks suited for specialization and to add spice to your build.
 
-[**Food Effect Tweaks**](https://www.nexusmods.com/newvegas/mods/75103)  
-Simple and customisable reduced food healing effects, to help balance Survival versus Medicine. Affects all items, including from other mods. 
-
 [**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141?)  
 Expands the idea of traits with opposite effects (seen in Fast Shot and Trigger Discipline) to the game's other traits.
 
