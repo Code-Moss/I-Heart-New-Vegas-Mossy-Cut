@@ -168,7 +168,7 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
 [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
-Omits ITM records and removes unnecessary tweaks to Ammunition, Object Effect, Explosion, FormID List, and Recipe recorts.
+Removes all non-bug fix elements of the original mod and fixes a few bugs.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 Visual and audio fixes for thrown projectiles.
