@@ -235,6 +235,11 @@ Custom configuration that increases field of view.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
+
+Files to install:
+- **Vanilla Hud Cleaned** (Main files)  
+- **Vanilla Hud Cleaned - Barter Update** (Update files)
+
 - FOMOD options to install:
   - All **Modules** options.
   - Skip the **DarnUI Specific** and **Tweaks** options.
