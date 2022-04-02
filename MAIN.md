@@ -256,11 +256,11 @@ Bug fixes and consistency tweaks for icons in terms of coloring and transparency
 Files to install:
 - **1. Consistent Pip-boy Icons** (Main files)  
 - **2. Consistent Addon Icons** (Main files)
-  - FOMOD options to install:
-    - [X] Interfaceshared0 Addon
+	- [x] Everything
 - **3. Consistent Glow Icons** (Main files)
   - FOMOD options to install:
     - [X] Main File
+    - [X] Glow Icons Extention
 - **6. Vanilla UI Plus Patch** (Optional files)
 
 [**The HUD Editor**](https://www.nexusmods.com/newvegas/mods/67470)  
