@@ -215,13 +215,13 @@ Increases the amount of visible dialogue topics, and displays numbers next to di
 [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
 
-[Magazine (and Chem) Submenu](https://www.nexusmods.com/newvegas/mods/73719)  
+[**Magazine (and Chem) Submenu**](https://www.nexusmods.com/newvegas/mods/73719)  
 Adds a submenu for skill magazines, so that they don't clutter up your Aid item list in the inventory menu
 
 [**Inventory Search**](https://www.nexusmods.com/newvegas/mods/66329)  
 This mod will add a search button (recognized by a magnifying glass icon) to the inventory, container, barter and recipe menus.
 
-[WND - Weapon Name Display](https://www.nexusmods.com/newvegas/mods/63687)  
+[**WND - Weapon Name Display**](https://www.nexusmods.com/newvegas/mods/63687)  
 A simple mod that displays the name of your weapon when you want.
 
 [**ySI - Sorting Ycons**](https://www.nexusmods.com/newvegas/mods/74358?)  
@@ -236,8 +236,8 @@ Custom configuration that increases field of view.
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
 - FOMOD options to install:
-  - All **Modules** and **Tweaks** options.
-  - Skip the **DarnUI Specific** options.
+  - All **Modules** options.
+  - Skip the **DarnUI Specific** and **Tweaks** options.
 
 [**Clean Companion Wheel**](https://www.nexusmods.com/newvegas/mods/70486)  
 Cleans up textures surrounding the Companion Wheel.
