@@ -286,7 +286,7 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 [**Retrievable Throwables**](https://www.nexusmods.com/newvegas/mods/66461)  
 If you can throw it - you can pick it up.
 
-[Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583)  
+[**Universal Water Bottling**](https://www.nexusmods.com/newvegas/mods/71583)  
 Allows any empty bottles or canteens to be filled from any water source, even from other mods
 
 ## GAMEPLAY
@@ -335,14 +335,14 @@ Improves animation transitions when going from idle to sprint, plus allows the p
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
-[Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921)  
+[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 A compilation of many smaller gameplay mods by various authors, all fully fixed, optimized, and updated.
 
 Files to install:
 - **Misc Gameplay Merge** (Main files)
 - **JSawyer Ultimate Edition Patch** (Optional files)
 
-[Miscellaneous Tweaks Collection](https://www.nexusmods.com/newvegas/mods/71847)  
+[**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Various random mods by Qolore7.
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
@@ -419,28 +419,22 @@ Settings (in the INI) to change:
 [**Point that somewhere else**](https://www.nexusmods.com/newvegas/mods/73938)  
 Simple, scripted mod makes it so that NPCs will either fight or flee you if you point a gun at them.
 
-[C93 - FPS Health Regeneration](https://www.nexusmods.com/newvegas/mods/44454)  
+[**C93 - FPS Health Regeneration**](https://www.nexusmods.com/newvegas/mods/44454)  
 Adds FPS-style health regeneration. ('coz I like it in this game)
 
 Files to install:
 - **C93 - FPS Health Regeneration - Minor Wound Healing** (Main Files)
 
-[**New Vegas Landscape Overhaul Re-Remastered**](https://www.nexusmods.com/newvegas/mods/74218)  
-This mod aims to add new life the the Mojave Wasteland by making bland locations more detailed. 
-
-Files to install:
-- **New Vegas Landscape Overhaul Re-Remastered** (Main Files)
-
-[SIDE - Simple Items Distributed Everywhere](https://www.nexusmods.com/newvegas/mods/75746)  
+[**SIDE - Simple Items Distributed Everywhere**](https://www.nexusmods.com/newvegas/mods/75746)  
 This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black Coffee, Nuka Cola Quantums, Daturana/Datura Hide/Datura Antivenom. Healing Poultices, Fiery Purgatives, Blood Shields, Snakebite Tourniquets, Weapon Binding Rituals, and Auto Inject Stimpaks around the wasteland.
 
 [**Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 This is a NVSE plugin that enables a visible body and player shadows when in first person.
 
-[JIP Companions Command and Control](https://www.nexusmods.com/newvegas/mods/50468)  
+[**JIP Companions Command and Control**](https://www.nexusmods.com/newvegas/mods/50468)  
 This mod is designed to revolutionize the way companions are controlled and interacted with.
 
-[Perk Styled CCC Icons](https://www.nexusmods.com/newvegas/mods/70849)  
+[**Perk Styled CCC Icons**](https://www.nexusmods.com/newvegas/mods/70849)  
 Replaces many of "JIP Companions Command and Control"'s icons.
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
@@ -690,6 +684,12 @@ Replaces all the eye textures with more realistic looking eyes.
 Securitrons' faces will change when they enter combat mode.
 
 ### Environment
+
+[**New Vegas Landscape Overhaul Re-Remastered**](https://www.nexusmods.com/newvegas/mods/74218)  
+This mod aims to add new life the the Mojave Wasteland by making bland locations more detailed. 
+
+Files to install:
+- **New Vegas Landscape Overhaul Re-Remastered** (Main Files)
 
 [**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
 Simple scripted interior lighting overhaul.
