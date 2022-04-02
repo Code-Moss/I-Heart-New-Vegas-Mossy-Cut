@@ -412,6 +412,10 @@ Files to install:
 [**Immersive Fast Travel Encounters**](https://www.nexusmods.com/newvegas/mods/73879)  
 A user configurable overhaul of the fast travel system that implements D&D styled random encounters when the player fast travels.
 
+Settings (in the INI) to change:
+- **bEnableIntroMessage** = 0
+- **bEnableAddictionEncounters** = 0
+
 [**Point that somewhere else**](https://www.nexusmods.com/newvegas/mods/73938)  
 Simple, scripted mod makes it so that NPCs will either fight or flee you if you point a gun at them.
 
