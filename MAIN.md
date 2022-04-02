@@ -431,6 +431,11 @@ This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black
 [**Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 This is a NVSE plugin that enables a visible body and player shadows when in first person.
 
+Settings (in the INI) to change:
+- **bEnableFirstPersonBody** = 0
+- **bVisibleArmsWeaponHolstered** = 0
+- **bVisibleBodyPipboyMenu** = 0
+
 [**JIP Companions Command and Control**](https://www.nexusmods.com/newvegas/mods/50468)  
 This mod is designed to revolutionize the way companions are controlled and interacted with.
 
