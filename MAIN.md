@@ -367,9 +367,11 @@ Completely reconstructed version of Josh Sawyer's mod, made from the ground up. 
 
 Files to install:
 - **JSawyer Ultimate Edition** (Main files)
-- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files)
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
+
+[**JSawyer Ultimate Edition - Moss' Tweaks**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/resources/JSawyer%20Ultimate%20Edition%20Custom%20INI.7z)
+Based off of Push's Tweaks.
 
 [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes.7z)  
 Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes.
