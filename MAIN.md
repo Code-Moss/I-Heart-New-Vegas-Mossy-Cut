@@ -531,7 +531,6 @@ Overhaul of New Vegas's raider factions, balancing their loot and adding more of
 Files to install:
 - **Mojave Raiders** (Main files)
 - **Mojave Raiders - .22LR Varmint Rifle Patch** (Optional files)
-- **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
 - **Mojave Raiders - The Living Desert Patch** (Optional files)
 
 [**No NPC Throwing Weapon Consumption - WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/No%20NPC%20Throwing%20Weapon%20Consumption%20-%20WMIM%20Patch.7z)  
