@@ -533,9 +533,6 @@ Files to install:
 - **Mojave Raiders - .22LR Varmint Rifle Patch** (Optional files)
 - **Mojave Raiders - The Living Desert Patch** (Optional files)
 
-[**No NPC Throwing Weapon Consumption - WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/No%20NPC%20Throwing%20Weapon%20Consumption%20-%20WMIM%20Patch.7z)  
-Compatibility patch for Weapon Mesh Improvement Mod.
-
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
 
