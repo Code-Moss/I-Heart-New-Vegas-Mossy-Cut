@@ -525,9 +525,6 @@ Restores some cut but fully-functional NPCs to the Strip.
 [**The Living Desert**](https://www.nexusmods.com/newvegas/mods/64623)  
 This mod adds hundreds of npcs and several scripted events to the world of Fallout: New Vegas.
 
-[Slightly more interesting - Gun Runners](https://www.nexusmods.com/newvegas/mods/75562)  
-Gives the Gun Runners vendor shack a bit more detail.
-
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
@@ -687,6 +684,9 @@ Files to install:
 
 [**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
 Simple scripted interior lighting overhaul.
+
+[**Slightly more interesting - Gun Runners**](https://www.nexusmods.com/newvegas/mods/75562)  
+Gives the Gun Runners vendor shack a bit more detail.
 
 [**Hidden Valley Overhauled**](https://www.nexusmods.com/newvegas/mods/70859)  
 Hidden Valley: Overhauled is a comprehensive, lore-friendly rework of the lighting and atmosphere of the Brotherhood of Steel's Hidden Valley Bunker that aims to better realise the potential of the location while staying true to Obsidian's vision. 
