@@ -553,7 +553,7 @@ Files to install:
 Brings the iconic power armor look of the classic Fallout games back to New Vegas.
 
 Files to install:
-- **Titans of The New West** (Main files)
+- **Titans of The New West** (Main files) **[Only use 1 ESP]**
 - **B42 Compatibility Skeleton** (Optional files)
 
 ## VISUALS
