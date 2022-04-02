@@ -419,14 +419,6 @@ Settings (in the INI) to change:
 [**Point that somewhere else**](https://www.nexusmods.com/newvegas/mods/73938)  
 Simple, scripted mod makes it so that NPCs will either fight or flee you if you point a gun at them.
 
-[**BLEED**](https://www.nexusmods.com/newvegas/mods/61141)  
-Ballistic Locational Energy Explosive Damage.
-
-Files to install:
-- **BLEEDNV** (Optional Files)
-- **BLEEDNV - Ragdolls Patch** (Optional Files)
-- **BLEEDNV - Unofficial Patch NVSE Plus Patch** (Optional Files)
-
 [C93 - FPS Health Regeneration](https://www.nexusmods.com/newvegas/mods/44454)  
 Adds FPS-style health regeneration. ('coz I like it in this game)
 
