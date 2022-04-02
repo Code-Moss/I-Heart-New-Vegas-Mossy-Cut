@@ -469,7 +469,6 @@ Improves the character creation by speeding up the process, adding specialized g
 [**Consistent Pip-Boy Icons - Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Collection of upscaled icons for a variety of mods.
 - FOMOD options to install:
-  - [X] B42 Melee Bash
   - [X] Mojave Arsenal
 
 [**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Patches.7z)  
@@ -483,10 +482,10 @@ Collection of compatibility patches for mods installed so far.
   - [X] 05 Opposite Traits
   - [X] 06 Improved Traits
 
+## CONTENT
+
 [**B42 Descriptions aka Pip-Info**](https://www.nexusmods.com/newvegas/mods/68049)  
 Adds descriptions to all items in the game. For extra roleplaying experience.
-
-## CONTENT
 
 [**Weapons of Our Millenia**](https://www.nexusmods.com/newvegas/mods/72210)  
 A collection of Millenia's 22 best weapons, all painstakingly rebalanced and adjusted from the ground in a vanilla-friendly way.
