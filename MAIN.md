@@ -739,9 +739,6 @@ Files to install:
 - **Desert Natural Weathers** (Main files)
 - **Downscaled Performance Textures** (Optional files)
 
-[**Desert Natural Weathers Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20Custom%20INI.7z)  
-Disables interior tint fix and increases sunlight during the day.
-
 [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
 Adds vanilla ambient music to the Zion worldspace.
 
