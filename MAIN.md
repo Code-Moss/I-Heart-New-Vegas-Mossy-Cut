@@ -653,12 +653,6 @@ Makes it so that only HUD shakes when hit by explosion.
 [**Bullet Trails**](https://www.nexusmods.com/newvegas/mods/75122)  
 Adds smoky trails to bullets.
 
-[**Toggleable Helmet Effects**](https://www.nexusmods.com/newvegas/mods/71761)  
-Replaces the PipBoy light with sneak sight (riot gear) or nightvision (hazmat suit), depending on what helmet is being used. 
-
-Files to install:
-- **Toggleable Helmet Effects Plus** (Main files)
-
 ### Characters
 
 [**New Vegas Redesigned 2 Revised**](https://www.nexusmods.com/newvegas/mods/71556)  
