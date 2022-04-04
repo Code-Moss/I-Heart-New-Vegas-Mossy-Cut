@@ -584,10 +584,10 @@ Even more hitman goodness.
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
 Removes the need to manually patch weapons for animations using the ISControl node system, used in most kNVSE sets by New Vegas animators. Works with every weapon and every mod, instantly.
 
-[**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
+[**Immersive Recoil**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
 
-[**Viewmodel Recoil 0.308**](https://www.nexusmods.com/newvegas/mods/71852)  
+[**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
 Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
 
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
