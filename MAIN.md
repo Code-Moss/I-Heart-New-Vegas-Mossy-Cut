@@ -829,7 +829,7 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 [**I Heart New Vegas MO2 Profile Files**](https://github.com/Sigourn/iheartnewvegas/blob/main/I%20Heart%20New%20Vegas%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for I Heart New Vegas to work as intended.
-- Once the download has finished, click the ![https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/assets/mo2_folder.png] folders button at the top of MO2 and select Open Profile folder.
+- Once the download has finished, click the ![MO2](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/assets/mo2_folder.png) folders button at the top of MO2 and select Open Profile folder.
 - Extract the filest from the downloaded archive to opened folder and overwrite when prompted.
 
 > ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
