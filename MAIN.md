@@ -748,7 +748,7 @@ Star texture and mesh using NASA satellite images to create a real-world accurat
 Files to install:
 - **Accurate Stars 1k** (Main files)
 
-### Audio
+## Audio
 
 [**Ed-E the Silent Eyebot**](https://www.nexusmods.com/newvegas/mods/72430)  
 Removes ED-E's "Combat Initiated" Audio.
