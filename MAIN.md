@@ -830,7 +830,7 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 [**I Heart New Vegas MO2 Profile Files**](https://github.com/Sigourn/iheartnewvegas/blob/main/I%20Heart%20New%20Vegas%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for I Heart New Vegas to work as intended.
 - Once the download has finished, click the  <img src="https://github.com/VivaNewVegas/vivanewvegas.github.io/blob/master/img/mo2%20folders.png" alt="folder" width="20"/>  folders button at the top of MO2 and select Open Profile folder.
-- Extract the filest from the downloaded archive to opened folder and overwrite when prompted.
+- Move the "loadorder.txt" file to the opened folder and overwrite when prompted.
 
 > ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
  
@@ -855,12 +855,6 @@ The following settings need to be configured after you've already started a new 
 **Quick Grenade Hotkey**:
 - Set **Grenade Hotkey** to **G**.
 - Set **Grenade Swap Hotkey** to **C**.
-
-**RAD**:
-- Set **Hardcore** to **ON**.
-- Set **JSawyer Increments** to **ON**.
-
-> ℹ️ Sleep deprivation, hunger, and thirst will affect max AP; makes the former setting follow JSawyer's stat penalties progression.
 
 ### INI config
 
