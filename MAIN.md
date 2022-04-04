@@ -829,7 +829,7 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 [**I Heart New Vegas MO2 Profile Files**](https://github.com/Sigourn/iheartnewvegas/blob/main/I%20Heart%20New%20Vegas%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for I Heart New Vegas to work as intended.
-- Once the download has finished, click the ![MO2](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/assets/mo2_folder.png) folders button at the top of MO2 and select Open Profile folder.
+- Once the download has finished, click the  <img src="https://github.com/VivaNewVegas/vivanewvegas.github.io/blob/master/img/mo2%20folders.png" alt="folder" width="20"/>  folders button at the top of MO2 and select Open Profile folder.
 - Extract the filest from the downloaded archive to opened folder and overwrite when prompted.
 
 > ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
@@ -920,37 +920,11 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 X | Melee bash | B42 Melee Bash
 
-# CHANGELOG
+---
 
-03-31-2022
-- Removed some mods (Body mods, and some other minor ones).
-- Added quite a few more mods and [Building Bridges](https://www.nexusmods.com/newvegas/mods/75601).
+**_Until next time Mojave Courier..._**
 
-03-13-2022
-- Merged in Addendum guide for simplicity.
-- Updated **OneTweak** installation instructions (NVSE Plugins).
-
-03-10-2022
-- Re-added **Khans Friendly to Fiends** (Content).
-- Updated **Character Expansions Revised Patches** (Visuals) installation instructions.
-
-03-09-2022
-- Updated **Desert Natural Weathers** installation instructions (Visuals).
-	
-03-05-2022
-- Updated **Desert Natural Weathers** installation instructions (Visuals).
-- Removed **HD Moon 2K** (Visuals). The latest update of **Desert Natural Weathers** finally fixes the white outline bug on the Moon, so it is no longer needed.
-
-03-03-2022
-- Updated **Desert Natural Weathers** installation instructions (Visuals).
-- Updated **RAD** MCM config instructions (**MCM Config**).
-
-03-02-2022
-- Updated **Desert Natural Weathers** installation instructions (Visuals).
-- Re-added **B42 Melee Bash** (Gameplay).
-- Added **Accurate NASA Stars** (Visuals).
-- Removed **RAD - Radiation (is) Actually Dangerous**. The **Overhaul** completely replaces this mod now.
-</details>
+---
 
 [<< Back to Readme](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/README.md)  
 [<< Back to Setup](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md)
