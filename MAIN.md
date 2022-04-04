@@ -733,8 +733,8 @@ Files to install:
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
 
 Files to install:
-- **Desert Natural Weathers 3.3.5** (Main files)
-- **Restore fake interior godrays.** (Optional files)
+- **Desert Natural Weathers** (Main files)
+- **Downscaled Performance Textures** (Optional files)
 
 [**Desert Natural Weathers Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20Custom%20INI.7z)  
 Disables interior tint fix and increases sunlight during the day.
