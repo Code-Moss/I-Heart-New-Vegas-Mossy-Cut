@@ -807,6 +807,7 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 Files to install:
 - **Strip Lights Region Fix** (Main files)
 - **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)
+- **Strip Lights Region Fix - The Living Desert** (Optional files)
 - **Strip Lights Region Fix - Uncut Wasteland** (Optional files)
 
 [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
