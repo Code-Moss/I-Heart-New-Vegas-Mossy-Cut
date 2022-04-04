@@ -634,7 +634,7 @@ A fairly simple mod that applies an IMOD when you kill someone to recreate the K
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
 
-[Dusty Distance Redone](https://www.nexusmods.com/newvegas/mods/75183)  
+[**Dusty Distance Redone**](https://www.nexusmods.com/newvegas/mods/75183)  
 .esp-free mod to apply dusty distance effects.
 
 Files to install:
@@ -647,13 +647,13 @@ Improves the gas leak refraction effect, making it easier to spot.
 [**More Subtle Hidden Valley Dust Storm**](https://www.nexusmods.com/newvegas/mods/70275)  
 Tones down the dust storm effect near the Hidden Valley bunkers.
 
-[HUD Only Explosion Shake](https://www.nexusmods.com/newvegas/mods/75064)  
+[**HUD Only Explosion Shake**](https://www.nexusmods.com/newvegas/mods/75064)  
 Makes it so that only HUD shakes when hit by explosion.
 
-[Bullet Trails](https://www.nexusmods.com/newvegas/mods/75122)  
+[**Bullet Trails**](https://www.nexusmods.com/newvegas/mods/75122)  
 Adds smoky trails to bullets.
 
-[Toggleable Helmet Effects](https://www.nexusmods.com/newvegas/mods/71761)  
+[**Toggleable Helmet Effects**](https://www.nexusmods.com/newvegas/mods/71761)  
 Replaces the PipBoy light with sneak sight (riot gear) or nightvision (hazmat suit), depending on what helmet is being used. 
 
 Files to install:
