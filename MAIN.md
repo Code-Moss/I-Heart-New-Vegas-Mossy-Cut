@@ -656,7 +656,13 @@ Adds smoky trails to bullets.
 ### Characters
 
 [**New Vegas Redesigned 2 Revised**](https://www.nexusmods.com/newvegas/mods/71556)  
-Fixes skin issues, ghastly neon hair (there's a lot), white splotches, poor face proportions, personality mismatches, etc in an attempt to make each character look a bit more realistic.  
+Fixes skin issues, ghastly neon hair (there's a lot), white splotches, poor face proportions, personality mismatches, etc in an attempt to make each character look a bit more realistic. 
+
+- FOMOD options to install:
+  - [X] Yukichigai Unofficial Patch
+  - [X] JSawyer Ultimate Edition
+  - [X] Uncut Wasteland Plus NPCs
+  - [X] Mojave Raiders
 
 [**Real Eyes**](https://www.nexusmods.com/newvegas/mods/70471)  
 Replaces all the eye textures with more realistic looking eyes.
