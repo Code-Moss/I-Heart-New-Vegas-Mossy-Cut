@@ -918,7 +918,7 @@ X | Melee bash | B42 Melee Bash
 
 ---
 
-**_Until next time Mojave Courier..._**
+**_Until next time, Wasteland Courier..._**
 
 ---
 
