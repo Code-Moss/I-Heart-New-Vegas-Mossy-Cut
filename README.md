@@ -1,7 +1,7 @@
-# I HEART NEW VEGAS...𝔗ℌ𝔈 𝔐𝔒𝔖𝔖𝔜 ℭ𝔘𝔗 : A Fallout: New Vegas Modding Guide
+# I HEART NEW VEGAS: A Fallout: New Vegas Modding Guide
 [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas)
 
-Last updated: April 4th, 2022.
+Last updated: April 7th, 2022.
 
 ⚠️ Current fork is currently... **!!!UNSTABLE!!!** DO NOT USE YET.
 
@@ -40,7 +40,6 @@ This is *not* a modding guide for beginners. A certain level of modding competen
 What this guide doesn't do:
 
 - Address every single micro-issue in the game: no game is perfect and all of them have flaws, yet we still enjoy them. My intention is to fix or at least address the most glaring ones, those that are a problem in the moment to moment experience.
-- ~~Add new features no one asked for: there are many gameplay mods out there, but the amount of them that actually try to fix issues with the existing game are in the minority. If you want to build your own settlement or robot army, look someplace else.~~
 - Nitpick over individual meshes or textures: unless it's an actual fix, this guide won't bother. And even then, it probably won't bother either.
 - Improve the meshes and textures of everything I can: this alone can add another 50 or 100 mods to any install, and inconsistency will sooner than later rear its ugly head.
 
@@ -62,13 +61,13 @@ Monitor | Telefunken +/-17" 960p (4:3) @ 60Hz, analog, like a real gamer.
 
 ## Frequently asked questions
 
-### How many plugins and mods are there?
+### How many plugins are there?
 
-There are TBC mods and TBC plugins total.
+There are about **150** plugins total.
 
 ### How much space do I need to install these mods?
 
-Roughly 13GB.
+Roughly 4GB.
 
 ### Is this guide compatible with...?
 
