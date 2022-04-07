@@ -834,12 +834,10 @@ Adjusts mod order and load order for I Heart New Vegas to work as intended.
 - Once the download has finished, click the  <img src="https://github.com/VivaNewVegas/vivanewvegas.github.io/blob/master/img/mo2%20folders.png" alt="folder" width="20"/>  folders button at the top of MO2 and select Open Profile folder.
 - Move the "loadorder.txt" file to the opened folder and overwrite when prompted.
 
-> ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
- 
 > ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
 ### Settings config
-> All keybinds are designed to be played with a 5 Button mouse, see ["Sigourns Original Keybindings"](https://github.com/Sigourn/fabulousnewvegas/blob/main/main.md#mod-keybindings).
+> All keybinds are designed to be played with a 5 Button mouse, if you dont have on you should refer to ["Sigourns Original Keybindings"](https://github.com/Sigourn/fabulousnewvegas/blob/main/main.md#mod-keybindings).
 
 The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
 
@@ -862,7 +860,7 @@ The following settings need to be configured after you've already started a new 
 ### INI config
 
 **falloutcustom.ini (Optional)**:
-- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
+- Click the **Tools** ![Tools](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
 
 ```
 [Imagespace]
