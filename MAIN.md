@@ -344,7 +344,7 @@ Files to install:
 - **Misc Gameplay Merge** (Main files)
 - **JSawyer Ultimate Edition Patch** (Optional files)
 
-[**Misc Gameplay Merge YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)
+[**Misc Gameplay Merge YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Patches Misc Gameplay Merge for compatibility with Yukichigai Unofficial Patch.
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
