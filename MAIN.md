@@ -7,19 +7,16 @@
 
 ## Disclaimer
 
-The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup) page, and are familiar with Mod Organizer 2, which we will be using to install the mods in this document. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
+The guide presented here assumes you have already followed all instructions found in the setup page, and are familiar with Mod Organizer 2, which we will be using to install the mods in this document. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
 
-## Installing mods appropriately
+### Creating a separator
 
-When installing a mod, use the name provided for it in the guide's hyperlink. For example, the guide lists the following mod's name as **Yukichigai Unofficial Patch - YUP**.
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
 
-![Example](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/modExample.png)
+- Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
+- Name your separator and click **OK**.
 
-Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, the name of the file, or a complete filename. When manually installing a mod, Mod Organizer 2 will always resort to its filename.
-
-All files installed from a same Nexus page should be merged into a single mod when using Mod Organizer 2. They should also be merged in the order they are listed in this guide, to avoid potential problems (such as update files being overwritten by older files from a same mod). The rule of thumb to use is that one hyperlink in the guide = one single mod on your MO2's left pane.
-
-By default, this guide will always require you to download the main file. On the occasion more specific instructions are required (e.g. multiple main files are present and you need directions, or additional files need to be installed) they will be provided.
+I suggest creating a separator for DLC as well as each mod category we will be installing. Separators can be collapsed to keep your mod list clean and tidy.
 
 # I HEART NEW VEGAS
 
