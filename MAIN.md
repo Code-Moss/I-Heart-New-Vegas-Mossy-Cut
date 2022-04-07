@@ -839,6 +839,7 @@ Adjusts mod order and load order for I Heart New Vegas to work as intended.
 > ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
 ### Settings config
+> All keybinds are designed to be played with a 5 Button mouse, see ["Sigourns Original Keybindings"](https://github.com/Sigourn/fabulousnewvegas/blob/main/main.md#mod-keybindings).
 
 The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
 
