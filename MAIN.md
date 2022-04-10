@@ -114,34 +114,6 @@ Engine bugfixes, optional tweaks and new features with no performance impact. Fu
 [**lStewieAl's Tweaks Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/lStewieAl's%20Tweaks%20Custom%20INI.7z)  
 Custom configuration that enables many quality of life improvements, as well as gameplay and balance tweaks.
 
-<details>
-	<summary>Detailed list of tweaks</summary>
-
-- Numbered dialogue topics.
-- Hidden skill requirements for skill checks.
-- Guns require enough ammo to fire a full round (clip size matters).
-- Holding the attack button for grenades decreases their detonation timer.
-- Throwables can be held and released, like grenades.
-- Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside Misc Gameplay Merge (Gameplay section).
-- Can't steal caps after paying for repairs.
-- Scopes can zoom in and out.
-- Entering VATS costs AP.
-- Opening Pip-Boy in combat costs AP.
-- Living Anatomy perk shows Damage Resistance.
-- Unconscious actors can be looted.
-- Manual reloading.
-- Slower backpedalling.
-- Owned items can't be grabbed and moved around.
-- VATS' range is tied to current weapon's range.
-- Pickpocket formula takes into account item weight, target Perception, and detection value.
-- Agility affects reload jams.
-- Repairing items gives XP.
-- Robotic companions heal with Scrap Metal instead of Stimpaks.
-- Sneak attack critical hits can only be dealt with melee weapons.
-- Broken armor is automatically unequipped.
-- Weapon mods can be unequipped.
-</details>
-
 ### Additional NVSE bug fixes
 
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
