@@ -111,7 +111,7 @@ Improves framerate in combat by fixing an engine bug that lowered framerate whil
 [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
-[**lStewieAl's Tweaks Custom INI**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/resources/lStewieAl's%20Tweaks%20Custom%20INI.7z)  
+[**lStewieAl's Tweaks Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/lStewieAl's%20Tweaks%20Custom%20INI.7z)  
 Custom configuration that enables many quality of life improvements, as well as gameplay and balance tweaks.
 
 <details>
