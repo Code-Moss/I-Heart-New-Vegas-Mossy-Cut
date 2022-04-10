@@ -26,7 +26,7 @@ For the purpose of this guide, this will be our **Root** folder:
 ```
 C:\Games\Fallout New Vegas
 ```
-Additional, you will need a folder where to install our mod manager and keep your mods. The following path will be used for this guide:
+Additionaly, you will need a folder where to install our mod manager and keep your mods. The following path will be used for this guide:
 ```
 C:\Mods
 ```
