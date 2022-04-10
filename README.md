@@ -3,7 +3,7 @@
 
 Last updated: April 7th, 2022.
 
-⚠️ Current fork is currently... **!!!INCOMPLETE!!!** DO NOT USE YET.
+⚠️ The current fork is... **INCOMPLETE** - DO NOT USE YET.
 
 ![Banner](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/assets/MainBanner.jpg)
 >A personal modlist using Sigourns *Faboulous New Vegas* as a base with some extra mods and setups I use. NOT FOR FIRST TIME PLAYERS.
