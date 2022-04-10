@@ -227,7 +227,7 @@ Sorting mod, using features of yUI to make inventory management a better experie
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
-[**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z)  
+[**FOV Slider Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/FOV%20Slider%20Custom%20INI.7z)  
 Custom configuration that increases field of view.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
