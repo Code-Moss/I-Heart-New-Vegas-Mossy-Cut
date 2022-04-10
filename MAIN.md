@@ -565,11 +565,8 @@ Files to install:
 - **AnniAnimPack_BugFix 1.3** (Main files)  
 - **Bonus Patch** (Main files)
 
-[**Hit's Anims - Season 1**](https://www.nexusmods.com/newvegas/mods/73856)  
-Compilation of hitman47101 kNVSE Weapon Animations.
-
-[**Hit's Anims - Season 2**](https://www.nexusmods.com/newvegas/mods/75208)  
-Even more hitman goodness.
+[**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
+Clean first person animations for New Vegas.
 
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
 Removes the need to manually patch weapons for animations using the ISControl node system, used in most kNVSE sets by New Vegas animators. Works with every weapon and every mod, instantly.
