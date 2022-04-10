@@ -172,7 +172,7 @@ Files to install:
 Greatly improves the user interface without compromising the original style.
 - Download the mod using the **DOWNLOAD NOW!** button.
 - FOMOD options to install:
-  - [X] Classic Pip-Boy Font
+  - [X] [Optional] Classic Pip-Boy Font 
   - [X] Plugin
   - [X] WASD Compatible 
 
