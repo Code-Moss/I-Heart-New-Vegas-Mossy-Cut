@@ -520,6 +520,9 @@ Files to install:
 - **Mojave Raiders - .22LR Varmint Rifle Patch** (Optional files)
 - **Mojave Raiders - The Living Desert Patch** (Optional files)
 
+[Mojave Raiders - Scottmack's Weapons Redone - Weapons of Our Millenia - JSUE Patch](https://www.nexusmods.com/newvegas/mods/75852)  
+Patch for Mojave Raiders to play nice with Scottmack's Weapons Redone - Weapons of Our Millenia and JSUE.
+
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
 
