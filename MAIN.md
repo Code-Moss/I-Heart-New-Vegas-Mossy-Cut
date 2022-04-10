@@ -306,7 +306,15 @@ Installation:
 3) Launch the game. You will see a pop up box. Enter your Nexus API key. In the main menu you will see text "Nexus API key is detected".  
 4) Load a game and you will see a pop-up box. Press "Yes" and get your BB key.  
 5) RESTART THE GAME.
-6) You will see text "BB::Ready, Fetched N messages" where N is the real number of processed messages.  
+6) You will see text "BB::Ready, Fetched N messages" where N is the real number of processed messages. 
+
+[**Building Bridges - Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/Building%20Bridges%20Custom%20INI.7z)  
+Disables the "fetching messages" notification at the start of every game.
+
+Installation:
+
+1) In MO2, right-click "Ovewrite" and then "Open in Explorer"
+2) Extract the contents of the .7z file into the "overwrite" directory.
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
