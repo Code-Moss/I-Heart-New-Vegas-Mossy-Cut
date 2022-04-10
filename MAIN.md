@@ -568,6 +568,10 @@ Files to install:
 [**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
 Clean first person animations for New Vegas.
 
+Files to install:
+- **FNV Clean Animations** (Main files)  
+- **FNV Clean Animations - Update 2.2.2** (Update files)
+
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
 Removes the need to manually patch weapons for animations using the ISControl node system, used in most kNVSE sets by New Vegas animators. Works with every weapon and every mod, instantly.
 
