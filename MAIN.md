@@ -426,6 +426,9 @@ Custom setting for added immersion.
 [**JIP Companions Command and Control**](https://www.nexusmods.com/newvegas/mods/50468)  
 This mod is designed to revolutionize the way companions are controlled and interacted with.
 
+[**JIP Companions Command and Control - Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/JIP%20Companions%20Command%20and%20Control%20Custom%20INI.7z)  
+Custom settings for balance and compatability.
+
 [**Perk Styled CCC Icons**](https://www.nexusmods.com/newvegas/mods/70849)  
 Replaces many of "JIP Companions Command and Control"'s icons.
 
