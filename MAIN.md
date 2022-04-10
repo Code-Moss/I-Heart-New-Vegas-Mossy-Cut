@@ -260,8 +260,19 @@ Files to install:
     - [X] Glow Icons Extention
 - **6. Vanilla UI Plus Patch** (Optional files)
 
+[**AidUI**](https://c6-dev.github.io/mods/aidui/)  
+Adds widgets on HUD for consumed Aid items that display the time until their effects run out.
+
 [**The HUD Editor**](https://www.nexusmods.com/newvegas/mods/67470)  
 Allows you to edit the HUD.
+
+[**The HUD Editor - Custom Config**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/Hud%20Editor%20-%20Custom%20INI.7z)  
+DO NOT USE IF YOUR SCREEN ISN'T 4:3.
+
+Installation:
+
+1) In MO2, right-click "Ovewrite" and then "Open in Explorer"
+2) Extract the contents of the .7z file into the "overwrite" directory.
 
 ## GAMEPLAY QOL
 
@@ -271,11 +282,8 @@ Increases the speed of the Pip-Boy animation.
 Files to install:
 - **Faster Pip-Boy Animation (2x)** (Main files)
 
-[**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
-Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
-
-[**Quick Grenade Hotkey Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Quick%20Grenade%20Hotkey%20Tweaks.7z)  
-Adjusts the positioning of the grenade/mine icon to not overlap with other UI elements, and removes the unnecessary "no grenade/mine" icon.
+[**Grenade Key**](https://www.nexusmods.com/newvegas/mods/58171)
+Lightweight stable grenade hotkey mod.
 
 [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
@@ -628,9 +636,6 @@ A compatible skeleton for many animation mods.
 
 [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
 Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
-
-[**NV Kill Flash**](https://www.nexusmods.com/newvegas/mods/74019)  
-A fairly simple mod that applies an IMOD when you kill someone to recreate the Kill Flash effect seen in games like Red Dead 2. 
 
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
