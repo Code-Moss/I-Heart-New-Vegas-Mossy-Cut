@@ -868,20 +868,6 @@ iMinGrassSize=40
 
 > ℹ️ Disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout; increases grass density.
 
-### Generating LOD
-
-> ⚠️ Assuming you use a different mod setup than the one recommended in the guide, you will have to generate LOD yourself.
-
-- Run **FNVLODGen** in MO2.
-- Right click on the list of worldspaces, and click **Select All**.
-- Click **Generate**. The process will take some time.
-- After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
-
-Now all that's left is to install our generated LOD.
-
-- Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
-- Install **FNVLODGen Output** with MO2.
-
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what keys are available to you, having followed this guide from beginning to end.
