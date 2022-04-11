@@ -816,12 +816,15 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 ## FINISHING TOUCHES
 
-### Mod order and load order
+### Load order
 
-[**I Heart New Vegas MO2 Profile Files**](https://github.com/Sigourn/iheartnewvegas/blob/main/I%20Heart%20New%20Vegas%20MO2%20Profile%20Files.7z)  
-Adjusts mod order and load order for I Heart New Vegas to work as intended.
+[**I Heart New Vegas MO2 Load Order**](https://raw.githubusercontent.com/Code-Moss/iheartnewvegas/main/resources/loadorder.txt)  
+Adjusts load order for I Heart New Vegas to work as intended.  
+
+- Right click and "Save Page As..."
+- Click "Save", **DO NOT CHANGE THE FILE NAME**.
 - Once the download has finished, click the  <img src="https://github.com/VivaNewVegas/vivanewvegas.github.io/blob/master/img/mo2%20folders.png" alt="folder" width="20"/>  folders button at the top of MO2 and select Open Profile folder.
-- Move the "loadorder.txt" file to the opened folder and overwrite when prompted.
+- Move "loadorder.txt" to the opened folder and overwrite when prompted.
 
 > ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
