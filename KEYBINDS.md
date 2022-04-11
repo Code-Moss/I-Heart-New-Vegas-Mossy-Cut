@@ -65,6 +65,7 @@ Left ALT | Skip player deathcam when dying | lStewieAl's Tweaks
 Tab | Change Camera Mode | Base Game
 I | Toggle HUD | lStewieAl's Tweaks
 Shift + Print Screen | Take Screenshot without HUD | lStewieAl's Tweaks
+B | Add Note | Building Bridges
 ----
 
 ### Console Commands:
