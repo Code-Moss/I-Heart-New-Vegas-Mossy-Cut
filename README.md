@@ -23,6 +23,7 @@ I want to thank all users who have supported my [**Morrowind Sharp**](https://gi
 If you've never played Fallout: New Vegas before, I recommend following the [**Viva New Vegas**](https://vivanewvegas.github.io/) modding guide. It has a fraction of the mods present here, and will take you considerably less time to follow and install appropriately.
 
 This is *not* a modding guide for beginners. A certain level of modding competency is expected.
+Feel free to post issues and point out improvements.
 
 ## About
 
