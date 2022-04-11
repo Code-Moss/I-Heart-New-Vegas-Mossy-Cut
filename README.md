@@ -84,4 +84,4 @@ No.
 
 ---
 
-[_CLICK HERE TO GET STARTED >>_](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md)
+[_**¡Vámonos!** >>_](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md)
