@@ -1,9 +1,9 @@
 # I HEART NEW VEGAS: A Fallout: New Vegas Modding Guide
 [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas)
 
-Last updated: April 10th, 2022.
+Last updated: April 11th, 2022.
 
-⚠️ The current fork is... **INCOMPLETE** - DO NOT USE YET.
+⚠️ The current state of the fork is... **In Testing**, it _should_ be good to use.
 
 ![Banner](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/assets/MainBanner.jpg)
 >A personal modlist using Sigourns *"Faboulous New Vegas"* as a base, with some extra mods and setups I use personally. NOT FOR FIRST TIME PLAYERS.
