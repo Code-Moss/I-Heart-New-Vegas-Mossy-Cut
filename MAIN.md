@@ -832,19 +832,22 @@ The following settings need to be configured after you've already started a new 
 
 **Gameplay**:
 - Set **Killcam Mode** to None.
-- Set **Difficulty** to Hard.
-
-**Controls -> Action Mapping**:
-- Set **VATS** to Esc in order to disable the keybinding.
-- Set **Ammo Swap** to Esc in order to disable the keybinding.
+- Set **Difficulty** to Normal.
 
 ### MCM config
 
 The following settings need to be configured after you've already started a new save, using the in-game **Mod Configuration** option.
 
-**Quick Grenade Hotkey**:
-- Set **Grenade Hotkey** to **G**.
-- Set **Grenade Swap Hotkey** to **C**.
+**Weapon Name Display**
+* Check: 
+	- [x] Always
+	- [x] Allow when weapon isn't drawn
+	- [x] Display 'Unarmed'
+	- Suffix Type: '+' 
+
+**Grenade Key**:
+- Set **Grenade Throw Key** to **Button 4**.
+- Set **Toggle Grenade Type Key** to **G**.
 
 ### INI config
 
@@ -881,28 +884,9 @@ Now all that's left is to install our generated LOD.
 
 # MOD KEYBINDINGS
 
-This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
+This is a handy reference table which will hopefully help you have a better idea of what keys are available to you, having followed this guide from beginning to end.
 
-Key | Function | Added by
------------- | ------------- | -------------
-F6 | Create full save | lStewieAl's Tweaks
-F10 | Reload current loaded save | lStewieAl's Tweaks
-Left ALT | Skip player deathcam when dying | lStewieAl's Tweaks
-R (double tap) | Switch ammunition | lStewieAl's Tweaks
-I | Toggle HUD | lStewieAl's Tweaks
-J | Open Pip-Boy quests tab | lStewieAl's Tweaks
-Hold Tab | Toggle scope night vision when aiming down the scope | lStewieAl's Tweaks
-M | Open Pip-Boy world map tab | lStewieAl's Tweaks
-Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
-Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks
-Shift+E | Pick up and equip | lStewieAl's Tweaks
-Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
-G | Equip/unequip grenade/mine | Quick Grenade Hotkey
-C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
-H | Open weapon wheel | Just Assorted Mods
-V | Toggle bullet time | Just Assorted Mods
-Shift+Movement | Sprint | Just Assorted Mods
-X | Melee bash | B42 Melee Bash
+[**HOTKEYS**](https://github.com/Code-Moss/iheartnewvegas/blob/main/KEYBINDS.md)
 
 ---
 
