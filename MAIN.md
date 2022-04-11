@@ -823,7 +823,7 @@ Adjusts load order for I Heart New Vegas to work as intended.
 
 - Right click and "Save Page As..."
 - Click "Save", **DO NOT CHANGE THE FILE NAME**.
-- Once the download has finished, click the  <img src="https://github.com/VivaNewVegas/vivanewvegas.github.io/blob/master/img/mo2%20folders.png" alt="folder" width="20"/>  folders button at the top of MO2 and select Open Profile folder.
+- Once the download has finished, click the  <img src="https://github.com/VivaNewVegas/vivanewvegas.github.io/blob/master/img/mo2%20folders.png" alt="folder" width="20"/>  folders button at the top of MO2 and select "Open Profile folder".
 - Move "loadorder.txt" to the opened folder and overwrite when prompted.
 
 > ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
