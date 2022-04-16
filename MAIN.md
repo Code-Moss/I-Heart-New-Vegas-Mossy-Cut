@@ -627,19 +627,6 @@ Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
 
-[**Dusty Distance Redone**](https://www.nexusmods.com/newvegas/mods/75183)  
-.esp-free mod to apply dusty distance effects.
-
-Files to install:
-- **Dusty Distance Redone** (Main files).
-- **Dusty Distance Redone - 39k (no nights tweaks)** (Optional Files)
-
-[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
-Improves the gas leak refraction effect, making it easier to spot.
-
-[**More Subtle Hidden Valley Dust Storm**](https://www.nexusmods.com/newvegas/mods/70275)  
-Tones down the dust storm effect near the Hidden Valley bunkers.
-
 [**HUD Only Explosion Shake**](https://www.nexusmods.com/newvegas/mods/75064)  
 Makes it so that only HUD shakes when hit by explosion.
 
@@ -676,6 +663,19 @@ Simple scripted interior lighting overhaul.
 
 [**Slightly more interesting - Gun Runners**](https://www.nexusmods.com/newvegas/mods/75562)  
 Gives the Gun Runners vendor shack a bit more detail.
+
+[**Dusty Distance Redone**](https://www.nexusmods.com/newvegas/mods/75183)  
+.esp-free mod to apply dusty distance effects.
+
+Files to install:
+- **Dusty Distance Redone** (Main files).
+- **Dusty Distance Redone - 39k (no nights tweaks)** (Optional Files)
+
+[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
+Improves the gas leak refraction effect, making it easier to spot.
+
+[**More Subtle Hidden Valley Dust Storm**](https://www.nexusmods.com/newvegas/mods/70275)  
+Tones down the dust storm effect near the Hidden Valley bunkers.
 
 [**Hidden Valley Overhauled**](https://www.nexusmods.com/newvegas/mods/70859)  
 Hidden Valley: Overhauled is a comprehensive, lore-friendly rework of the lighting and atmosphere of the Brotherhood of Steel's Hidden Valley Bunker that aims to better realise the potential of the location while staying true to Obsidian's vision. 
@@ -725,10 +725,6 @@ Files to install:
 [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437)  
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
 
-Files to install:
-- **Desert Natural Weathers** (Main files)
-- **Downscaled Performance Textures** (Optional files)
-
 [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
 Adds vanilla ambient music to the Zion worldspace.
 
@@ -736,7 +732,7 @@ Adds vanilla ambient music to the Zion worldspace.
 Star texture and mesh using NASA satellite images to create a real-world accurate starfield.
 
 Files to install:
-- **Accurate Stars 1k** (Main files)
+- **Accurate Stars 4k** (Main files)
 
 ## AUDIO
 
