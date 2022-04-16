@@ -1,7 +1,7 @@
 # I HEART NEW VEGAS: A Fallout: New Vegas Modding Guide
 [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas)
 
-Last updated: April 11th, 2022.
+Last updated: April 16th, 2022.
 
 ⚠️ The current state of the fork is... **In Testing**, it _should_ be good to use.
 
