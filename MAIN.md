@@ -621,8 +621,13 @@ A compatible skeleton for many animation mods.
 [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
 Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
 
+[Note for Blue to Blue: Add MCM config below in the MCM section]
+
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
+
+[**Simplified Weapon Retexture Project - WRP**](https://www.nexusmods.com/newvegas/mods/73675)  
+Retextures weapons to look all pretty and stuff.
 
 [**HUD Only Explosion Shake**](https://www.nexusmods.com/newvegas/mods/75064)  
 Makes it so that only HUD shakes when hit by explosion.
@@ -718,6 +723,9 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 
 Files to install:
 - **Slightly Brighter** (Main files)
+
+[**Climate Control**](https://www.nexusmods.com/newvegas/mods/75845)  
+Workarounds and bug fixes for issues faced by weather mods in Fallout New Vegas.
 
 [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437)  
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
