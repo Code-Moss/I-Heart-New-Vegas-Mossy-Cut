@@ -476,9 +476,6 @@ Collection of compatibility patches for mods installed so far.
 
 ## CONTENT
 
-[**B42 Descriptions aka Pip-Info**](https://www.nexusmods.com/newvegas/mods/68049)  
-Adds descriptions to all items in the game. For extra roleplaying experience.
-
 [**Weapons of Our Millenia**](https://www.nexusmods.com/newvegas/mods/72210)  
 A collection of Millenia's 22 best weapons, all painstakingly rebalanced and adjusted from the ground in a vanilla-friendly way.
 
