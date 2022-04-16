@@ -744,6 +744,9 @@ Files to install:
 [**Ed-E the Silent Eyebot**](https://www.nexusmods.com/newvegas/mods/72430)  
 Removes ED-E's "Combat Initiated" Audio.
 
+[**Power Armor Audio Reworked**](https://www.nexusmods.com/newvegas/mods/75964)  
+Restores New Vegas' Power Armor Audio.
+
 ## LOD
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
