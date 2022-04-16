@@ -50,6 +50,7 @@ Sigourn: "I've worked on this modlist for a few years already, but only recently
 ## My setup
 
 When installing all mods in this guide, my framerate ranges anywhere from 45fps (at worst) to 60fps. For reference, here is a my setup.
+> Both my CPU and GPU are at 50% load majority of the time, and Ram at about 5-6 GB. Really not a hard game to run.
 
 System | My Specs
 ------------ | -------------
@@ -59,8 +60,6 @@ RAM | 10GB
 Graphics | 2GB PNY NVIDIA T400 Low Profile GPU
 HDD | 1TB 
 Monitor | Telefunken +/-17" 960p (4:3) @ 60Hz, analog, real shit.
-
-> Both my CPU and GPU are at 50% load majority of the time, and Ram at about 5-6 GB. Really not a hard game to run.
 
 ## Frequently asked questions
 
