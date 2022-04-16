@@ -49,22 +49,24 @@ Sigourn: "I've worked on this modlist for a few years already, but only recently
 
 ## My setup
 
-When installing all mods in this guide, my framerate ranges anywhere from 30fps (at worst) to 60fps. For reference, here is a my setup.
+When installing all mods in this guide, my framerate ranges anywhere from 45fps (at worst) to 60fps. For reference, here is a my setup.
 
 System | My Specs
 ------------ | -------------
 Operative System | Windows 10 (2018) 64-bit
-CPU | Intel Core i3 4150
+CPU | Intel Core i3-4150
 RAM | 10GB
 Graphics | 2GB PNY NVIDIA T400 Low Profile GPU
 HDD | 1TB 
-Monitor | Telefunken +/-17" 960p (4:3) @ 60Hz, analog, like a real gamer.
+Monitor | Telefunken +/-17" 960p (4:3) @ 60Hz, analog, real shit.
+
+> Both my CPU and GPU are at 50% load majority of the time, and Ram at about 5-6 GB. Really not a hard game to run.
 
 ## Frequently asked questions
 
 ### How many plugins are there?
 
-There are about **150** plugins total.
+There are about **153** plugins total.
 
 ### How much space do I need to install these mods?
 
