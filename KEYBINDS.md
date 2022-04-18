@@ -38,6 +38,7 @@ Mouse Button 4 | Equip grenade | Grenade Key
 Key | Description | Origin
 ---- | ---- | ----
 F | Open Pip-Boy | Base Game
+Control + F | Search Menus | lStewieAl's Tweaks
 M | Open Pip-Boy world map tab | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 Ctrl + F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
