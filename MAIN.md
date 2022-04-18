@@ -418,12 +418,6 @@ Settings (in the INI) to change:
 [**Point that somewhere else**](https://www.nexusmods.com/newvegas/mods/73938)  
 Simple, scripted mod makes it so that NPCs will either fight or flee you if you point a gun at them.
 
-[**C93 - FPS Health Regeneration**](https://www.nexusmods.com/newvegas/mods/44454)  
-Adds FPS-style health regeneration. ('coz I like it in this game)
-
-Files to install:
-- **C93 - FPS Health Regeneration - Minor Wound Healing** (Main Files)
-
 [**SIDE - Simple Items Distributed Everywhere**](https://www.nexusmods.com/newvegas/mods/75746)  
 This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black Coffee, Nuka Cola Quantums, Daturana/Datura Hide/Datura Antivenom. Healing Poultices, Fiery Purgatives, Blood Shields, Snakebite Tourniquets, Weapon Binding Rituals, and Auto Inject Stimpaks around the wasteland.
 
