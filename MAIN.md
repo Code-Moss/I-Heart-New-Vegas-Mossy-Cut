@@ -740,6 +740,9 @@ Removes ED-E's "Combat Initiated" Audio.
 [**Power Armor Audio Reworked**](https://www.nexusmods.com/newvegas/mods/75964)  
 Restores New Vegas' Power Armor Audio.
 
+[**Immersive Pickup Sounds Patched**](https://www.nexusmods.com/newvegas/mods/70552)  
+Adds a variety of sound effects for picking up numerous items.
+
 ## LOD
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
@@ -855,18 +858,36 @@ The following settings need to be configured after you've already started a new 
 - Click the **Tools** ![Tools](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
 
 ```
-[Imagespace]
-bDoDepthOfField=0
 
 [Interface]
+;Reduces the amount of zooming in when engaging in dialogue
 fDlgFocus=5.0000
+;Tweaks the Pip-Boy HUD color to match the color of classic Fallout's font
 uPipboyColor=1022886143
 
 [Grass]
+;Disables grass, increasing performance
+;Set to 1 to enable it
+bDrawShaderGrass=0
+;Increases grass density for visuals, decreases performance
 iMinGrassSize=40
+
+[Water]
+;Recommended tweaks to use alongside Nut Water Overhaul
+bUseWaterReflections=1
+bUseWaterRefractions=1
+bUseWaterDepth=1
+bUseWaterLOD=1
+bReflectExplosions=0
+;Set to 1 if not using bForceHighDetailReflections further below
+bAutoWaterSilhouetteReflections=0
+;Improves visuals, decreases performance:
+bUseWaterHiRes=1
+bForceHighDetailReflections=1
+
 ```
 
-> ℹ️ Disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout; increases grass density.
+> ℹ️ Reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout; increases grass density.
 
 # MOD KEYBINDINGS
 
