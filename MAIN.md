@@ -114,13 +114,16 @@ Engine bugfixes, optional tweaks and new features with no performance impact. Fu
 [**lStewieAl's Tweaks Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/lStewieAl's%20Tweaks%20Custom%20INI.7z)  
 Custom configuration that enables many quality of life improvements, as well as gameplay and balance tweaks.
 
-### Additional NVSE bug fixes
+### Additional bug fixes
 
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
 Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility. Includes other gameplay tweaks.
 
 [**Melee VATS Animation Restoration**](https://www.nexusmods.com/newvegas/mods/73480)  
 Brings VATS melee animations back from Fallout 3.
+
+[**No More Dust Devils (and Whirlwinds)**](https://www.nexusmods.com/newvegas/mods/74167)  
+Remove all the dust devils and whirlwinds from the game. Optionally removes the tumbleweeds too.
 
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. Includes other gameplay tweaks.
