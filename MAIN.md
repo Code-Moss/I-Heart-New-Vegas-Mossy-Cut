@@ -1,5 +1,5 @@
-[<< Back to Readme](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/README.md)  
-[<< Back to Setup](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md)
+[<< Back to Readme](README.md)  
+[<< Back to Setup](SETUP.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -53,7 +53,7 @@ Implements structured exception handling and sanity checking to reduce frequency
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
 
-[**NVTF Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NVTF%20Custom%20INI.7z)  
+[**NVTF Custom INI**](?)  
 Custom configuration that enables a number of settings to achieve the best balance between performance and stability.
 
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
@@ -69,7 +69,7 @@ Files to install:
 - **yUI** (Main files)
 - **Matched Cursor - Fallout New Vegas** (Optional files)  
 
-[**yUI - User Ynterface Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/yUI%20-%20User%20Ynterface%20Custom%20INI.7z)  
+[**yUI - User Ynterface Custom INI**](?)  
 Matches cursor color to HUD color,  required for the Matched Cursor - Fallout New Vegas file we installed earlier.
 
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
@@ -148,9 +148,6 @@ Removes all non-bug fix elements of the original mod and fixes a few bugs.
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 Visual and audio fixes for thrown projectiles.
 
-[**Throwable Weapon Fixes - WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Throwable%20Weapon%20Fixes%20-%20WMIM%20Patch.7z)  
-Compatibility patch for Weapon Mesh Improvement Mod. Includes the latter's fixes to projectiles.
-
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
 
@@ -184,7 +181,7 @@ Greatly improves the user interface without compromising the original style.
 
 > ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and only enables said font exclusively in the Pip-Boy screen.
 
-[**Vanilla UI Plus (New Vegas) Custom Settings**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Vanilla%20UI%20Plus%20(New%20Vegas)%20Custom%20Settings.7z)  
+[**Vanilla UI Plus (New Vegas) Custom Settings**](?)  
 Increases the amount of visible dialogue topics, and displays numbers next to dialogue topics (intended to be used alongside my lStewieAl's Tweaks Custom INI).
 
 [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
@@ -369,7 +366,7 @@ Files to install:
 [**JSawyer Ultimate Edition - Custom Tweaks**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/resources/JSawyer%20Ultimate%20Edition%20Custom%20INI.7z)  
 Based off of Push's Tweaks.
 
-[**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes.7z)  
+[**JSawyer Ultimate Edition Fixes**](?)  
 Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes.
 
 [**Food Effect Tweaks - Custom Food Healing**](https://www.nexusmods.com/newvegas/mods/75103)  
@@ -384,7 +381,7 @@ Allows the player to bypass the hacking mini-game by using a Password Bypass, si
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
-[**Mojave Arsenal Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Custom%20INI.7z)  
+[**Mojave Arsenal Custom INI**](???)  
 Custom configuration that disables most GRA features.
 
 [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)  
@@ -460,22 +457,6 @@ Gives the new traits from FNV Opposite Traits the Improved Traits treatment.
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
-[**Consistent Pip-Boy Icons - Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
-Collection of upscaled icons for a variety of mods.
-- FOMOD options to install:
-  - [X] Mojave Arsenal
-
-[**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Patches.7z)  
-Collection of compatibility patches for mods installed so far.
-- BAIN options to install:
-  - [X] 00 Misc Gameplay Merge
-  - [X] 01 Push's Tweaks + Miscellaneous Tweaks
-  - [X] 02 Push's Tweaks + Mojave Arsenal
-  - [X] 03 Mojave Arsenal (GRA Merged) + WMIM
-  - [X] 04 Mojave Arsenal (GRA Merged) + Miscellaneous Tweaks
-  - [X] 05 Opposite Traits
-  - [X] 06 Improved Traits
-
 ## CONTENT
 
 [**Weapons of Our Millenia**](https://www.nexusmods.com/newvegas/mods/72210)  
@@ -503,9 +484,6 @@ Files to install:
 - **Uncut Wasteland plus NPCs** (Main files)
 - **Uncut Extra Collection** (Optional files)
 - **Uncut Wasteland Pole Remover** (Optional files)
-
-[**Uncut Extra Collection - JSawyer Ultimate Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Uncut%20Extra%20Collection%20-%20JSawyer%20Ultimate%20Patch.7z)  
-Patches Uncut Extra Collection for compatibility with JSawyer Ultimate Edition.
 
 [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
 Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
@@ -598,10 +576,6 @@ Compatibility patch for Essential DLC Enhancements.
 
 [**Diagonal movement**](https://www.nexusmods.com/newvegas/mods/64333)  
 Adds diagonal movement.
-
-[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
-Adds 360 degrees movements with procedural leaning, and auto vanity mode to make the game feel more like later Bethesda games.
-- Also install the **Diagonal Movement Patch** in the FOMOD installer.
 
 [**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
 Enables headtracking for the player character.
@@ -756,6 +730,51 @@ Restores New Vegas' Power Armor Audio.
 [**Immersive Pickup Sounds Patched**](https://www.nexusmods.com/newvegas/mods/70552)  
 Adds a variety of sound effects for picking up numerous items.
 
+## MOD PATCHES
+
+[**JSawyer Ultimate Edition Patches**](https://www.nexusmods.com/newvegas/mods/62933)  
+Compatibility patches for JSawyer Ultimate Edition.
+
+Files to install:
+- **JSawyer Ultimate - Mojave Raiders Patch** (Main files)
+- **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)** (Main files)
+
+[**Fabulous New Vegas Patches**](mods/Fabulous%20New%20Vegas%20Patches.7z)  
+Includes patches and tweaks for mods installed in the guide.
+- On MO2 installation, check the following options in the FOMOD installer:
+  - YUP Patches
+    - [X] Follower Formula Redone
+    - [X] LOD Additions and Improvements
+  - WMIM Patches
+    - [X] Throwable Fixes
+    - [X] Mojave Raiders - No NPC Throwing Weapon Consumption
+  - JSUE Patches
+    - [X] Misc Gameplay Merge
+    - [X] Miscellaneous Tweaks - Push's Tweaks
+    - [X] Mojave Arsenal - Push's Tweaks
+    - [X] Mojave Arsenal GRA Merged - WMIM
+    - [X] Mojave Arsenal GRA Merged - Miscellaneous Tweaks
+    - [X] Uncut Extra Collection
+  - Consistent Traits
+    - [X] Improved Opposite Traits
+  - JSUE Patches
+    - [X] Improved Traits
+    - [X] FNV Opposite Traits
+  - CER AIO Patches
+    - [X] Standard + Extra Collection
+  - Tweaks
+    - [X] Essential DLC Enhancements
+    - [X] Miscellaneous Tweaks
+    - [X] Improved Traits
+    - [X] Uncut Wasteland
+    - [X] Eyelashes New Vegas
+    - [X] Desert Natural Weathers
+
+[**Consistent Pip-Boy Icons - Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
+Collection of upscaled icons for a variety of mods.
+- FOMOD options to install:
+  - [X] Mojave Arsenal
+
 ## LOD
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
@@ -901,6 +920,10 @@ This is a handy reference table which will hopefully help you have a better idea
 
 [**THEM KEYS**](https://github.com/Code-Moss/iheartnewvegas/blob/main/KEYBINDS.md)
 
+
+# CHANGELOG
+
+?
 ---
 
 **_Until next time, Wasteland Courier..._**
