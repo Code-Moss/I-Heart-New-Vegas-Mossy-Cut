@@ -424,7 +424,6 @@ This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black
 [**Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 This is a NVSE plugin that enables a visible body and player shadows when in first person.
 
-
 [**Enhanced Camera Custom INI**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/resources/Enhanced%20Camera%20Custom%20INI.zip) 
 Custom setting for added immersion.
 
@@ -647,6 +646,20 @@ Securitrons' faces will change when they enter combat mode.
 
 ### Environment
 
+
+[**Hit - Rock Recolor**](https://www.nexusmods.com/newvegas/mods/76168)  
+Recolors the vanilla rock textures to a color sampled out of real life pictures of Mojave rocks.
+
+[**Nut's Natural Grass**](https://www.nexusmods.com/newvegas/mods/73774)  
+A grass overhaul to all the main grasses you see in the wasteland.
+- On MO2 installation, check the following option in the FOMOD installer:
+  - [X] 1K Version
+
+[**Nut Water Overhaul**](https://www.nexusmods.com/newvegas/mods/75995?)  
+Nice and beautiful touchup to the waters of the game.
+- On MO2 installation, check the following options in the FOMOD installer:
+  - [X] Scriptrunner
+
 [**New Vegas Landscape Overhaul Re-Remastered**](https://www.nexusmods.com/newvegas/mods/74218)  
 This mod aims to add new life the the Mojave Wasteland by making bland locations more detailed. 
 
@@ -769,12 +782,6 @@ Adds extra meshes for LOD generation.
 [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
 
-[**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
-Adds extra meshes for LOD generation.
-
-[**Much Needed LOD YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for Yukichigai Unofficial Patch.
-
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds visible Strip signs and moves the Strip buildings to where they should be.
 
@@ -789,7 +796,6 @@ Restores the cut outflow jets to Hoover Dam and makes them visible up and down t
 
 Files to install:
 - **Hoover Dam Jets Restored and Distant** (Main files)
-- **HDJRaD - Much Needed LOD Patch** (Optional files)  
 
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
