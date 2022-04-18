@@ -659,6 +659,9 @@ Improves the gas leak refraction effect, making it easier to spot.
 [**More Subtle Hidden Valley Dust Storm**](https://www.nexusmods.com/newvegas/mods/70275)  
 Tones down the dust storm effect near the Hidden Valley bunkers.
 
+Files to install:
+- **Version 1** (Main files).
+
 [**Hidden Valley Overhauled**](https://www.nexusmods.com/newvegas/mods/70859)  
 Hidden Valley: Overhauled is a comprehensive, lore-friendly rework of the lighting and atmosphere of the Brotherhood of Steel's Hidden Valley Bunker that aims to better realise the potential of the location while staying true to Obsidian's vision. 
 
@@ -697,12 +700,6 @@ Improves grass textures.
 
 [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
-
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the distant glow of New Vegas for the sake of darker nights.
-
-Files to install:
-- **Slightly Brighter** (Main files)
 
 [**Climate Control**](https://www.nexusmods.com/newvegas/mods/75845)  
 Workarounds and bug fixes for issues faced by weather mods in Fallout New Vegas.
