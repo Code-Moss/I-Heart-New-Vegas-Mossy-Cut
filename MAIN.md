@@ -639,9 +639,6 @@ Fixes skin issues, ghastly neon hair (there's a lot), white splotches, poor face
   - [X] Uncut Wasteland Plus NPCs
   - [X] Mojave Raiders
 
-[**Real Eyes**](https://www.nexusmods.com/newvegas/mods/70471)  
-Replaces all the eye textures with more realistic looking eyes.
-
 [**Securitrons On Alert**](https://www.nexusmods.com/newvegas/mods/69245)  
 Securitrons' faces will change when they enter combat mode.
 
