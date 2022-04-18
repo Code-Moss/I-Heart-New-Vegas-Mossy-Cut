@@ -375,6 +375,9 @@ Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throw
 [**Food Effect Tweaks - Custom Food Healing**](https://www.nexusmods.com/newvegas/mods/75103)  
 Reduces food healing effects to help balance Survival versus Medicine. Affects all items, including from other mods.
 
+[**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
+Makes radiation work like in Fallout 4, by damaging your max health.
+
 [**Better Hacking**](https://www.nexusmods.com/newvegas/mods/70277)  
 Allows the player to bypass the hacking mini-game by using a Password Bypass, similar to The Outer Worlds.
 
