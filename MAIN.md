@@ -18,7 +18,7 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 
 I suggest creating a separator for DLC as well as each mod category we will be installing. Separators can be collapsed to keep your mod list clean and tidy.
 
-# I HEART NEW VEGAS
+# MAXIMUM NEW VEGAS
 
 ## NVSE PLUGINS
 
@@ -834,7 +834,7 @@ Files to install:
 
 ### Generated LOD
 
-[**I Heart New Vegas LOD**](https://drive.google.com/file/d/1ry4zGb-tXoiJGeK6VkVZ0pdGbFix7lyx/view?usp=sharing)  
+[**MAXIMUM New Vegas LOD**](https://drive.google.com/file/d/1ry4zGb-tXoiJGeK6VkVZ0pdGbFix7lyx/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
 > ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
@@ -843,8 +843,8 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 ### Load order
 
-[**I Heart New Vegas MO2 Load Order**](https://raw.githubusercontent.com/Code-Moss/iheartnewvegas/main/resources/loadorder.txt)  
-Adjusts load order for I Heart New Vegas to work as intended.  
+[**MAXIMUM New Vegas MO2 Load Order**](https://raw.githubusercontent.com/Code-Moss/iheartnewvegas/main/resources/loadorder.txt)  
+Adjusts load order for MAXIMUM New Vegas to work as intended.  
 
 - Right click and "Save Page As..."
 - Click "Save", **DO NOT CHANGE THE FILE NAME**.
