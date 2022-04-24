@@ -23,6 +23,7 @@ Key | Description | Origin
 ---- | ---- | ----
 LMB | Attack | Base Game
 RMB | Block / Aim | Base Game
+1 - 8 | Hotkeys | Base Game
 Scroll Wheel | Cycle Through Hotkeys | lStewieAl's Tweaks
 Mouse Button 3 | VATS | Base Game
 R  | Reload ammunition | Base Game
