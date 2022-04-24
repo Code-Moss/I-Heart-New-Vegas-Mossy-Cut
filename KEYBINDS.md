@@ -1,4 +1,4 @@
-# Keybinds
+# MAXIMUM New Vegas: Keybinds
 
 ### Movement / Action:
 
