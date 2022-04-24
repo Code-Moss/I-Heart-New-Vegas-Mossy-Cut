@@ -1,7 +1,7 @@
-# I HEART NEW VEGAS: A Fallout: New Vegas Modding Guide
+# MAXIMUM NEW VEGAS: A Fallout: New Vegas Modding Guide
 [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas)
 
-Last updated: April 18th, 2022.
+Last updated: April 24th, 2022.
 
 ⚠️ The current state of the fork is... **UNSTABLE/WIP**, DO NOT use.
 
@@ -27,7 +27,7 @@ Feel free to post issues and point out improvements.
 
 ## About
 
-**I Heart New Vegas** is a modular modding guide for **Fallout: New Vegas**. It addresses a number of significant issues with the game:
+**MAXIMUM New Vegas** is a modular modding guide for **Fallout: New Vegas**. It addresses a number of significant issues with the game:
 
 - Bugs and stability: includes all major bug fixes released for the game so far, and a handful of minor, purist bug fixes that are entirely optional.
 - Consolized user interface: improved readability and functionality, ironed out inconsistencies between carried over and new assets.
