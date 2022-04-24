@@ -163,7 +163,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
   - [X] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **I Heart New Vegas MC** and click **OK**.
+- With the **Default** profile selected, click **Copy**. Type in **MAXIMUM New Vegas** and click **OK**.
 - Click on the newly created profile, and click **Select**. The window will close, and the new profile should have been automatically selected.
 
 > ℹ️ This is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
@@ -311,5 +311,5 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
-[To I Heart New Vegas >>](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/MAIN.md)  
+[To MAXIMUM New Vegas >>](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/MAIN.md)  
 [<< Back to Readme](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/README.md)
