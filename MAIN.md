@@ -420,9 +420,6 @@ Files to install:
 - **Uncut Extra Collection** (Optional files)
 - **Uncut Wasteland Pole Remover** (Optional files)
 
-[**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
-Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
-
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip.
 
