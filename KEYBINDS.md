@@ -31,8 +31,6 @@ R  | Reload ammunition | Base Game
 R (double tap) | Switch ammunition | lStewieAl's Tweaks
 Scroll wheel | Adjust Binocular / Scope zoom | lStewieAl's Tweaks
 Hold Tab | Toggle scope night vision when aiming down the scope | lStewieAl's Tweaks
-G | Scroll through grenades | Grenade Key
-Mouse Button 4 | Equip grenade | Grenade Key
 ----
 
 ### Pip-Boy:
