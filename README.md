@@ -54,11 +54,11 @@ When installing all mods in this guide, my framerate ranges anywhere from 45fps 
 
 System | My Specs
 ------------ | -------------
-Operative System | Windows 10 (2018) 64-bit
-CPU | Intel Core i3-4150
-RAM | 10GB
-Graphics | 2GB PNY NVIDIA T400 Low Profile GPU
-HDD | 1TB 
+Operative System | Windows 10 64-bit (2018)
+CPU | Intel Core i3-4150, 2nd Hand Optiplex PC type
+RAM | 10GB, 3 Different Brands
+Graphics | 2GB PNY NVIDIA T400 Low Profile GPU, sexy as can be
+HDD | 1TB WD Blue 3.5", Held in place with a cable tie 
 Monitor | Telefunken 17" Display @ 960p (4:3), **VGA** 💸💸💸
 
 ## Frequently asked questions
