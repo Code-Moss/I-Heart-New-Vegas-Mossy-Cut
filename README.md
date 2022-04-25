@@ -1,7 +1,7 @@
 # MAXIMUM NEW VEGAS: A Fallout: New Vegas Modding Guide
 [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas)
 
-Last updated: April 24th, 2022.
+Last updated: April 25th, 2022.
 
 ⚠️ The current state of the fork is... **UNSTABLE/WIP**, DO NOT use.
 
