@@ -835,7 +835,7 @@ The following settings need to be configured after you've already started a new 
 	- [x] Always
 	- [x] Allow when weapon isn't drawn
 	- [x] Display 'Unarmed'
-	- Suffix Type: '+' 
+	- [x] Suffix Type: '+' 
 
 ### INI config
 
