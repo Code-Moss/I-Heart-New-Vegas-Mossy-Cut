@@ -409,12 +409,6 @@ Files to install:
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Edits some vanilla traits and adds two new ones.
 
-[**Improved Traits Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20Tweaks.7z)  
-Addresses an unintentional edit that removed Small Frame's Agility requirements, and adds the missing icon for the Four Eyes trait.
-
-[**Improved FNV Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20FNV%20Opposite%20Traits.7z)  
-Gives the new traits from FNV Opposite Traits the Improved Traits treatment.
-
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
@@ -526,9 +520,6 @@ Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit re
 Files to install:
 - **Ragdolls** (Main files)
 
-[**Ragdolls Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Custom%20INI.7z)  
-Custom configuration that enables ragdoll momentum, corpse toucher, hit reactions, and complex death reactions features. 
-
 [**Ragdolls YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
 
@@ -550,8 +541,7 @@ A compatible skeleton for many animation mods.
 
 [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
 Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
-
-[Note for Blue to Blue: Add MCM config below in the MCM section]
+[Add mcm config]
 
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
@@ -653,11 +643,6 @@ Fixes the planters on the Strip.
 
 [**Ultra-Luxe Fountain Expanded**](https://www.nexusmods.com/newvegas/mods/69781)  
 Improves the Ultra-Luxe fountain by adding additional water streams with accompanying sound effects as well as eight new light beams above the embedded lights in the base of the fountain.
-
-[**Wasteland Flora Overhaul Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20Overhaul%20Grass.7z)  
-Improves grass textures.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**. The featured version omits non-grass related meshes and textures.
 
 [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
