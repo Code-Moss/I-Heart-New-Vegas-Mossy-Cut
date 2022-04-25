@@ -172,7 +172,7 @@ Greatly improves the user interface without compromising the original style.
 
 > ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and only enables said font exclusively in the Pip-Boy screen.
 
-[**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
+[**JIP Improved Recipe Menu ESPless**](https://www.nexusmods.com/newvegas/mods/75920)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
 
 [**Magazine (and Chem) Submenu**](https://www.nexusmods.com/newvegas/mods/73719)  
@@ -391,6 +391,9 @@ Edits some vanilla traits and adds two new ones.
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
+
+[**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
+"Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package"
 
 ## CONTENT
 
