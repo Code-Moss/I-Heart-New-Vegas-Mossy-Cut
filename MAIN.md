@@ -797,7 +797,40 @@ Adjusts load order for MAXIMUM New Vegas to work as intended.
 > ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
 
 ### Settings config
-> All keybinds are designed to be played with a 5 Button mouse, if you dont have on you should refer to ["Sigourns Original Keybindings"](https://github.com/Sigourn/fabulousnewvegas/blob/main/main.md#mod-keybindings).
+
+[**MAXIMUM New Vegas Custom Settings**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/MAXIMUM%20New%20Vegas%20Custom%20Settings.7z)  
+<details>
+  <summary>Custom settings for the following mods:</summary>  
+	
+• Desert Natural Weathers
+
+• Enhanced Camera
+
+• FOV Slider
+
+• JIP LN NVSE Plugin
+
+• JSawyer Ultimate
+
+• Just Mods Assorted
+
+• lStewieAl's Tweaks and Engine Fixes
+
+• Mojave Arsenal
+
+• NVTF
+
+• RAD
+
+• Ragdolls
+
+• Vanilla UI Plus (New Vegas)
+
+• yUI - User Ynterface
+
+</details>
+
+---
 
 The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
 
@@ -808,6 +841,10 @@ The following settings need to be configured after you've already started a new 
 ### MCM config
 
 The following settings need to be configured after you've already started a new save, using the in-game **Mod Configuration** option.
+
+**Helmet Overlay** _click to expand_
+
+<img src="assets/mcmConfig_HelmetOverlay.png" alt="mcm_HelmetOverlay" width="150"/>
 
 **Weapon Name Display**
 * Check: 
