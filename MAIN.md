@@ -755,7 +755,7 @@ Files to install:
 
 ### Generated LOD
 
-[**MAXIMUM New Vegas LOD**](https://drive.google.com/file/d/1ry4zGb-tXoiJGeK6VkVZ0pdGbFix7lyx/view?usp=sharing)  
+[**MAXIMUM New Vegas LOD**](https://drive.google.com/file/d/1mXloRy61ZYO4EMEVd3b3JoF99-1R43tG/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
 > ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
