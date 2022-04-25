@@ -808,6 +808,8 @@ Adjusts load order for MAXIMUM New Vegas to work as intended.
 
 • FOV Slider
 
+• JIP CCC
+
 • JIP LN NVSE Plugin
 
 • JSawyer Ultimate
