@@ -22,7 +22,7 @@ I suggest creating a separator for DLC as well as each mod category we will be i
 
 ## NVSE PLUGINS
 
-[**Discord Rich Presence**](https://www.nexusmods.com/newvegas/mods/68976?tab=files)  
+[**Discord Rich Presence**](https://www.nexusmods.com/newvegas/mods/68976)  
 Integrates Discord Rich Presence into Fallout NV/TTW.
 
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
@@ -375,7 +375,7 @@ Makes enemies more likely to target the player in combat rather than companions.
 [**PerkPackPlus**](https://www.nexusmods.com/newvegas/mods/70473)  
 Adds various new perks suited for specialization and to add spice to your build.
 
-[**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141?)  
+[**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141)  
 Expands the idea of traits with opposite effects (seen in Fast Shot and Trigger Discipline) to the game's other traits.
 
 Files to install:
@@ -474,7 +474,7 @@ Files to install:
 - **AnniAnimPack_BugFix 1.3** (Main files)  
 - **Bonus Patch** (Main files)
 
-[**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599?tab=description)  
+[**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
 Clean first person animations for New Vegas.
 
 Files to install:
@@ -508,7 +508,7 @@ Compatibility patch for Essential DLC Enhancements.
 [**Diagonal movement**](https://www.nexusmods.com/newvegas/mods/64333)  
 Adds diagonal movement.
 
-[**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
+[**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741)  
 Enables headtracking for the player character.
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
@@ -558,7 +558,7 @@ A grass overhaul to all the main grasses you see in the wasteland.
 - On MO2 installation, check the following option in the FOMOD installer:
   - [X] 1K Version
 
-[**Nut Water Overhaul**](https://www.nexusmods.com/newvegas/mods/75995?)  
+[**Nut Water Overhaul**](https://www.nexusmods.com/newvegas/mods/75995)  
 Nice and beautiful touchup to the waters of the game.
 - On MO2 installation, check the following options in the FOMOD installer:
   - [X] Scriptrunner
@@ -764,7 +764,7 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 ### Load order
 
-> ⚠️ **UNTESTED**
+> ⚠️ **UNTESTED** ⚠️  
 
 [**MAXIMUM New Vegas MO2 Load Order**](https://raw.githubusercontent.com/Code-Moss/iheartnewvegas/main/resources/loadorder.txt)  
 Adjusts load order for MAXIMUM New Vegas to work as intended.  
@@ -834,10 +834,6 @@ The following settings need to be configured after you've already started a new 
 	- [x] Allow when weapon isn't drawn
 	- [x] Display 'Unarmed'
 	- Suffix Type: '+' 
-
-**Grenade Key**:
-- Set **Grenade Throw Key** to **Button 4**.
-- Set **Toggle Grenade Type Key** to **G**.
 
 ### INI config
 
