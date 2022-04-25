@@ -28,9 +28,6 @@ Integrates Discord Rich Presence into Fallout NV/TTW.
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
-[**JIP LN NVSE Plugin Custom INI**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/resources/JIP%20LN%20NVSE%20Plugin%20Custom%20INI.7z)  
-Enables Fallout 3-style repair, localized damage (allowing headshots to be more powerful when the enemy has no helmet), and a chance for random NPCs to have weapon mods. Disables the voice modulation fix, which could cause noticeable audio popping, particularly in Elijah's dialogue.
-
 [**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
@@ -53,9 +50,6 @@ Implements structured exception handling and sanity checking to reduce frequency
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
 
-[**NVTF Custom INI**](?)  
-Custom configuration that enables a number of settings to achieve the best balance between performance and stability.
-
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
 Allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
 
@@ -68,9 +62,6 @@ Aims to fix UI bugs and add new UI features.
 Files to install:
 - **yUI** (Main files)
 - **Matched Cursor - Fallout New Vegas** (Optional files)  
-
-[**yUI - User Ynterface Custom INI**](?)  
-Matches cursor color to HUD color,  required for the Matched Cursor - Fallout New Vegas file we installed earlier.
 
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Enables hotkeys for pasting and enhanced movement/deletion of console commands.
@@ -99,7 +90,7 @@ Files to install:
 
 ### NVSE bug fixes
 
-[**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
+[**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
 [**yGTM**](https://www.nexusmods.com/newvegas/mods/72784)  
@@ -139,7 +130,7 @@ Makes the idle animations for crippled limbs come through in situations where th
 [**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLC.
 
-[**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052?)  
+[**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
 [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
@@ -181,29 +172,20 @@ Greatly improves the user interface without compromising the original style.
 
 > ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and only enables said font exclusively in the Pip-Boy screen.
 
-[**Vanilla UI Plus (New Vegas) Custom Settings**](?)  
-Increases the amount of visible dialogue topics, and displays numbers next to dialogue topics (intended to be used alongside my lStewieAl's Tweaks Custom INI).
-
 [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
 
 [**Magazine (and Chem) Submenu**](https://www.nexusmods.com/newvegas/mods/73719)  
 Adds a submenu for skill magazines, so that they don't clutter up your Aid item list in the inventory menu
 
-[**Inventory Search**](https://www.nexusmods.com/newvegas/mods/66329)  
-This mod will add a search button (recognized by a magnifying glass icon) to the inventory, container, barter and recipe menus.
-
 [**WND - Weapon Name Display**](https://www.nexusmods.com/newvegas/mods/63687)  
 A simple mod that displays the name of your weapon when you want.
 
-[**ySI - Sorting Ycons**](https://www.nexusmods.com/newvegas/mods/74358?)  
+[**ySI - Sorting Ycons**](https://www.nexusmods.com/newvegas/mods/74358)  
 Sorting mod, using features of yUI to make inventory management a better experience. Each item gets assigned one of the 140+ included custom icons, representing different categories of items.
 
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
-
-[**FOV Slider Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/FOV%20Slider%20Custom%20INI.7z)  
-Custom configuration that increases field of view.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
@@ -215,12 +197,6 @@ Files to install:
 - FOMOD options to install:
   - All **Modules** options.
   - Skip the **DarnUI Specific** and **Tweaks** options.
-
-[**Clean Companion Wheel**](https://www.nexusmods.com/newvegas/mods/70486)  
-Cleans up textures surrounding the Companion Wheel.
-
-Files to install:
-- **Clean Companion Wheel 256x256 Edition** (Main files)
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Bug fixes and consistency tweaks for icons in terms of coloring and transparency.
@@ -316,9 +292,6 @@ Fixes the on-fire jamming for automatic weapons and adds an option for how often
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
-[**Just Assorted Mods Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/Just%20Mods%20Assorted%20Custom%20INI.7z)  
-Custom configuration that does some stuff, optional.
-
 [**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
@@ -363,12 +336,6 @@ Files to install:
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
-[**JSawyer Ultimate Edition - Custom Tweaks**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/resources/JSawyer%20Ultimate%20Edition%20Custom%20INI.7z)  
-Based off of Push's Tweaks.
-
-[**JSawyer Ultimate Edition Fixes**](?)  
-Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes.
-
 [**Food Effect Tweaks - Custom Food Healing**](https://www.nexusmods.com/newvegas/mods/75103)  
 Reduces food healing effects to help balance Survival versus Medicine. Affects all items, including from other mods.
 
@@ -380,9 +347,6 @@ Allows the player to bypass the hacking mini-game by using a Password Bypass, si
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
-
-[**Mojave Arsenal Custom INI**](???)  
-Custom configuration that disables most GRA features.
 
 [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
@@ -420,9 +384,6 @@ This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black
 
 [**Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 This is a NVSE plugin that enables a visible body and player shadows when in first person.
-
-[**Enhanced Camera Custom INI**](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/resources/Enhanced%20Camera%20Custom%20INI.zip) 
-Custom setting for added immersion.
 
 [**JIP Companions Command and Control**](https://www.nexusmods.com/newvegas/mods/50468)  
 This mod is designed to revolutionize the way companions are controlled and interacted with.
