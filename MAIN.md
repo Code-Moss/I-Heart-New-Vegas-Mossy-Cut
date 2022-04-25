@@ -764,6 +764,8 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 ### Load order
 
+> ⚠️ **UNTESTED**
+
 [**MAXIMUM New Vegas MO2 Load Order**](https://raw.githubusercontent.com/Code-Moss/iheartnewvegas/main/resources/loadorder.txt)  
 Adjusts load order for MAXIMUM New Vegas to work as intended.  
 
@@ -776,7 +778,7 @@ Adjusts load order for MAXIMUM New Vegas to work as intended.
 
 ### Settings config
 
-[**MAXIMUM New Vegas Custom Settings**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/MAXIMUM%20New%20Vegas%20Custom%20Settings.7z)  
+[**MAXIMUM New Vegas Mod Config**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/MAXIMUM%20New%20Vegas%20Custom%20Settings.7z)  
 <details>
   <summary>Custom settings for the following mods:</summary>  
 	
