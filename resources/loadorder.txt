@@ -24,6 +24,7 @@ Scottmack Weapons Redone.esm
 New Vegas Redesigned II.esm
 Securitrons On Alert.esm
 Helmet Overlay.esm
+ClimateControl.esm
 TheHUDEditor.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
@@ -35,14 +36,12 @@ PyromaniacEffectsBuff.esp
 LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
-JIP Improved Recipe Menu.esp
 FOVSlider.esp
 Simple DLC Delay.esp
 Uncut Wasteland.esp
 Uncut Extra Collection.esp
 Simple Open Freeside - Uncut Wasteland Patch.esp
 NVR2 - UW NPCs Patch.esp
-Inventory Search.esp
 WNDisplay.esp
 JSawyer Ultimate.esp
 NVR2 - JSUE Patch.esp
@@ -68,7 +67,6 @@ Mojave Wildlife (Vanilla-Style + No Chanced).esp
 Miscellaneous Tweaks.esp
 Scottmack - WoOM + Misc Tweaks Patch.esp
 WoOM - Misc Tweaks Patch.esp
-GrenadeKey - DLCs.esp
 NPCsSprint.esp
 NPC Use Aid.esp
 Realistic Movement.esp
@@ -79,15 +77,14 @@ Mojave Raiders - Scottmack's Weapons Redone + Weapons of Our Millenia + JSUE Pat
 JSawyer Ultimate - Fixes.esp
 Food Effect Tweaks.esp
 Silent Eyebot.esp
+Power Armor Audio LITE.esp
 RetrievableThrowables.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 Famine.esp
 GRA Scavenger Hunt Balanced NVSE.esp
-rockbiter_AnimationSounds.esp
 JSawyer Ultimate - Push's Tweaks.esp
 Famine - Flora.esp
-B42Descriptions.esp
 NV Economy Improved.esp
 Lazarus - Interesting GunRunners.esp
 Universal Water Bottling.esp
@@ -103,9 +100,12 @@ Uncut Wasteland pole remover.esp
 Titans of The New West.esp
 Better Strip View.esp
 DLC Enhancements.esp
+MigCrippled.esp
+RAD.esp
 Better Character Creation.esp
-vegasglow.esp
 Uncut Wasteland Tweaks.esp
+Immersive Pickup Sounds FNV Patched.esp
+rockbiter_AnimationSounds.esp
 PerkPackPlus.esp
 FNVOppositeTraits.esp
 Improved FNVOppositeTraits.esp
@@ -120,17 +120,13 @@ B42Inertia.esp
 Ragdolls YUP Patch.esp
 Ragdolls DLC Enhancements Patch.esp
 Diagonal movement.esp
-360Movement.esp
-360Movement - Diagonal movement Patch.esp
 Player Headtracking.esp
 BulletTrails.esp
 dD - Enhanced Blood Main NV.esp
-ImmersiveFastTravelEncounters.esp
 ultra luxe expanded fountain.esp
 tmzLODadditions YUP Patch.esp
 MuchNeededLOD.esp
 MuchNeededLOD YUP Patch.esp
-Better Strip View - More Subtle New Vegas Light Pollution Patch.esp
 VM_Recoil.esp
 PointThatSomewhereElse!.esp
 FNVOppositeTraits - JSUE Patch.esp
@@ -139,10 +135,11 @@ JSawyer Ultimate - Misc Gameplay Merge Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Miscellaneous Tweaks Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - WMIM Patch.esp
 JSawyer Ultimate - Push's Tweaks - Miscellaneous Tweaks Patch.esp
-C93 - FPS Health Regeneration - Minor Wound Healing.esp
 Khans Friendly to Fiends - Mojave Raiders Patch.esp
+Ending Slideshows Ultimate Edition Overhaul.esp
 Mojave Arsenal - JSawyer Ultimate - Push's Tweaks Patch.esp
 Misc Gameplay Merge - JSUE Patch.esp
+ImmersiveFastTravelEncounters.esp
 Building Bridges.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
 FNVLODGen.esp
