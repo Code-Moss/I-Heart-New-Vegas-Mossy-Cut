@@ -499,6 +499,13 @@ Files to install:
 - **AnniAnimPack_BugFix 1.3** (Main files)  
 - **Bonus Patch** (Main files)
 
+[**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599?tab=description)  
+Clean first person animations for New Vegas.
+
+Files to install:
+- **FNV Clean Animations** (Main files)  
+- **FNV Clean Animations - Update 2.2.2** (Update files)
+
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
 Removes the need to manually patch weapons for animations using the ISControl node system, used in most kNVSE sets by New Vegas animators. Works with every weapon and every mod, instantly.
 
@@ -567,7 +574,6 @@ Fixes skin issues, ghastly neon hair (there's a lot), white splotches, poor face
 Securitrons' faces will change when they enter combat mode.
 
 ### Environment
-
 
 [**Hit - Rock Recolor**](https://www.nexusmods.com/newvegas/mods/76168)  
 Recolors the vanilla rock textures to a color sampled out of real life pictures of Mojave rocks.
