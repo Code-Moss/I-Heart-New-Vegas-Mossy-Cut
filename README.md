@@ -59,13 +59,13 @@ CPU | Intel Core i3-4150
 RAM | 10GB
 Graphics | 2GB PNY NVIDIA T400 Low Profile GPU
 HDD | 1TB 
-Monitor | Telefunken +/-17" 960p (4:3) @ 60Hz, analog, real shit.
+Monitor | Telefunken 17" Display @ 960p (4:3), **VGA** 💸💸💸
 
 ## Frequently asked questions
 
 ### How many plugins are there?
 
-There are about **153** plugins total.
+There are about **150** plugins total.
 
 ### How much space do I need to install these mods?
 
