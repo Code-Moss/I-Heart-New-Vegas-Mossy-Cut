@@ -233,11 +233,6 @@ Increases the speed of the Pip-Boy animation.
 Files to install:
 - **Faster Pip-Boy Animation (2x)** (Main files)
 
-[**Grenade Key**](https://www.nexusmods.com/newvegas/mods/58171)  
-Lightweight stable grenade hotkey mod.
-
-> ℹ️ Issue: There's a bit of a delay before throwing grenade.
-
 [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
 
@@ -888,7 +883,14 @@ This is a handy reference table which will hopefully help you have a better idea
 
 # CHANGELOG
 
-?
+### 2022/04/25
+
+**Grenade Key**
+
+❌ Removed Mod:
+	- Buggy
+	- Slow
+
 ---
 
 **_Until next time, Wasteland Courier..._**
