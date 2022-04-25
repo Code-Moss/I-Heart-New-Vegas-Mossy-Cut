@@ -8,13 +8,13 @@ Key | Description | Origin
 E | Activate | Base Game
 Shift + E | Pick up and equip | lStewieAl's Tweaks
 WASD | Movement | Base Game
-Left Backslash (Between Shift & Z)| Toggle Auto Move | Base Game
+G | Toggle Auto-Move | Base Game
 Shift + WASD | Sprint | Just Assorted Mods
 Caps Lock | Toggle Movement Speed | Base Game
 Spacebar | Jump | Base Game
 Left Control | Sneak | Base Game
 Tab | Wait | Base Game
-Q | Grab | Base Game
+Left Alt | Grab | Base Game
 Shift + E | Pick locked door even if you have the key | lStewieAl's Tweaks
 ----
 
@@ -63,8 +63,8 @@ Key | Description | Origin
 ---- | ---- | ----
 F5 | Create full save _Delete Base Game Save Key_ | lStewieAl's Tweaks
 F9| Reload current loaded save _Delete Base Game Load Key_ | lStewieAl's Tweaks
-Left ALT | Skip player deathcam when dying | lStewieAl's Tweaks
-Left ALT | Change Camera View | Base Game
+Left Alt | Skip player deathcam when dying | lStewieAl's Tweaks
+Q | Change Camera View | Base Game
 I | Toggle HUD | lStewieAl's Tweaks
 Shift + Print Screen | Take Screenshot without HUD | lStewieAl's Tweaks
 B | Add Note | Building Bridges
