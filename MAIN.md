@@ -281,8 +281,6 @@ Removes annoying features from some followers. Changes the effects of the Enhanc
 [**Helmet Armor Rebalance (JIP)**](https://www.nexusmods.com/newvegas/mods/72028)  
 Scripted rebalance of all helmet armors in the game for users of JIP's bLocalizedDTDR feature. This raises their DT to the level of their associated or equivalent body armors in order to compensate for protective headwear being rendered practically useless with the setting enabled.
 
-> ℹ️ This mod requires a specific JIP LN Plugin feature to be enabled, which we will enable in the **INI config** section.
-
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
