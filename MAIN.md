@@ -298,10 +298,6 @@ Makes melee attacks hit multiple enemies.
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 A compilation of many smaller gameplay mods by various authors, all fully fixed, optimized, and updated.
 
-Files to install:
-- **Misc Gameplay Merge** (Main files)
-- **JSawyer Ultimate Edition Patch** (Optional files)
-
 [**Misc Gameplay Merge YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Patches Misc Gameplay Merge for compatibility with Yukichigai Unofficial Patch.
 
@@ -330,8 +326,6 @@ Completely reconstructed version of Josh Sawyer's mod, made from the ground up. 
 
 Files to install:
 - **JSawyer Ultimate Edition** (Main files)
-
-> ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
 [**Food Effect Tweaks - Custom Food Healing**](https://www.nexusmods.com/newvegas/mods/75103)  
 Reduces food healing effects to help balance Survival versus Medicine. Affects all items, including from other mods.
@@ -704,7 +698,7 @@ Includes patches and tweaks for mods installed in the guide.
     - [X] Improved Traits
     - [X] FNV Opposite Traits
   - CER AIO Patches
-    - [X] Standard + Extra Collection
+    - [ ] Standard + Extra Collection
   - Tweaks
     - [X] Essential DLC Enhancements
     - [X] Miscellaneous Tweaks
