@@ -217,7 +217,7 @@ Adds widgets on HUD for consumed Aid items that display the time until their eff
 [**The HUD Editor**](https://www.nexusmods.com/newvegas/mods/67470)  
 Allows you to edit the HUD.
 
-[**The HUD Editor - Custom Config**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/Hud%20Editor%20-%20Custom%20INI.7z)  
+[**The HUD Editor - Custom Config**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/config/Hud%20Editor%20Custom%20INI.7z)  
 DO NOT USE IF YOUR SCREEN ISN'T 4:3.
 
 Installation:
@@ -256,7 +256,7 @@ Installation:
 5) RESTART THE GAME.
 6) You will see text "BB::Ready, Fetched N messages" where N is the real number of processed messages. 
 
-[**Building Bridges - Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/Building%20Bridges%20Custom%20INI.7z)  
+[**Building Bridges - Custom INI**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/config/Building%20Bridges%20Custom%20INI.7z)  
 Disables the "fetching messages" notification at the start of every game.
 
 Installation:
@@ -766,7 +766,7 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 > ⚠️ **UNTESTED** ⚠️  
 
-[**MAXIMUM New Vegas MO2 Load Order**](https://raw.githubusercontent.com/Code-Moss/iheartnewvegas/main/resources/loadorder.txt)  
+[**MAXIMUM New Vegas MO2 Load Order**](https://raw.githubusercontent.com/Code-Moss/Maximum-New-Vegas/main/resources/profile/loadorder.txt)  
 Adjusts load order for MAXIMUM New Vegas to work as intended.  
 
 - Right click and "Save Page As..."
@@ -778,7 +778,7 @@ Adjusts load order for MAXIMUM New Vegas to work as intended.
 
 ### Settings config
 
-[**MAXIMUM New Vegas Mod Config**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/MAXIMUM%20New%20Vegas%20Custom%20Settings.7z)  
+[**MAXIMUM New Vegas Mod Config**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/config/MAXIMUM%20New%20Vegas%20Mod%20Config.7z)  
 <details>
   <summary>Custom settings for the following mods:</summary>  
 	
@@ -849,34 +849,32 @@ fDlgFocus=5.0000
 uPipboyColor=1022886143
 
 [Grass]
-;Disables grass, increasing performance
-;Set to 1 to enable it
+# Disables grass, increasing performance
+# Set to 1 to enable it
 bDrawShaderGrass=0
-;Increases grass density for visuals, decreases performance
+# Increases grass density for visuals, decreases performance
 iMinGrassSize=40
 
 [Water]
-;Recommended tweaks to use alongside Nut Water Overhaul
+# Recommended tweaks to use alongside Nut Water Overhaul
 bUseWaterReflections=1
 bUseWaterRefractions=1
 bUseWaterDepth=1
 bUseWaterLOD=1
 bReflectExplosions=0
-;Set to 1 if not using bForceHighDetailReflections further below
+# Set to 1 if not using bForceHighDetailReflections further below
 bAutoWaterSilhouetteReflections=0
-;Improves visuals, decreases performance:
+# Improves visuals, decreases performance:
 bUseWaterHiRes=1
 bForceHighDetailReflections=1
 
 ```
 
-> ℹ️ Reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout; increases grass density.
-
 # MOD KEYBINDINGS
 
 This is a handy reference table which will hopefully help you have a better idea of what keys are available to you, having followed this guide from beginning to end.
 
-[**THEM KEYS**](https://github.com/Code-Moss/iheartnewvegas/blob/main/KEYBINDS.md)
+[**[KEYS]**](https://github.com/Code-Moss/iheartnewvegas/blob/main/KEYBINDS.md)
 
 
 # CHANGELOG
