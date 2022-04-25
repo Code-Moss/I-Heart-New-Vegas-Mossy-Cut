@@ -887,9 +887,9 @@ This is a handy reference table which will hopefully help you have a better idea
 
 **Grenade Key**
 
-❌ Removed Mod:
-	- Buggy
-	- Slow
+❌ Removed Mod:  
+- Buggy
+- Slow
 
 ---
 
