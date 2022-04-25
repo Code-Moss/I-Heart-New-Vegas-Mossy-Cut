@@ -767,20 +767,22 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 > ⚠️ **UNTESTED** ⚠️  
 
 [**MAXIMUM New Vegas MO2 Load Order**](https://raw.githubusercontent.com/Code-Moss/Maximum-New-Vegas/main/resources/profile/loadorder.txt)  
-Adjusts load order for MAXIMUM New Vegas to work as intended.  
+Adjusts load order for MAXIMUM New Vegas to work as intended.
 
-- Right click and "Save Page As..."
-- Click "Save", **DO NOT CHANGE THE FILE NAME**.
-- Once the download has finished, click the  <img src="https://github.com/VivaNewVegas/vivanewvegas.github.io/blob/master/img/mo2%20folders.png" alt="folder" width="20"/>  folders button at the top of MO2 and select "Open Profile folder".
-- Move "loadorder.txt" to the opened folder and overwrite when prompted.
+Installation:
 
-> ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
+1) Right click and "Save Page As..."
+2) Click "Save", **DO NOT CHANGE THE FILE NAME**.
+3) Once the download has finished, click the  <img src="https://github.com/VivaNewVegas/vivanewvegas.github.io/blob/master/img/mo2%20folders.png" alt="folder" width="20"/>  folders button at the top of MO2 and select "Open Profile folder".
+4) Move "loadorder.txt" to the opened folder and overwrite when prompted.
 
 ### Settings config
 
 [**MAXIMUM New Vegas Mod Config**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/config/MAXIMUM%20New%20Vegas%20Mod%20Config.7z)  
+Custom INI's for compatability, QOL features and more. Install manually.
+
 <details>
-  <summary>Custom settings for the following mods:</summary>  
+  <summary>Applies Custom settings for the following mods:</summary>  
 	
 • Desert Natural Weathers
 
@@ -814,7 +816,7 @@ Adjusts load order for MAXIMUM New Vegas to work as intended.
 
 ---
 
-The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
+The following settings need to be configured after you've already started a new save, using the in-game **Settings** option:
 
 **Gameplay**:
 - Set **Killcam Mode** to None.
