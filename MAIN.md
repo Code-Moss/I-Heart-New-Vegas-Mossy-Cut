@@ -275,9 +275,6 @@ A collection of small essential gameplay improvements for the official DLCs that
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
 
-[**Follower Formula Redone YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for Yukichigai Unofficial Patch.
-
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
 
