@@ -1,5 +1,5 @@
 # Keybinds:
-> All keybinds are designed to be played with a 5 Button mouse, if you dont have on you should refer to ["Sigourns Original Keybindings"](https://github.com/Sigourn/fabulousnewvegas/blob/main/main.md#mod-keybindings).
+> All keybinds are designed to be played with a 5 Button mouse, if you dont have one you should refer to ["Sigourns Original Keybindings"](https://github.com/Sigourn/fabulousnewvegas/blob/main/main.md#mod-keybindings).
 
 
 ### Movement / Action:
