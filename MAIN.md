@@ -876,7 +876,7 @@ bForceHighDetailReflections=1
 
 This is a handy reference table which will hopefully help you have a better idea of what keys are available to you, having followed this guide from beginning to end.
 
-[**[KEYS]**](https://github.com/Code-Moss/iheartnewvegas/blob/main/KEYBINDS.md)
+[**>>[KEYS]<<**](https://github.com/Code-Moss/iheartnewvegas/blob/main/KEYBINDS.md)
 
 
 # CHANGELOG
