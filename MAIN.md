@@ -783,34 +783,21 @@ Custom INI's for compatability, QOL features and more. Install manually.
 
 <details>
   <summary>Applies Custom settings for the following mods:</summary>  
-	
-• Desert Natural Weathers
-
-• Enhanced Camera
-
-• FOV Slider
-
-• JIP CCC
-
-• JIP LN NVSE Plugin
-
-• JSawyer Ultimate
-
-• Just Mods Assorted
-
-• lStewieAl's Tweaks and Engine Fixes
-
-• Mojave Arsenal
-
-• NVTF
-
-• RAD
-
-• Ragdolls
-
-• Vanilla UI Plus (New Vegas)
-
-• yUI - User Ynterface
+    <br>
+	<li>Desert Natural Weathers
+	<li>Enhanced Camera
+	<li>FOV Slider
+	<li>JIP CCC
+	<li>JIP LN NVSE Plugin
+	<li>JSawyer Ultimate
+	<li>Just Mods Assorted
+	<li>lStewieAl's Tweaks and Engine Fixes
+	<li>Mojave Arsenal
+	<li>NVTF
+	<li>RAD
+	<li>Ragdolls
+	<li>Vanilla UI Plus (New Vegas)
+	<li>yUI - User Ynterface
 
 </details>
 
