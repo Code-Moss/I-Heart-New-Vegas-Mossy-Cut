@@ -57,6 +57,7 @@ System | My Specs
 Operative System | Windows 10 64-bit (2018)
 CPU | Intel Core i3-4150, 2nd Hand Optiplex PC type
 RAM | 10GB, 3 Different Brands
+Peripherals | Logitech K270 Keyboard + Logitech M720 Triathlon Mouse
 Graphics | 2GB PNY NVIDIA T400 Low Profile GPU, sexy as can be
 HDD | 1TB WD Blue 3.5", Held in place with a cable tie 
 Monitor | Telefunken 17" Display @ 960p (4:3), **VGA** 💸💸💸
