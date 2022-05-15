@@ -12,7 +12,7 @@ Last updated: April 25th, 2022.
 
 If you've never played Fallout: New Vegas before, I recommend following the [**Viva New Vegas**](https://vivanewvegas.github.io/) modding guide. It has a fraction of the mods present here, and will take you considerably less time to follow and install appropriately.
 
-Also, before starting this list, I highly reccomend you check out [_this page_](https://github.com/Sigourn/moddingtips.md), it details some basic modding rules and practices as to not run into unnecessary issues down the line.
+Also, before starting this list, I highly recommend you check out [_this page_](https://github.com/Sigourn/moddingtips.md), it details some general modding rules and practices you should follow so you don't run into any unnecessary issues down the line.
 
 Feel free to post any issues and point out where I can make improvements. Your feedback is greatly appreciated.
 
