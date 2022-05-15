@@ -8,22 +8,13 @@ Last updated: April 25th, 2022.
 ![Banner](Banner)
 >A personal modlist using Sigourns *"Faboulous New Vegas"* as a base, with some extra mods and setups I use personally. NOT FOR FIRST TIME PLAYERS.
 
-## *Sigourns* Contact info
-
-- Discord: [Morrowind Modding Community](https://discord.me/mwmods)
-- Reddit: [Sigourn](https://www.reddit.com/user/Sigourn)
-- RPG Codex: [Sigourn](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
-
-## *Sigourns* Acknowledgments
-
-I want to thank all users who have supported my [**Morrowind Sharp**](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md) modding guide. Their feedback, criticisms and insights have all been very valuable to me.
-
 ## Disclaimer
 
 If you've never played Fallout: New Vegas before, I recommend following the [**Viva New Vegas**](https://vivanewvegas.github.io/) modding guide. It has a fraction of the mods present here, and will take you considerably less time to follow and install appropriately.
 
-This is *not* a modding guide for beginners. A certain level of modding competency is expected.
-Feel free to post issues and point out improvements.
+Also, before starting this list, I highly reccomend you check out [this page](https://github.com/Sigourn/moddingtips.md), it details some basic modding rules and practices as to not run into unnecessary issues down the line.
+
+Feel free to post any issues and point out where I can make improvements. Your feedback is greatly appreciated.
 
 ## About
 
@@ -38,13 +29,13 @@ Feel free to post issues and point out improvements.
 - Potato characters: lore-friendly overhaul of NPCs that makes them look less like mutated Play-Doh and more like actual people.
 - Disgusting piss filter and disappointing city of New Vegas: new lighting, improved Strip and LOD to experience the Mojave in all its glory.
 
-What this guide doesn't do:
+What this guide **doesn't** do:
 
 - Address every single micro-issue in the game: no game is perfect and all of them have flaws, yet we still enjoy them. My intention is to fix or at least address the most glaring ones, those that are a problem in the moment to moment experience.
 - Nitpick over individual meshes or textures: unless it's an actual fix, this guide won't bother. And even then, it probably won't bother either.
 - Improve the meshes and textures of everything I can: this alone can add another 50 or 100 mods to any install, and inconsistency will sooner than later rear its ugly head.
 
-Sigourn: "I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them."
+Sigourn: _"I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them."_
 
 
 ## My setup
