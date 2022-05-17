@@ -5,7 +5,7 @@ Last updated: April 25th, 2022.
 
 ⚠️ The current state of the fork is... **UNSTABLE/WIP**.
 
-![Banner](Banner)
+![Banner](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/assets/front.jpeg)
 >A personal modlist using Sigourns *"Faboulous New Vegas"* as a base, with some extra mods and setups I use personally. NOT FOR FIRST TIME PLAYERS.
 
 ## Disclaimer
