@@ -878,6 +878,15 @@ This is a handy reference table which will hopefully help you have a better idea
 
 ---
 
+### 2022/06/27
+
+**lStewieAl's Tweaks and Engine Fixes INI**
+
+⬆️ Updated Config:  
+- Added a few features from 7.90
+- QoL Changes
+
+---
 **_Until next time, Wasteland Courier..._**
 
 ---
