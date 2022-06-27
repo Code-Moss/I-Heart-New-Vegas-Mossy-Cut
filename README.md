@@ -65,15 +65,7 @@ Roughly 4GB.
 
 ### Is this guide compatible with...?
 
-This modlist is offered as is, and I won't answer compatibility questions. If you want to find out if a mod is compatible, ask someone else, or use **FNVEdit** to check for yourself and solve conflicts.
-
-### Does Sigourn have a Patreon I can contribute to?
-
-No.
-
-### Is a Wabbajack available for this mod list?
-
-No.
+This modlist is offered as is, and I can't answer compatibility questions. Use [**FNVEdit**](https://www.nexusmods.com/newvegas/mods/34703/) to check for yourself and solve conflicts.
 
 ---
 
