@@ -626,7 +626,7 @@ Improves the Ultra-Luxe fountain by adding additional water streams with accompa
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
 
 [**Climate Control**](https://www.nexusmods.com/newvegas/mods/77205)  
-Workarounds and bug fixes for issues faced by weather mods in Fallout New Vegas.
+Workarounds and bug fixes for issues faced by weather mods in Fallout New Vegas. Reccomended to Download optional longer transitions.
 
 [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437)  
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
