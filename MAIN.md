@@ -392,15 +392,8 @@ Improves the character creation by speeding up the process, adding specialized g
 
 ## CONTENT
 
-[**Weapons of Our Millenia**](https://www.nexusmods.com/newvegas/mods/72210)  
-A collection of Millenia's 22 best weapons, all painstakingly rebalanced and adjusted from the ground in a vanilla-friendly way.
-
-Files to install:
-- **Weapons of Our Millenia - BSAs** (Main files)
-- **Weapons of Our Millenia - Plugin** (Main files)
-- **Anniversary Anims Pack Patch** (Optional files)
-- **JSawyer Ultimate Edition Patch** (Optional files)
-- **Miscellaneous Tweaks Patch** (Optional files)
+[**Another Millenia**](https://www.nexusmods.com/newvegas/mods/76133)  
+Adds 20 Weapons made from Millenia legendary weapons as well as combined fixes from the community!
 
 [**Scottmack's Weapons Redone**](https://www.nexusmods.com/newvegas/mods/72529)  
 Qolore7's 10 favorite weapons made by Scottmack, all painstakingly rebalanced and adjusted from the ground in a vanilla-friendly way.
