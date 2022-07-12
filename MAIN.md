@@ -425,9 +425,6 @@ Files to install:
 - **Mojave Raiders - .22LR Varmint Rifle Patch** (Optional files)
 - **Mojave Raiders - The Living Desert Patch** (Optional files)
 
-[Mojave Raiders - Scottmack's Weapons Redone - Weapons of Our Millenia - JSUE Patch](https://www.nexusmods.com/newvegas/mods/75852)  
-Patch for Mojave Raiders to play nice with Scottmack's Weapons Redone - Weapons of Our Millenia and JSUE.
-
 [**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
 Makes Fiends passive to Great Khans and the player when wearing Great Khan outfits. The cut dialogues for the fiend leaders have also been reactivated.
 
