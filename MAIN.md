@@ -398,11 +398,6 @@ Adds 20 Weapons made from Millenia legendary weapons as well as combined fixes f
 [**Scottmack's Weapons Redone**](https://www.nexusmods.com/newvegas/mods/72529)  
 Qolore7's 10 favorite weapons made by Scottmack, all painstakingly rebalanced and adjusted from the ground in a vanilla-friendly way.
 
-Files to install:
-- **Scottmack's Weapons Redone** (Main files)
-- **Anniversary Anims Patch** (Optional files)
-- **Weapons of Our Millenia and Misc Tweaks Patch** (Optional files)
-
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 
