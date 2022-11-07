@@ -98,6 +98,12 @@ Files to install:
 
 ### NVSE bug fixes
 
+[**Consistent Spread**](https://www.nexusmods.com/newvegas/mods/77974)  
+Fixes non-scoped weapons inconsistent accuracy caused by vanilla weapon wobble and bugged character spread settings.
+
+[**MoonlightNVSE**](https://www.nexusmods.com/newvegas/mods/77683)  
+Fixes moonlight, making the moon the light caster instead of the sun. 
+
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
@@ -464,30 +470,26 @@ Files to install:
 
 ### Animations
 
-[**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
-Merge of many animation mods by the same author, improving the game's overall look and feel when it comes to gunplay.
+[**FNV Clean Animations - Reborn - Part 1**](https://www.nexusmods.com/newvegas/mods/77429)  
+Vanilla Friendly kNVSE animation packs. 
 
-Files to install:
-- **Anniversary Anim Pack** (Main files)
-  - Hide/delete all folders inside **Meshes** minus the **Meshes\Characters** folder.
-- **Weapon Mesh Improvement Mod Patch** (Optional files)
+Files to Install:
+- **1. FNV Clean Animations - Part 1 (R) - Blended Locomotion** (Main Files)
+- **Update 1.2.1** (Update Files)
 
-[**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
-Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person when using Anniversary Anim Pack.
+[**FNV Clean Animations - Part 2**](https://www.nexusmods.com/newvegas/mods/78335)  
+Vanilla Friendly kNVSE animation packs...but PART 2. 
 
-Files to install:
-- **AnniAnimPack_BugFix 1.3** (Main files)  
-- **Bonus Patch** (Main files)
-
-[**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
-Clean first person animations for New Vegas.
-
-Files to install:
-- **FNV Clean Animations** (Main files)  
-- **FNV Clean Animations - Update 2.2.2** (Update files)
+Files to Install:
+- **1. FNV Clean Animations - Part 2 - Blended Locomotion** (Main Files) 
+- **4-1. FNV Clean Animations - Iron Sights Alignment Part 1 and 2** (Main Files) 
+- **Update 1.02** (Update Files)
 
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
 Removes the need to manually patch weapons for animations using the ISControl node system, used in most kNVSE sets by New Vegas animators. Works with every weapon and every mod, instantly.
+
+[**rockomotion**](https://www.nexusmods.com/newvegas/mods/78564)  
+Movement animations that look good.
 
 [**Immersive Recoil**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -520,6 +522,12 @@ Enables headtracking for the player character.
 A compatible skeleton for many animation mods.
 - FOMOD options to install:
   - [X] Vanilla Weights
+
+[**B42 Dropmag**](https://www.nexusmods.com/newvegas/mods/75461)  
+Drop empty and/or partial magazines on reload.
+
+- Optional Files to install:
+  - Another Millenia Dropmag Patch UPDATED
 
 ### VFX
 
