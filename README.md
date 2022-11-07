@@ -12,9 +12,7 @@ Last updated: June 27th, 2022.
 
 If you've never played Fallout: New Vegas before, I recommend following the [**Viva New Vegas**](https://vivanewvegas.github.io/) modding guide. It has a fraction of the mods present here, and will take you considerably less time to follow and install appropriately.
 
-Also, before starting this list, I highly recommend you check out [_this page_](https://github.com/Sigourn/moddingtips.md), it details some general modding rules and practices you should follow so you don't run into any unnecessary issues down the line.
-
-Feel free to post any issues and point out where I can make improvements. Your feedback is greatly appreciated.
+Also, feel free to post any issues and point out where I can make improvements. Your feedback is greatly appreciated.
 
 ## About
 
@@ -45,13 +43,13 @@ When installing all mods in this guide, my framerate ranges anywhere from 45fps 
 
 System | My Specs
 ------------ | -------------
-Operative System | Windows 10 64-bit (2018)
-CPU | Intel Core i3-4150, 2nd Hand Optiplex PC type
-RAM | 10GB, 3 Different Brands
+Operative System | Windows 10 64-bit
+CPU | Intel Core i3-4150
+RAM | 10GB
 Peripherals | Logitech K270 Keyboard + Logitech M720 Triathlon Mouse
-Graphics | 2GB PNY NVIDIA T400 Low Profile GPU, sexy as can be
-HDD | 1TB WD Blue 3.5", Held in place with a cable tie 
-Monitor | Telefunken 17" Display @ 960p (4:3), **VGA** 💸💸💸
+Graphics | 2GB NVIDIA T400
+HDD | 1TB WD Blue 3.5"
+Monitor | 17" Display @ 1280 x 1024 (4:3)
 
 ## Frequently asked questions
 
