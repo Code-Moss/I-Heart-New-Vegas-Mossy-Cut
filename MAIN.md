@@ -900,6 +900,15 @@ This is a handy reference table which will hopefully help you have a better idea
 - QoL Changes
 
 ---
+
+### 2022/11/07
+
+**Mod Additions**
+
+- ALOT
+
+---
+
 **_Until next time, Wasteland Courier..._**
 
 ---
