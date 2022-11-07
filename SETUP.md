@@ -246,7 +246,7 @@ Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using
 
 There will be times when you will need to install multiple files from the same mod page. Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
 
-![ModExists](https://github.com/Sigourn/morrowindsharp/blob/main/MO2/MO_mod_exists.png)
+![ModExists](https://github.com/Code-Moss/Maximum-New-Vegas/assets/MO_mod_exists.png)
 
 What these options do is simple:
 
