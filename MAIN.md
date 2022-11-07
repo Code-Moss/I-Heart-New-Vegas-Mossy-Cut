@@ -73,6 +73,14 @@ NVSE plugin which adds new functions and allows modders to easily add new UI ele
 
 ### Bug fixes
 
+[**Ultimate Edition ESM Fixes**](https://www.nexusmods.com/newvegas/mods/77170)  
+Optimizes and cleans the esms, as well as fixes some hard errors in the landscape. Boosts performance on modern systems with SSDs. 
+- Manually download **Ultimate Edition ESM Fixes** (Main files).
+- Extract the contents of the archive.
+- Run **Installer.exe**.
+- Click **INSTALL**. **EXIT** the program once the process is finished.
+- In Mod Organizer 2, press **F5** to refresh the window. Activate the **Ultimate Edition ESM Fixes** mod.
+
 [**Yukichigai Unofficial Patch - YUP**](https://www.nexusmods.com/newvegas/mods/51664)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs, combined into one ESM.
 
@@ -98,6 +106,9 @@ NVSE plugin that alters the way Global Time Multiplier is modified so to provide
 
 [**Combat Lag Fix**](https://www.nexusmods.com/newvegas/mods/71973)  
 Improves framerate in combat by fixing an engine bug that lowered framerate while attacking an enemy with a health-bar visible.
+
+[**Pip-Boy Shading Fix NVSE**](https://www.nexusmods.com/newvegas/mods/77957)  
+Fixes Pip-Boy's shading, making it not ignore lights around it.
 
 [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
@@ -127,11 +138,17 @@ Makes the idle animations for crippled limbs come through in situations where th
 
 ### Mesh fixes and optimization
 
+[**Aqua Performa**](https://www.nexusmods.com/newvegas/mods/78617)  
+Drastically improves performance on The Strip by getting rid of... water LOD.
+
 [**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLC.
 
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
+
+[**Collision Meshes**](https://www.nexusmods.com/newvegas/mods/59149)  
+A mod that improves collision meshes.
 
 [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
 Removes all non-bug fix elements of the original mod and fixes a few bugs.
@@ -226,6 +243,9 @@ Installation:
 2) Extract the contents of the .7z file into the "overwrite" directory.
 
 ## GAMEPLAY QOL
+
+[**Aim View Switcher**](https://www.nexusmods.com/newvegas/mods/65370)  
+When you aim from third-person, you are switched automatically into first-person and switched back once you finish aiming. 
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
