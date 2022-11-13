@@ -49,7 +49,7 @@ RAM | 10GB
 Peripherals | Logitech K270 Keyboard + Logitech M720 Triathlon Mouse
 Graphics | 2GB NVIDIA T400
 HDD | 1TB WD Blue 3.5"
-Monitor | 17" Display @ 1280 x 1024 (4:3)
+Monitor | 17" Display @ 1280 x 1024 (5:4)
 
 ## Frequently asked questions
 
