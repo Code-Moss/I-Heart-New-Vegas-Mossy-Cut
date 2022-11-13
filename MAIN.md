@@ -290,6 +290,9 @@ Installation:
 1) In MO2, right-click "Ovewrite" and then "Open in Explorer"
 2) Extract the contents of the .7z file into the "overwrite" directory.
 
+[**Essential Vanilla Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/78877)  
+A collection of small vanilla-friendly gameplay improvements that have been fully merged, updated, and cleaned. 
+
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
@@ -459,12 +462,8 @@ Adds hundreds more leveled, vanilla-friendly creature spawn points throughout th
 Files to install:
 - **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files)
 
-[**Titans of The New West**](https://www.nexusmods.com/newvegas/mods/68699)  
+[**Titans of The New West 2.0**](https://www.nexusmods.com/newvegas/mods/78688)  
 Brings the iconic power armor look of the classic Fallout games back to New Vegas.
-
-Files to install:
-- **Titans of The New West** (Main files) **[Only use 1 ESP]**
-- **B42 Compatibility Skeleton** (Optional files)
 
 ## VISUALS
 
