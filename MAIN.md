@@ -417,7 +417,10 @@ Edits some vanilla traits and adds two new ones.
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
-"Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package"
+Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package.
+
+[**FPGEL - Functional Post Game Ending Lite**](https://www.nexusmods.com/newvegas/mods/73668)  
+A stripped down version of FPGE that doesn't alter the game's world after the Second Battle of Hoover Dam. 
 
 ## CONTENT
 
@@ -425,7 +428,7 @@ Improves the character creation by speeding up the process, adding specialized g
 Adds 20 Weapons made from Millenia legendary weapons as well as combined fixes from the community!
 
 [**Scottmack's Weapons Redone**](https://www.nexusmods.com/newvegas/mods/72529)  
-Qolore7's 10 favorite weapons made by Scottmack, all painstakingly rebalanced and adjusted from the ground in a vanilla-friendly way.
+Qolore7's 10 favorite weapons made by Scottmack, all painstakingly rebalanced and adjusted from the ground up in a vanilla-friendly way.
 
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
@@ -579,6 +582,9 @@ Securitrons' faces will change when they enter combat mode.
 
 ### Environment
 
+[**Fog-based Object Culling**](https://www.nexusmods.com/newvegas/mods/79516)  
+Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
+
 [**Hit - Rock Recolor**](https://www.nexusmods.com/newvegas/mods/76168)  
 Recolors the vanilla rock textures to a color sampled out of real life pictures of Mojave rocks.
 
@@ -592,14 +598,20 @@ Nice and beautiful touchup to the waters of the game.
 - On MO2 installation, check the following options in the FOMOD installer:
   - [X] Scriptrunner
 
+[**Desert Bridges Redesigned**](https://www.nexusmods.com/newvegas/mods/76326)  
+Replaces the atrocious desert overpasses seen just past Wolfhorn Ranch.
+
+[**Enhanced Vegas Ruins**](https://www.nexusmods.com/newvegas/mods/79399)  
+This mod makes Vegas a more urban environment.
+
 [**New Vegas Landscape Overhaul Re-Remastered**](https://www.nexusmods.com/newvegas/mods/74218)  
 This mod aims to add new life the the Mojave Wasteland by making bland locations more detailed. 
 
 Files to install:
 - **New Vegas Landscape Overhaul Re-Remastered** (Main Files)
 
-[**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
-Simple scripted interior lighting overhaul.
+[**Atmospheric Lighting Tweaks**](https://www.nexusmods.com/newvegas/mods/79378)  
+Atmospheric Lighting Tweaks makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
 
 [**Slightly more interesting - Gun Runners**](https://www.nexusmods.com/newvegas/mods/75562)  
 Gives the Gun Runners vendor shack a bit more detail.
@@ -655,7 +667,13 @@ Improves the Ultra-Luxe fountain by adding additional water streams with accompa
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
 
 [**Climate Control**](https://www.nexusmods.com/newvegas/mods/77205)  
-Workarounds and bug fixes for issues faced by weather mods in Fallout New Vegas. Reccomended to Download optional longer transitions.
+Workarounds and bug fixes for issues faced by weather mods in Fallout New Vegas.
+
+[**Cloud Shadows**](https://www.nexusmods.com/newvegas/mods/79147)  
+A cloud shadows effect powered by Climate Control NVSE.
+
+[**Cloud Upgrade NVSE**](https://www.nexusmods.com/newvegas/mods/79612)  
+NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud systems. 
 
 [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437)  
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
@@ -936,7 +954,9 @@ bForceHighDetailReflections=1
 - Improved Console
 - Aniversary Animation Pack
 - PSO
-- Some more...
+- FPGE Lite
+- Cloud Shadows
+- Alot more...
 
 ❌ **Removed Mods**:
 
