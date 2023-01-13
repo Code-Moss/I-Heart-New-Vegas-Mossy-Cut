@@ -44,9 +44,6 @@ Enables borderless window mode for safe alt-tabbing.
 - Click **INI Editor**. Select the **FalloutCustom.ini** tab.
 - Set **bFull Screen** to 0.
 
-[**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
-Implements structured exception handling and sanity checking to reduce frequency of game crashes.
-
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
 
@@ -61,7 +58,10 @@ Aims to fix UI bugs and add new UI features.
 
 Files to install:
 - **yUI** (Main files)
-- **Matched Cursor - Fallout New Vegas** (Optional files)  
+- **Matched Cursor - Fallout New Vegas** (Optional files)
+
+[**Improved Console (NVSE**)](https://www.nexusmods.com/newvegas/mods/70801)  
+xNVSE plugin that enhances the in-game console's abilities to be able to execute and print results from ALL available script commands.
 
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Enables hotkeys for pasting and enhanced movement/deletion of console commands.
@@ -469,6 +469,13 @@ Brings the iconic power armor look of the classic Fallout games back to New Vega
 
 ### Animations
 
+[**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
+Backup animations for weapons not currently animated with kNVSE.  
+
+Files to Install:
+- **Anniversary Anim Pack** (Main Files)
+- [**General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320?tab=files) (Other Mod - Download Main)
+
 [**FNV Clean Animations - Reborn - Part 1**](https://www.nexusmods.com/newvegas/mods/77429)  
 Vanilla Friendly kNVSE animation packs. 
 
@@ -486,6 +493,9 @@ Files to Install:
 
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
 Removes the need to manually patch weapons for animations using the ISControl node system, used in most kNVSE sets by New Vegas animators. Works with every weapon and every mod, instantly.
+
+[**Melee VATS Animation Restoration**](https://www.nexusmods.com/newvegas/mods/73480)  
+Brings VATS melee animations back from the dead, thanks to kNVSE.  
 
 [**rockomotion**](https://www.nexusmods.com/newvegas/mods/78564)  
 Movement animations that look good.
@@ -529,6 +539,13 @@ Drop empty and/or partial magazines on reload.
   - Another Millenia Dropmag Patch UPDATED
 
 ### VFX
+
+[**PSRO - Peripheral Scope Reticle Overhaul**](https://www.nexusmods.com/newvegas/mods/71781)  
+A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignments and a full clear view of surroundings.  
+
+- Update Files to install:
+  - PSRO - Mod Compatibility Compendium - FOMOD
+  - PSRO - Peripheral Depth Blur - JIP ScriptRunner
 
 [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
 Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.

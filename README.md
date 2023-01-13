@@ -1,11 +1,11 @@
 # MAXIMUM NEW VEGAS: A Fallout: New Vegas Modding Guide
 [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas)
 
-Last updated: November 7th, 2022.
+Last updated: January 13th, 2023.
 
 ⚠️ The current state of the fork is... **UNSTABLE/WIP**.
 
-![Banner](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/assets/front.jpeg)
+![Banner](assets/readme-banner.jpeg)
 >A personal modlist using Sigourns *"Faboulous New Vegas"* as a base, with some extra mods and setups I use personally. NOT FOR FIRST TIME PLAYERS.
 
 ## Disclaimer
@@ -48,7 +48,7 @@ CPU | Intel Core i7-4790 (Initially an i3-4150)
 RAM | 16GB
 Peripherals | Logitech K270 Keyboard + Logitech M720 Triathlon Mouse
 Graphics | 2GB NVIDIA T400
-HDD | 1TB WD Blue 3.5"
+HDD | 1TB WD Blue 3.5" (Including an NVMe drive for my OS)
 Monitor | 17" Display @ 1280 x 1024 (5:4)
 
 ## Frequently asked questions
@@ -67,4 +67,4 @@ This modlist is offered as is, and I can't answer compatibility questions. Use [
 
 ---
 
-[_**SETUP >>**_](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md)
+[_**SETUP >>**_](SETUP.md)

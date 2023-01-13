@@ -4,8 +4,6 @@
 
 # NEW VEGAS SETUP
 
-![Banner](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/assets/SetupBanner.jpg)
-
 ## Requirements
 
 - An english copy of the game from [**GOG**](https://www.gog.com/game/fallout_new_vegas_ultimate_edition), or Steam.
@@ -61,7 +59,7 @@ SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textu
 
 [**xNVSE**](https://github.com/xNVSE/NVSE/releases)  
 New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
-- Click the **nvse_6_2_5.7z** under **Assets** to download it.
+- Click the **nvse_6_2_9.7z** under **Assets** to download it.
 - Extract the contents of the archive to the game's **Root** folder. Allow it to merge and overwrite if asked.
 
 [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?)  
@@ -125,7 +123,7 @@ CaravanPack.esm
 
 ### Adjusting falloutcustom.ini
 
-- Click the **Tools** ![Tools](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO_ini.png) button, and click **INI Editor**. Select the **the falloutcustom.ini** tab.
+- Click the **Tools** ![Tools](assets/icon-mo2tools.png) button, and click **INI Editor**. Select the **the falloutcustom.ini** tab.
 - Paste in the following lines.
 
 ```
@@ -158,7 +156,7 @@ iMaxSizeForCachedSound=1024
 
 Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
 
-- Click the **Configure profiles** ![Profiles](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO_Profiles.png) button.
+- Click the **Configure profiles** ![Profiles](assets/icon-mo2profiles.png) button.
 - Check the following options:
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
@@ -173,7 +171,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 Earlier we installed [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?), which makes Fallout: New Vegas 4GB Aware, and automatically loads NVSE if present.
 
 From now on, you should avoid running the game through **nvse_loader.exe**. You should also avoid accidentally running **FalloutNVLauncher.exe**. We can hide both of these from Mod Organizer 2's list of executables.
-- Click the **Modify Executables** ![Executables](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO_Executables.png) button.
+- Click the **Modify Executables** ![Executables](assets/icon-mo2executables.png) button.
 - Select **Fallout Launcher**, and tick **Hide in user interface**.
 - Select **NVSE**, and tick **Hide in user interface**.
 - Click **Apply**, and then **OK**.
@@ -204,8 +202,8 @@ For our tools to work in Mod Organizer 2, we need to register and configure them
 
 Follow these steps for **FNVEdit**:
 
-- Click the **Modify Executables** ![Executables](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO2_Add_File.png) button and choose **Add from file...**.
+- Click the **Modify Executables** ![Executables](assets/icon-mo2executables.png) button.
+- Click the **Add an executable** ![AddExe](assets/icon-mo2addfile.png) button and choose **Add from file...**.
 - Navigate to FNVEdit's folder (**C:\Mods\FNVEdit**) and double click **FNVEdit.exe**.
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
 - In the **Arguments** field, paste **-IKnowWhatImDoing**.
@@ -213,16 +211,16 @@ Follow these steps for **FNVEdit**:
 
 Follow these steps for **FNVEditQuickAutoClean**:
 
-- Click the **Modify Executables** ![Executables](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO2_Add_File.png) button and choose **Add from file...**.
+- Click the **Modify Executables** ![Executables](assets/icon-mo2executables.png) button.
+- Click the **Add an executable** ![AddExe](assets/icon-mo2addfile.png) button and choose **Add from file...**.
 - Navigate to FNVEdit's folder (**C:\Mods\FNVEdit**) and double click **FNVEditQuickAutoClean.exe**.
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
 - Click **Apply** and then **OK**.
 
 Follow these steps for **FNVLODGen**:
 
-- Click the **Modify Executables** ![Executables](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO2_Add_File.png) button and choose **Add from file...**.
+- Click the **Modify Executables** ![Executables](assets/icon-mo2executables.png) button.
+- Click the **Add an executable** ![AddExe](assets/icon-mo2addfile.png) button and choose **Add from file...**.
 - Navigate to FNVLODGen's folder (**C:\Mods\FNVLODGen**) and double click its .exe file.
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
 - In the **Arguments** field, paste **-o:"C:\Mods\FNVLODGen Output\"**.
@@ -246,7 +244,7 @@ Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using
 
 There will be times when you will need to install multiple files from the same mod page. Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
 
-![ModExists](https://github.com/Code-Moss/Maximum-New-Vegas/assets/MO_mod_exists.png)
+![ModExists](assets/setup-exists.png)
 
 What these options do is simple:
 
@@ -311,5 +309,5 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 
 # MOVING ON TO THE NEXT SECTION
 
-[To MAXIMUM New Vegas >>](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/MAIN.md)  
-[<< Back to Readme](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/README.md)
+[To MAXIMUM New Vegas >>](MAIN.md)  
+[<< Back to Readme](README.md)
