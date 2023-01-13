@@ -968,7 +968,6 @@ bForceHighDetailReflections=1
 
 - Cleaned up guide files and folder structure
 
-
 ---
 
 **_Until next time, Wasteland Courier..._**
