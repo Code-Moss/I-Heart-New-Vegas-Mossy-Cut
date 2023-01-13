@@ -844,7 +844,12 @@ The following settings need to be configured after you've already started a new 
 
 **Helmet Overlay** _click to expand_
 
-<img src="assets/mcmConfig_HelmetOverlay.png" alt="mcm_HelmetOverlay" width="150"/>
+<br>
+
+<img src="assets/main-config.png" alt="mcm_HelmetOverlay" width="150"/>
+
+<br>
+
 
 **Weapon Name Display**
 * Check: 
@@ -856,7 +861,7 @@ The following settings need to be configured after you've already started a new 
 ### INI config
 
 **falloutcustom.ini (Optional)**:
-- Click the **Tools** ![Tools](https://github.com/Sigourn/nerevarrising/blob/master/MO2/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
+- Click the **Tools** ![Tools](assets/icon-mo2tools.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
 
 ```
 
@@ -890,10 +895,7 @@ bForceHighDetailReflections=1
 
 # MOD KEYBINDINGS
 
-This is a handy reference table which will hopefully help you have a better idea of what keys are available to you, having followed this guide from beginning to end.
-
-[**>>[KEYS]<<**](https://github.com/Code-Moss/iheartnewvegas/blob/main/KEYBINDS.md)
-
+[**This**](KEYBINDS.md) is a handy reference table which will hopefully help you have a better idea of what keys are available to you, having followed this guide from beginning to end.
 
 # CHANGELOG
 
