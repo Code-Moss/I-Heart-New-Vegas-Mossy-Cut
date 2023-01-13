@@ -1,12 +1,12 @@
-# MAXIMUM NEW VEGAS: A Fallout: New Vegas Modding Guide
-[_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas)
+# ☢️ **MAXIMUM NEW VEGAS** ☢️
+<sub> [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas) </sub>
 
 Last updated: January 13th, 2023.
 
 ⚠️ The current state of the fork is... **UNSTABLE/WIP**.
 
 ![Banner](assets/readme-banner.jpeg)
->A personal modlist using Sigourns *"Faboulous New Vegas"* as a base, with some extra mods and setups I use personally. NOT FOR FIRST TIME PLAYERS.
+> A personal modlist using Sigourns *"LEFT MY HEART IN NEW VEGAS"* as a base, with some extra mods and setups I **personally** use. NOT FOR FIRST TIME PLAYERS.
 
 ## Disclaimer
 

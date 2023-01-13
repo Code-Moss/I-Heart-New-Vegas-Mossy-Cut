@@ -901,29 +901,53 @@ bForceHighDetailReflections=1
 
 ### 2022/04/25
 
-**Grenade Key**
+❌ **Removed Mods**:
 
-❌ Removed Mod:  
+ **Grenade Key**
 - Buggy
 - Slow
 
 ---
 
-### 2022/06/27
+### 2022-06-27
 
-**lStewieAl's Tweaks and Engine Fixes INI**
 
-⬆️ Updated Config:  
+**⚠️ Updated Configs:**
+
+ **lStewieAl's Tweaks and Engine Fixes INI**
+
 - Added a few features from 7.90
 - QoL Changes
 
 ---
 
-### 2022/11/07
+### 2022-11-07
 
-**Mod Additions**
+**✔️ Mod Additions:**
 
 - ALOT
+
+---
+
+### 2023-01-13
+
+**✔️ Mod Additions:**
+
+- Improved Console
+- Aniversary Animation Pack
+- PSO
+- Some more...
+
+❌ **Removed Mods**:
+
+ **NVAC**
+- Buggy
+- Crashes and is pretty old at this point
+
+☢️ **Other**:
+
+- Cleaned up guide files and folder structure
+
 
 ---
 
@@ -931,5 +955,5 @@ bForceHighDetailReflections=1
 
 ---
 
-[<< Back to Readme](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/README.md)  
-[<< Back to Setup](https://github.com/Code-Moss/I-Heart-New-Vegas-Mossy-Cut/blob/main/SETUP.md)
+[<< Back to Readme](README.md)  
+[<< Back to Setup](SETUP.md)
