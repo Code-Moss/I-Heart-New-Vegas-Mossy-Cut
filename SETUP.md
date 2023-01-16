@@ -137,7 +137,7 @@ bPreemptivelyUnloadCells=1
 bSelectivePurgeUnusedOnFastTravel=1
 
 [Display]
-bFull Screen=1
+bFull Screen=0
 iTexMipMapSkip=0
 
 [Controls]
