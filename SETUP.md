@@ -71,8 +71,7 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 [**New Vegas Heap Replacer**](https://www.nexusmods.com/newvegas/mods/69779)  
 Replaces the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate. 
 - Manually download the **NVHR** main file.
-- Extract the contents of the archive and run **cpu_info.exe**. It will determine which file you need to install.
-- Place the **.dll** file from the appropiate folder (indicated by **cpu_info.exe**) in your game's **Root** folder.
+- Extract the contents of the archive to the game's **Root** folder. Allow it to merge and overwrite if asked.
 
 # MOD ORGANIZER 2
 
