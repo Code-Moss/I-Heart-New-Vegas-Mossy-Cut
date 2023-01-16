@@ -40,9 +40,6 @@ Enables having custom animations for weapons and actors. Also fixes the engine-b
 
 [**OneTweak but Really Updated**](https://www.nexusmods.com/newvegas/mods/79211)  
 Enables borderless window mode for safe alt-tabbing.
-- After installing the mod in MO2, click the **Tools** button.
-- Click **INI Editor**. Select the **FalloutCustom.ini** tab.
-- Set **bFull Screen** to 0.
 
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
