@@ -38,7 +38,7 @@ Adds new functions, engine bug fixes and tweaks.
 [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336)  
 Enables having custom animations for weapons and actors. Also fixes the engine-bound anim group limit problem.
 
-[**OneTweak**](https://www.nexusmods.com/newvegas/mods/75685)  
+[**OneTweak but Really Updated**](https://www.nexusmods.com/newvegas/mods/79211)  
 Enables borderless window mode for safe alt-tabbing.
 - After installing the mod in MO2, click the **Tools** button.
 - Click **INI Editor**. Select the **FalloutCustom.ini** tab.
