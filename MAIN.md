@@ -69,6 +69,9 @@ Enables hotkeys for pasting and enhanced movement/deletion of console commands.
 [**SUP NVSE**](https://www.nexusmods.com/newvegas/mods/73160)  
 NVSE plugin which adds new functions and allows modders to easily add new UI elements to the game (HUD Bars) and read Pastebin Pastes(Pastebin Reader).
 
+[**DXVK**](https://www.nexusmods.com/newvegas/mods/79299)  
+DO NOT USE IF YOU DON'T KNOW WHAT THIS DOES EXACTLY, OR IF YOU DON'T HAVE A SOMEWHAT MODERN GPU.
+
 ## GAME PATCHES
 
 ### Bug fixes
@@ -119,9 +122,6 @@ Fixes Pip-Boy's shading, making it not ignore lights around it.
 [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
-[**lStewieAl's Tweaks Custom INI**](https://github.com/Code-Moss/iheartnewvegas/blob/main/resources/lStewieAl's%20Tweaks%20Custom%20INI.7z)  
-Custom configuration that enables many quality of life improvements, as well as gameplay and balance tweaks.
-
 ### Additional bug fixes
 
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
@@ -156,9 +156,6 @@ Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, p
 [**Collision Meshes**](https://www.nexusmods.com/newvegas/mods/59149)  
 A mod that improves collision meshes.
 
-[**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
-Removes all non-bug fix elements of the original mod and fixes a few bugs.
-
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 Visual and audio fixes for thrown projectiles.
 
@@ -172,8 +169,6 @@ Fixes the intense flickering in the city of New Vegas (such as when looking from
 Remove muzzle flash lights to boost performances. 
 
 ## USER INTERFACE
-
-### Menus
 
 [**UIO - User Interface Organizer**](https://www.nexusmods.com/newvegas/mods/57174)  
 An NVSE-powered plugin designed to manage and maintain all UI/HUD extensions added to the game by various mods.
@@ -234,13 +229,13 @@ Files to install:
     - [X] Glow Icons Extention
 - **6. Vanilla UI Plus Patch** (Optional files)
 
-[**AidUI**](https://c6-dev.github.io/mods/aidui/)  
-Adds widgets on HUD for consumed Aid items that display the time until their effects run out.
+[**High Res Local Maps**](https://www.nexusmods.com/newvegas/mods/77963)  
+Increases the resolution of local maps.
 
 [**The HUD Editor**](https://www.nexusmods.com/newvegas/mods/67470)  
 Allows you to edit the HUD.
 
-[**The HUD Editor - Custom Config**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/config/Hud%20Editor%20Custom%20INI.7z)  
+[**The HUD Editor - Custom Config**](/resources/config/Hud_Editor_Custom_INI.7z)  
 DO NOT USE IF YOUR SCREEN ISN'T 4:3.
 
 Installation:
@@ -282,7 +277,7 @@ Installation:
 5) RESTART THE GAME.
 6) You will see text "BB::Ready, Fetched N messages" where N is the real number of processed messages. 
 
-[**Building Bridges - Custom INI**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/config/Building%20Bridges%20Custom%20INI.7z)  
+[**Building Bridges - Custom INI**](/resources/config/Building_Bridges_Custom_INI.7z)  
 Disables the "fetching messages" notification at the start of every game.
 
 Installation:
@@ -494,17 +489,23 @@ Files to Install:
 - **4-1. FNV Clean Animations - Iron Sights Alignment Part 1 and 2** (Main Files) 
 - **Update 1.02** (Update Files)
 
+[**Hit - Millenia Animations - Part 1**](https://www.nexusmods.com/newvegas/mods/77817)  
+Animations for Another Millenia.
+
+[**Butcher Pete Complete - A Melee Animation Overhaul**](https://www.nexusmods.com/newvegas/mods/79146)  
+Chop, slice, and bludgeon that Pete.
+
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
-Removes the need to manually patch weapons for animations using the ISControl node system, used in most kNVSE sets by New Vegas animators. Works with every weapon and every mod, instantly.
+Removes the need to manually patch weapons for animations using the ISControl node system.
 
 [**Melee VATS Animation Restoration**](https://www.nexusmods.com/newvegas/mods/73480)  
 Brings VATS melee animations back from the dead, thanks to kNVSE.  
 
-[**rockomotion**](https://www.nexusmods.com/newvegas/mods/78564)  
+[**Blended Locomotion**](https://www.nexusmods.com/newvegas/mods/79295)  
 Movement animations that look good.
 
 [**Immersive Recoil**](https://www.nexusmods.com/newvegas/mods/61973)  
-Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
+Adds recoil animations to player and NPCs
 
 [**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
 Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
@@ -543,6 +544,12 @@ Drop empty and/or partial magazines on reload.
 
 ### VFX
 
+[**DYNAVISION 3 - Total Visual Enhancement**](https://www.nexusmods.com/newvegas/mods/51577)  
+Vvisual overhaul mod that provides dynamic depth-of-field and auto-focus.
+
+[**High Resolution Bloom NVSE**](https://www.nexusmods.com/newvegas/mods/77933)  
+Allows for customizable bloom resolution, making it possible to use resolutions other than vanilla's quarter one. 
+
 [**PSRO - Peripheral Scope Reticle Overhaul**](https://www.nexusmods.com/newvegas/mods/71781)  
 A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignments and a full clear view of surroundings.  
 
@@ -552,7 +559,6 @@ A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignm
 
 [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
 Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
-[Add mcm config]
 
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
@@ -677,9 +683,6 @@ NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud s
 
 [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437)  
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
-
-[**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
-Adds vanilla ambient music to the Zion worldspace.
 
 [**Accurate NASA Stars**](https://www.nexusmods.com/newvegas/mods/75522)  
 Star texture and mesh using NASA satellite images to create a real-world accurate starfield.
@@ -813,19 +816,19 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 > ⚠️ **UNTESTED** ⚠️  
 
-[**MAXIMUM New Vegas MO2 Load Order**](https://raw.githubusercontent.com/Code-Moss/Maximum-New-Vegas/main/resources/profile/loadorder.txt)  
+[**MAXIMUM New Vegas MO2 Load Order**](/resources/profile/loadorder.txt)  
 Adjusts load order for MAXIMUM New Vegas to work as intended.
 
 Installation:
 
 1) Right click and "Save Page As..."
 2) Click "Save", **DO NOT CHANGE THE FILE NAME**.
-3) Once the download has finished, click the  <img src="https://github.com/VivaNewVegas/vivanewvegas.github.io/blob/master/img/mo2%20folders.png" alt="folder" width="20"/>  folders button at the top of MO2 and select "Open Profile folder".
+3) Once the download has finished, click the  <img src="/assets/icon-mo2folder.png" alt="folder" width="20"/>  folders button at the top of MO2 and select "Open Profile folder".
 4) Move "loadorder.txt" to the opened folder and overwrite when prompted.
 
 ### Settings config
 
-[**MAXIMUM New Vegas Mod Config**](https://github.com/Code-Moss/Maximum-New-Vegas/blob/main/resources/config/MAXIMUM%20New%20Vegas%20Mod%20Config.7z)  
+[**MAXIMUM New Vegas Mod Config**](/resources/config/MAXIMUM_New_Vegas_Mod_Config.7z)  
 Custom INI's for compatability, QOL features and more. Install manually.
 
 <details>
@@ -941,7 +944,7 @@ bForceHighDetailReflections=1
 
 ### 2022-11-07
 
-**✔️ Mod Additions:**
+✔️ **Mod Additions:**
 
 - ALOT
 
@@ -949,7 +952,7 @@ bForceHighDetailReflections=1
 
 ### 2023-01-13
 
-**✔️ Mod Additions:**
+✔️ **Mod Additions:**
 
 - Improved Console
 - Aniversary Animation Pack
@@ -967,6 +970,28 @@ bForceHighDetailReflections=1
 ☢️ **Other**:
 
 - Cleaned up guide files and folder structure
+
+---
+
+### 2023-01-16
+
+✔️ **Mod Additions:**
+
+- DXVK
+- High Res Local Maps
+- Hit - Millenia Animations - Part 1
+- Butcher Pete Complete - A Melee Animation Overhaul
+- High Resolution Bloom NVSE
+
+🔀 **Replaced Mods**:
+
+ **rockomotion -> Blended Locomotion**
+
+- Blended Locomotion includes the best parts of rockomotion and more.
+
+☢️ **Other**:
+
+- Cleaned up folder structure, again, and removed some 404 links.
 
 ---
 

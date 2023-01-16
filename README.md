@@ -1,5 +1,5 @@
-# ☢️ **MAXIMUM NEW VEGAS** ☢️
-<sub> [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas) </sub>
+# **MAXIMUM NEW VEGAS**
+<sub>☢️ [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas), RIP </sub>
 
 Last updated: January 13th, 2023.
 
@@ -10,7 +10,7 @@ Last updated: January 13th, 2023.
 
 ## Disclaimer
 
-If you've never played Fallout: New Vegas before, I recommend following the [**Viva New Vegas**](https://vivanewvegas.github.io/) modding guide. It has a fraction of the mods present here, and will take you considerably less time to follow and install appropriately.
+If you've never played Fallout: New Vegas before, I recommend following the [**Viva New Vegas**](https://vivanewvegas.github.io/) modding guide. It has a fraction of the mods present here, and will take you considerably less time to follow and install appropriately. I HIGHLY reccomend you check out [**Wall_SoGB’s performance guide**](https://wallsogb.github.io/FalloutNV-Performance-Guide/) as it provides nearly all you need to know about optimizing your game for your hardware.
 
 Also, feel free to post any issues and point out where I can make improvements. Your feedback is greatly appreciated.
 
