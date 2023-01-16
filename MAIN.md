@@ -535,6 +535,9 @@ Remakes blood visual effects, including the addition of new types of wounds base
 [**Simplified Weapon Retexture Project - WRP**](https://www.nexusmods.com/newvegas/mods/73675)  
 Retextures weapons to look all pretty and stuff.
 
+[**Toggle-able Night Vision**](https://www.nexusmods.com/newvegas/mods/39825)  
+Adds Night Vision mode to selected headwear, activated via the Pip-Boy Light.
+
 [**HUD Only Explosion Shake**](https://www.nexusmods.com/newvegas/mods/75064)  
 Makes it so that only HUD shakes when hit by explosion.
 
@@ -951,6 +954,7 @@ bForceHighDetailReflections=1
 - Hit - Millenia Animations - Part 1
 - Butcher Pete Complete - A Melee Animation Overhaul
 - High Resolution Bloom NVSE
+- Toggle-able Night Vision
 
 🔀 **Replaced Mods**:
 
