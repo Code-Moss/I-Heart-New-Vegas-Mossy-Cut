@@ -23,7 +23,7 @@ I suggest creating a separator for DLC as well as each mod category we will be i
 ## NVSE PLUGINS
 
 [**Discord Rich Presence**](https://www.nexusmods.com/newvegas/mods/68976)  
-Integrates Discord Rich Presence into Fallout NV/TTW.
+Off to a great start...Integrates Discord Rich Presence into Fallout NV/TTW.
 
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
