@@ -72,6 +72,7 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 Replaces the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate. 
 - Manually download the **NVHR** main file.
 - Extract the contents of the archive to the game's **Root** folder. Allow it to merge and overwrite if asked.
+- Create a file named "d3dx9_38.tmp" in the game's root folder. This removes a terminal from popping up every time.
 
 # MOD ORGANIZER 2
 
