@@ -287,6 +287,9 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 [**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
+[**Bullet Time Improved - a JAM addon**](https://www.nexusmods.com/newvegas/mods/78324)  
+An addon for Just Assorted Mods that adds some new features for Just Bullet Time. 
+
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
@@ -329,7 +332,7 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 Simple and comprehensive loot scarcity mod using event-based scripting.
 
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
-Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
+Fully-scripted item value overhaul, considering aspects of the vanilla economy balance.
 
 Files to install:
 - **New Vegas Economy Improved** (Main files)
@@ -349,6 +352,12 @@ Settings (in the INI) to change:
 
 [**Point that somewhere else**](https://www.nexusmods.com/newvegas/mods/73938)  
 Simple, scripted mod makes it so that NPCs will either fight or flee you if you point a gun at them.
+
+[**Inaccurate NPCs - ESPless**](https://www.nexusmods.com/newvegas/mods/79619)  
+De-aimbotting the Wasteland.
+
+Files to install:
+- **Inaccurate NPCs - tipsy** (Main files)
 
 [**SIDE - Simple Items Distributed Everywhere**](https://www.nexusmods.com/newvegas/mods/75746)  
 This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black Coffee, Nuka Cola Quantums, Daturana/Datura Hide/Datura Antivenom. Healing Poultices, Fiery Purgatives, Blood Shields, Snakebite Tourniquets, Weapon Binding Rituals, and Auto Inject Stimpaks around the wasteland.
@@ -428,6 +437,9 @@ Adds hundreds more leveled, vanilla-friendly creature spawn points throughout th
 
 Files to install:
 - **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files)
+
+[**Your Buddy Is Dead - Dynamic Dead Detection**](https://www.nexusmods.com/newvegas/mods/79635)  
+NPCs react to encountering the dead bodies of their friends for a short while after death.
 
 [**Titans of The New West 2.0**](https://www.nexusmods.com/newvegas/mods/78688)  
 Brings the iconic power armor look of the classic Fallout games back to New Vegas.
@@ -646,6 +658,16 @@ Improves interior atmosphere, fixing inconsistencies with cell interiors where t
 
 [**Climate Control**](https://www.nexusmods.com/newvegas/mods/77205)  
 Workarounds and bug fixes for issues faced by weather mods in Fallout New Vegas.
+
+[**Climate Control - Rain**](https://www.nexusmods.com/newvegas/mods/79661)  
+Rain fixes and improvements.
+
+Files to install:
+- **Climate Control - Rain** (Main files)
+- **Climate Control - 3D Rain** (Optional files)
+
+[**3D Rain**](https://www.nexusmods.com/newvegas/mods/79652)  
+3D Rain, bro.
 
 [**Cloud Shadows**](https://www.nexusmods.com/newvegas/mods/79147)  
 A cloud shadows effect powered by Climate Control NVSE.
@@ -971,6 +993,17 @@ bForceHighDetailReflections=1
 ☢️ **Other**:
 
 - Cleaned up folder structure, again, and removed some 404 links.
+
+---
+
+### 2023-01-19
+
+✔️ **Mod Additions:**
+
+- 3D Rain + Climate Control - Rain
+- Your Buddy Is Dead 
+- Bullet Time Improved
+- Inaccurate NPC's
 
 ---
 
