@@ -293,19 +293,19 @@ Allows the player to use explosives to bypass locks. Items have a chance of bein
 ## OVERHAULS
 
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
-Completely reconstructed version of Josh Sawyer's mod, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
+The Big Difficulty and Rebalance mod.
 
 Files to install:
 - **JSawyer Ultimate Edition** (Main files)
 
 [**Food Effect Tweaks - Custom Food Healing**](https://www.nexusmods.com/newvegas/mods/75103)  
-Reduces food healing effects to help balance Survival versus Medicine. Affects all items, including from other mods.
+Reduces food healing effects to help balance Survival versus Medicine. 
 
-[**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
-Makes radiation work like in Fallout 4, by damaging your max health.
+Files to install:
+- **Food Effect Tweaks - Script Runner** (Main files)
 
 [**Better Hacking**](https://www.nexusmods.com/newvegas/mods/70277)  
-Allows the player to bypass the hacking mini-game by using a Password Bypass, similar to The Outer Worlds.
+Allows the player to bypass the hacking mini-game by using a Password Bypass.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -313,11 +313,12 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 [**Famine - A Loot Rarity Mod**](https://www.nexusmods.com/newvegas/mods/74985)  
 Simple and comprehensive loot scarcity mod using event-based scripting.
 
-[**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
-Fully-scripted item value overhaul, considering aspects of the vanilla economy balance.
+[**Economy Overhaul**](https://www.nexusmods.com/newvegas/mods/62899)  
+Item value overhaul.
 
 Files to install:
-- **New Vegas Economy Improved** (Main files)
+- **Economy Overhaul** (Main files)
+- **Economy Overhaul - Default INI** (Optional files)
 
 [**GRA Unique Weapons Relocated**](https://www.nexusmods.com/newvegas/mods/68153)  
 Makes the GRA unique weapons unavailable for purchase and scatters them across the Mojave, Zion, and the Big MT - just like all the other unique weapons.
@@ -342,22 +343,19 @@ Files to install:
 - **Inaccurate NPCs - tipsy** (Main files)
 
 [**SIDE - Simple Items Distributed Everywhere**](https://www.nexusmods.com/newvegas/mods/75746)  
-This is a simple mod that distributes Wasteland Tequila. MREs, Battle Brew/Black Coffee, Nuka Cola Quantums, Daturana/Datura Hide/Datura Antivenom. Healing Poultices, Fiery Purgatives, Blood Shields, Snakebite Tourniquets, Weapon Binding Rituals, and Auto Inject Stimpaks around the wasteland.
+This is a simple mod that distributes DLC items around the wasteland.
 
 [**Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 This is a NVSE plugin that enables a visible body and player shadows when in first person.
 
 [**JIP Companions Command and Control**](https://www.nexusmods.com/newvegas/mods/50468)  
-This mod is designed to revolutionize the way companions are controlled and interacted with.
+Revolutionize the way companions are controlled with.
 
 [**Perk Styled CCC Icons**](https://www.nexusmods.com/newvegas/mods/70849)  
-Replaces many of "JIP Companions Command and Control"'s icons.
+Replaces JIP Companions Command and Control's NPC icons.
 
-[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
-Makes enemies more likely to target the player in combat rather than companions.
-
-[**PerkPackPlus**](https://www.nexusmods.com/newvegas/mods/70473)  
-Adds various new perks suited for specialization and to add spice to your build.
+[**JIP CCC HD icons**](https://www.nexusmods.com/newvegas/mods/75378)  
+Higher resolution versions of JIP Companions Command and Control's icons. 
 
 [**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141)  
 Expands the idea of traits with opposite effects (seen in Fast Shot and Trigger Discipline) to the game's other traits.
@@ -382,8 +380,9 @@ A stripped down version of FPGE that doesn't alter the game's world after the Se
 [**Another Millenia**](https://www.nexusmods.com/newvegas/mods/76133)  
 Adds 20 Weapons made from Millenia legendary weapons as well as combined fixes from the community!
 
-[**Scottmack's Weapons Redone**](https://www.nexusmods.com/newvegas/mods/72529)  
-Qolore7's 10 favorite weapons made by Scottmack, all painstakingly rebalanced and adjusted from the ground up in a vanilla-friendly way.
+Files to install:
+- **Another Millenia** (Main files)
+- **Am Hotfix** (Update files)
 
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
