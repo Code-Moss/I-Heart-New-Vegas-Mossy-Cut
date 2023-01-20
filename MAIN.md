@@ -67,6 +67,10 @@ Enables hotkeys for pasting and enhanced movement/deletion of console commands.
 [**SUP NVSE**](https://www.nexusmods.com/newvegas/mods/73160)  
 NVSE plugin which adds new functions and allows modders to easily add new UI elements to the game (HUD Bars) and read Pastebin Pastes(Pastebin Reader).
 
+
+[**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
+Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
+
 [**DXVK**](https://www.nexusmods.com/newvegas/mods/79299)  
 DO NOT USE IF YOU DON'T KNOW WHAT THIS DOES EXACTLY, OR IF YOU DON'T HAVE A SOMEWHAT MODERN GPU.
 
@@ -116,9 +120,6 @@ Improves framerate in combat by fixing an engine bug that lowered framerate whil
 
 [**Pip-Boy Shading Fix NVSE**](https://www.nexusmods.com/newvegas/mods/77957)  
 Fixes Pip-Boy's shading, making it not ignore lights around it.
-
-[**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
-Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 ### Additional bug fixes
 
