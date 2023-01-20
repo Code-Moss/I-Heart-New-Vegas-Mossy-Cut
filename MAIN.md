@@ -231,7 +231,7 @@ Installation:
 1) In MO2, right-click "Ovewrite" and then "Open in Explorer"
 2) Extract the contents of the .7z file into the "overwrite" directory.
 
-## GAMEPLAY QOL
+## GAMEPLAY
 
 [**Aim View Switcher**](https://www.nexusmods.com/newvegas/mods/65370)  
 When you aim from third-person, you are switched automatically into first-person and switched back once you finish aiming. 
@@ -242,19 +242,20 @@ Increases the speed of the Pip-Boy animation.
 Files to install:
 - **Faster Pip-Boy Animation (2x)** (Main files)
 
-[**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
-Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
+[**Delay DLC Redux**](https://www.nexusmods.com/newvegas/mods/75851)  
+Requires you be near a given DLC's starting location to receive its quest. No more spam.
 
-[**Retrievable Throwables**](https://www.nexusmods.com/newvegas/mods/66461)  
+[**Retrievable Throwables Reforged**](https://www.nexusmods.com/newvegas/mods/66461)  
 If you can throw it - you can pick it up.
 
 [**Universal Water Bottling**](https://www.nexusmods.com/newvegas/mods/71583)  
 Allows any empty bottles or canteens to be filled from any water source, even from other mods
 
-## GAMEPLAY
-
 [**Essential Vanilla Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/78877)  
 A collection of small vanilla-friendly gameplay improvements that have been fully merged, updated, and cleaned. 
+
+Files to install:
+- **Vanilla Enhancements Merged** (Main files)
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
@@ -267,9 +268,6 @@ Removes annoying features from some followers. Changes the effects of the Enhanc
 
 [**Helmet Armor Rebalance (JIP)**](https://www.nexusmods.com/newvegas/mods/72028)  
 Scripted rebalance of all helmet armors in the game for users of JIP's bLocalizedDTDR feature. This raises their DT to the level of their associated or equivalent body armors in order to compensate for protective headwear being rendered practically useless with the setting enabled.
-
-[**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
-Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
@@ -288,12 +286,6 @@ NPCs will now sprint in melee combat instead of casually jogging. Uses custom sp
 
 [**NPCs Use Aid Items**](https://www.nexusmods.com/newvegas/mods/68742)  
 NPCs will now use aid items in combat. They will not consume their loot; instead, they will simulate consuming items they can potentially carrying.
-
-[**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202/)  
-Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing. The slowed movement speed and slower turning speed also makes enemies less likely to bolt out suddenly from around a corner in a jerky way.
-
-[**Reload Reloaded**](https://www.nexusmods.com/newvegas/mods/62266)  
-Fixes issues with Agility and Strength modifiers for reloading and throwing weapons; makes sneak critical hit damage scale with Sneak; allows grenade throwing range to be affected by Strength.
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
