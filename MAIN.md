@@ -25,6 +25,9 @@ I suggest creating a separator for DLC as well as each mod category we will be i
 [**Discord Rich Presence**](https://www.nexusmods.com/newvegas/mods/68976)  
 Off to a great start...Integrates Discord Rich Presence into Fallout NV/TTW.
 
+[**Crash Logger**](https://www.nexusmods.com/newvegas/mods/72317)  
+A DLL that logs raw crash data.
+
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
@@ -388,9 +391,7 @@ Files to install:
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 
 Files to install:
-- **Uncut Wasteland plus NPCs** (Main files)
-- **Uncut Extra Collection** (Optional files)
-- **Uncut Wasteland Pole Remover** (Optional files)
+- **Uncut Wasteland plus NPCs. Simple Open Freeside compatible** (Main files)
 
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip.
@@ -404,20 +405,15 @@ Overhaul of New Vegas's raider factions, balancing their loot and adding more of
 Files to install:
 - **Mojave Raiders** (Main files)
 - **Mojave Raiders - .22LR Varmint Rifle Patch** (Optional files)
-- **Mojave Raiders - The Living Desert Patch** (Optional files)
 
 [**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
-Makes Fiends passive to Great Khans and the player when wearing Great Khan outfits. The cut dialogues for the fiend leaders have also been reactivated.
-
-Files to install:
-- **Khans Friendly to Fiends** (Main files)
-- **Mojave Raiders Patch** (Main files)
+Makes Fiends passive to Great Khans.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 
 Files to install:
-- **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files)
+- **Mojave Wildlife - FO3 Version** (Main files)
 
 [**Your Buddy Is Dead - Dynamic Dead Detection**](https://www.nexusmods.com/newvegas/mods/79635)  
 NPCs react to encountering the dead bodies of their friends for a short while after death.
@@ -991,6 +987,14 @@ bForceHighDetailReflections=1
 - Your Buddy Is Dead 
 - Bullet Time Improved
 - Inaccurate NPC's
+
+---
+
+### 2023-01-20
+
+☢️ **Other**:
+
+- So, soooo much changes. Additions, Subtractions, fixes.
 
 ---
 
