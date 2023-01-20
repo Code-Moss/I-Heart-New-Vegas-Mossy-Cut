@@ -92,16 +92,11 @@ Collection of bug fixes for Fallout: New Vegas and its DLCs, combined into one E
 Files to install:
 - **YUP - Base Game and All DLC** (Main files)
 
-[**Landscape Disposition Fix**](https://www.nexusmods.com/newvegas/mods/73937/)  
-Small mod fixing several hundred vanilla floating objects, underground or above ground.
+[**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239)  
+Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
-[**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
-Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles, all while retaining the original triangle ordering at the cell edges whenever possible for maximum compatibility. Also makes improvements to the majority of the affected navmeshes, like adding gaps for obstacles such as rocks and trees.
-
-Files to install:
-- **Navmesh Fixes and Improvements - Base Game and ALL DLC** (Main files)
-
-### NVSE bug fixes
+[**yGTM**](https://www.nexusmods.com/newvegas/mods/72784)  
+NVSE plugin that alters the way Global Time Multiplier is modified so to provide better compatibility between mods and base game.
 
 [**Consistent Spread**](https://www.nexusmods.com/newvegas/mods/77974)  
 Fixes non-scoped weapons inconsistent accuracy caused by vanilla weapon wobble and bugged character spread settings.
@@ -109,28 +104,14 @@ Fixes non-scoped weapons inconsistent accuracy caused by vanilla weapon wobble a
 [**MoonlightNVSE**](https://www.nexusmods.com/newvegas/mods/77683)  
 Fixes moonlight, making the moon the light caster instead of the sun. 
 
-[**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239)  
-Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
-
-[**yGTM**](https://www.nexusmods.com/newvegas/mods/72784)  
-NVSE plugin that alters the way Global Time Multiplier is modified so to provide better compatibility between mods and base game.
-
 [**Combat Lag Fix**](https://www.nexusmods.com/newvegas/mods/71973)  
 Improves framerate in combat by fixing an engine bug that lowered framerate while attacking an enemy with a health-bar visible.
 
 [**Pip-Boy Shading Fix NVSE**](https://www.nexusmods.com/newvegas/mods/77957)  
 Fixes Pip-Boy's shading, making it not ignore lights around it.
 
-### Additional bug fixes
-
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
 Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility. Includes other gameplay tweaks.
-
-[**Melee VATS Animation Restoration**](https://www.nexusmods.com/newvegas/mods/73480)  
-Brings VATS melee animations back from Fallout 3.
-
-[**No More Dust Devils (and Whirlwinds)**](https://www.nexusmods.com/newvegas/mods/74167)  
-Remove all the dust devils and whirlwinds from the game. Optionally removes the tumbleweeds too.
 
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. Includes other gameplay tweaks.
@@ -155,11 +136,22 @@ Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, p
 [**Collision Meshes**](https://www.nexusmods.com/newvegas/mods/59149)  
 A mod that improves collision meshes.
 
-[**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
-Visual and audio fixes for thrown projectiles.
+Files to install:
+- **Collision Meshes FNV** (Main files)
+- **update Collision Meshes FNV 1.6.3 to 1.6.4** (Optional files)
 
-[**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
-Fixes the White Glove Society Mask mesh for female characters.
+[**Enhanced Landscapes**](https://www.nexusmods.com/newvegas/mods/69406)  
+Fixes several hundred vanilla floating objects, underground or above ground.
+
+Files to install:
+
+- **Enhanced Landscapes for NVLO** (Optional files)
+
+[**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
+Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles, all while retaining the original triangle ordering at the cell edges whenever possible for maximum compatibility. Also makes improvements to the majority of the affected navmeshes, like adding gaps for obstacles such as rocks and trees.
+
+Files to install:
+- **Navmesh Fixes and Improvements - Base Game and ALL DLC** (Main files)
 
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
@@ -189,17 +181,20 @@ Greatly improves the user interface without compromising the original style.
 
 > ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and only enables said font exclusively in the Pip-Boy screen.
 
+[**AidUI**](https://www.nexusmods.com/newvegas/mods/77782)  
+Displays remaining duration of consumed Aid items on the HUD.
+
 [**JIP Improved Recipe Menu ESPless**](https://www.nexusmods.com/newvegas/mods/75920)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
 
-[**Magazine (and Chem) Submenu**](https://www.nexusmods.com/newvegas/mods/73719)  
-Adds a submenu for skill magazines, so that they don't clutter up your Aid item list in the inventory menu
+[**ySI - Sorting Ycons**](https://www.nexusmods.com/newvegas/mods/74358)  
+Sorting mod, using features of yUI to make inventory management a better experience.
+
+[**ySI Sorting Icons - Push's Categories**](https://www.nexusmods.com/newvegas/mods/78532)  
+A simple categories config targeting only the most clutter-prone item types.
 
 [**WND - Weapon Name Display**](https://www.nexusmods.com/newvegas/mods/63687)  
 A simple mod that displays the name of your weapon when you want.
-
-[**ySI - Sorting Ycons**](https://www.nexusmods.com/newvegas/mods/74358)  
-Sorting mod, using features of yUI to make inventory management a better experience. Each item gets assigned one of the 140+ included custom icons, representing different categories of items.
 
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
@@ -209,11 +204,9 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 
 Files to install:
 - **Vanilla Hud Cleaned** (Main files)  
-- **Vanilla Hud Cleaned - Barter Update** (Update files)
 
 - FOMOD options to install:
-  - All **Modules** options.
-  - Skip the **DarnUI Specific** and **Tweaks** options.
+  - Skip the **Clean Fonts for DarnUI** box.
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Bug fixes and consistency tweaks for icons in terms of coloring and transparency.
@@ -222,11 +215,7 @@ Files to install:
 - **1. Consistent Pip-boy Icons** (Main files)  
 - **2. Consistent Addon Icons** (Main files)
 	- [x] Everything
-- **3. Consistent Glow Icons** (Main files)
-  - FOMOD options to install:
-    - [X] Main File
-    - [X] Glow Icons Extention
-- **6. Vanilla UI Plus Patch** (Optional files)
+- **4. Vanilla UI Plus Patch** (Optional files)
 
 [**High Res Local Maps**](https://www.nexusmods.com/newvegas/mods/77963)  
 Increases the resolution of local maps.
@@ -742,6 +731,12 @@ Collection of upscaled icons for a variety of mods.
   - [X] Mojave Arsenal
 
 ## LOD
+
+[**Aqua Performa LOD**](https://www.nexusmods.com/newvegas/mods/78617)  
+Drastically improves performance on The Strip.
+
+Files to install:
+- **Strip Performance Fix - LODGen Data** (Optional files)
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on distant land.
