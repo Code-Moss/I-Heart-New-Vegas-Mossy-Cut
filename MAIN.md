@@ -430,7 +430,7 @@ Backup animations for weapons not currently animated with kNVSE.
 
 Files to Install:
 - **Anniversary Anim Pack** (Main Files)
-- [**General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320?tab=files) (Other Mod - Download Main)
+- [**General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320?tab=files) (Other Mod - Install All Main Files)
 
 [**FNV Clean Animations - Reborn - Part 1**](https://www.nexusmods.com/newvegas/mods/77429)  
 Vanilla Friendly kNVSE animation packs. 
@@ -447,11 +447,11 @@ Files to Install:
 - **4-1. FNV Clean Animations - Iron Sights Alignment Part 1 and 2** (Main Files) 
 - **Update 1.02** (Update Files)
 
-[**Hit - Millenia Animations - Part 1**](https://www.nexusmods.com/newvegas/mods/77817)  
-Animations for Another Millenia.
-
 [**Butcher Pete Complete - A Melee Animation Overhaul**](https://www.nexusmods.com/newvegas/mods/79146)  
 Chop, slice, and bludgeon that Pete.
+
+Files to Install:
+- **2. Butcher Pete Complete - A Melee Animation Overhaul (No Locomotion)** (Main Files)
 
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
 Removes the need to manually patch weapons for animations using the ISControl node system.
@@ -477,17 +477,26 @@ Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit re
 Files to install:
 - **Ragdolls** (Main files)
 
-[**Ragdolls YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
+[**Sigourns Ragdolls YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268?tab=files&file_id=1000087271&nmm=1)  
 Compatibility patch for Yukichigai Unofficial Patch.
 
-[**Ragdolls DLC Enhancements Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
+[**Sigourns DLC Enhancements Patch**](https://www.nexusmods.com/newvegas/mods/75268?tab=files&file_id=1000087272&nmm=1)  
 Compatibility patch for Essential DLC Enhancements.
 
 [**Diagonal movement**](https://www.nexusmods.com/newvegas/mods/64333)  
 Adds diagonal movement.
 
+Files to install:
+- **Diagonal Movement 0.6b** (Main files)
+- **Skeleton by MadAce (Ragdoll mod compat)** (Optional files)
+
+
 [**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741)  
 Enables headtracking for the player character.
+
+Files to install:
+- **Player Headtracking** (Main files)
+- **MadAce's Ragdoll compatibility patch** (Optional files)
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A compatible skeleton for many animation mods.
@@ -509,11 +518,13 @@ Vvisual overhaul mod that provides dynamic depth-of-field and auto-focus.
 Allows for customizable bloom resolution, making it possible to use resolutions other than vanilla's quarter one. 
 
 [**PSRO - Peripheral Scope Reticle Overhaul**](https://www.nexusmods.com/newvegas/mods/71781)  
-A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignments and a full clear view of surroundings.  
+Overhaul of scope reticles with surroundings.  
 
-- Update Files to install:
-  - PSRO - Mod Compatibility Compendium - FOMOD
-  - PSRO - Peripheral Depth Blur - JIP ScriptRunner
+Files to install:
+- **PSRO - Peripheral Scope Reticle Overhaul** (Main files)
+
+- **PSRO - Peripheral Depth Blur - JIP ScriptRunner** (Update files files)
+
 
 [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
 Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
@@ -613,7 +624,6 @@ Modern recreation of Freeside Open, featuring many bug fixes, occlusion panes, a
 
 Files to install:
 - **Simple Open Freeside** (Main files)
-- **Uncut Wasteland Patch** (Optional files)
 
 [**Simple Open Strip**](https://www.nexusmods.com/newvegas/mods/73127)  
 Modern recreation of Strip Open, featuring many bug fixes, occlusion panes, and fixed meshes to deliver a much more stable, performance friendly, and bug free experience.
@@ -956,7 +966,6 @@ bForceHighDetailReflections=1
 
 - DXVK
 - High Res Local Maps
-- Hit - Millenia Animations - Part 1
 - Butcher Pete Complete - A Melee Animation Overhaul
 - High Resolution Bloom NVSE
 - Toggle-able Night Vision
@@ -995,6 +1004,15 @@ bForceHighDetailReflections=1
 ☢️ **Other**:
 
 - So, soooo much changes. Additions, Subtractions, fixes.
+
+---
+
+### 2023-01-20
+❌ **Removed Mods**:
+
+**Hit - Millenia Animations - Part 1**
+
+- While it's top quality, I felt it didn't fit the style of the game.
 
 ---
 
