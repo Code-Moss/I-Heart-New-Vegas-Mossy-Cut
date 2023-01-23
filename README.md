@@ -1,7 +1,7 @@
 # **MAXIMUM NEW VEGAS**
 <sub>☢️ [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas), RIP </sub>
 
-Last updated: January 20th, 2023.
+Last updated: January 23th, 2023.
 
 🚧 The current state of the fork is... **UNSTABLE/WIP**.
 
