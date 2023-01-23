@@ -281,6 +281,9 @@ Improves animation transitions when going from idle to sprint, plus allows the p
 [**Bullet Time Improved - a JAM addon**](https://www.nexusmods.com/newvegas/mods/78324)  
 An addon for Just Assorted Mods that adds some new features for Just Bullet Time. 
 
+[**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
+Chucks grenades at a push of a button.
+
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
@@ -691,41 +694,13 @@ Files to install:
 - **JSawyer Ultimate - Mojave Raiders Patch** (Main files)
 - **JSawyer Ultimate - WMIM Patch** (Main files)
 
-[**Maximum Patches**](mods/Fabulous%20New%20Vegas%20Patches.7z)  
-Includes patches and tweaks for mods installed in the guide.
-- On MO2 installation, check the following options in the FOMOD installer:
-  - YUP Patches
-    - [X] Follower Formula Redone
-    - [X] LOD Additions and Improvements
-  - WMIM Patches
-    - [X] Throwable Fixes
-    - [X] Mojave Raiders - No NPC Throwing Weapon Consumption
-  - JSUE Patches
-    - [X] Misc Gameplay Merge
-    - [X] Miscellaneous Tweaks - Push's Tweaks
-    - [X] Mojave Arsenal - Push's Tweaks
-    - [X] Mojave Arsenal GRA Merged - WMIM
-    - [X] Mojave Arsenal GRA Merged - Miscellaneous Tweaks
-    - [X] Uncut Extra Collection
-  - Consistent Traits
-    - [X] Improved Opposite Traits
-  - JSUE Patches
-    - [X] Improved Traits
-    - [X] FNV Opposite Traits
-  - CER AIO Patches
-    - [ ] Standard + Extra Collection
-  - Tweaks
-    - [X] Essential DLC Enhancements
-    - [X] Miscellaneous Tweaks
-    - [X] Improved Traits
-    - [X] Uncut Wasteland
-    - [X] Eyelashes New Vegas
-    - [X] Desert Natural Weathers
+[**Viva New Vegas Resources**](https://www.nexusmods.com/newvegas/mods/79358?tab=files)  
+Lots of fixes and tweaks. Viva Life.
 
-[**Consistent Pip-Boy Icons - Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
-Collection of upscaled icons for a variety of mods.
-- FOMOD options to install:
-  - [X] Mojave Arsenal
+Files to install:
+- **Mojave Raiders Tweaks** (Main files)
+- **Quick Grenade Hotkey Tweaks** (Main files)
+- **Uncut Wasteland** (Main Files)
 
 ## LOD
 
