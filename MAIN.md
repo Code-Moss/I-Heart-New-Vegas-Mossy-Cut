@@ -815,7 +815,7 @@ Installation:
 
 ### Settings config
 
-[**MAXIMUM New Vegas Mod Config**](/resources/config/MAXIMUM_New_Vegas_Mod_Config.7z)  
+[**MAXIMUM New Vegas Mod Config**](/resources/config/MAXIMUM_Config.7z)  
 Custom INI's for compatability, QOL features and more. Install manually.
 
 <details>
