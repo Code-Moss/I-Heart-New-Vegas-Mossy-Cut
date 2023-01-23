@@ -662,6 +662,9 @@ A cloud shadows effect powered by Climate Control NVSE.
 [**Cloud Upgrade NVSE**](https://www.nexusmods.com/newvegas/mods/79612)  
 NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud systems. 
 
+[**Heat Haze**](https://www.nexusmods.com/newvegas/mods/76286)  
+A subtle heat distortion effect.
+
 [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437)  
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
 
@@ -676,9 +679,6 @@ Files to install:
 [**Ed-E the Silent Eyebot**](https://www.nexusmods.com/newvegas/mods/72430)  
 Removes ED-E's "Combat Initiated" Audio.
 
-[**Power Armor Audio Reworked**](https://www.nexusmods.com/newvegas/mods/75964)  
-Restores New Vegas' Power Armor Audio.
-
 [**Immersive Pickup Sounds Patched**](https://www.nexusmods.com/newvegas/mods/70552)  
 Adds a variety of sound effects for picking up numerous items.
 
@@ -689,9 +689,9 @@ Compatibility patches for JSawyer Ultimate Edition.
 
 Files to install:
 - **JSawyer Ultimate - Mojave Raiders Patch** (Main files)
-- **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)** (Main files)
+- **JSawyer Ultimate - WMIM Patch** (Main files)
 
-[**Fabulous New Vegas Patches**](mods/Fabulous%20New%20Vegas%20Patches.7z)  
+[**Maximum Patches**](mods/Fabulous%20New%20Vegas%20Patches.7z)  
 Includes patches and tweaks for mods installed in the guide.
 - On MO2 installation, check the following options in the FOMOD installer:
   - YUP Patches
@@ -1013,6 +1013,10 @@ bForceHighDetailReflections=1
 **Hit - Millenia Animations - Part 1**
 
 - While it's top quality, I felt it didn't fit the style of the game.
+
+**Power Armor Audio Reworked**
+
+- Replaced by Titans of the New West 2.0
 
 ---
 
