@@ -281,9 +281,6 @@ Improves animation transitions when going from idle to sprint, plus allows the p
 [**Bullet Time Improved - a JAM addon**](https://www.nexusmods.com/newvegas/mods/78324)  
 An addon for Just Assorted Mods that adds some new features for Just Bullet Time. 
 
-[**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
-Chucks grenades at a push of a button.
-
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
@@ -292,9 +289,6 @@ NPCs will now sprint in melee combat instead of casually jogging. Uses custom sp
 
 [**NPCs Use Aid Items**](https://www.nexusmods.com/newvegas/mods/68742)  
 NPCs will now use aid items in combat. They will not consume their loot; instead, they will simulate consuming items they can potentially carrying.
-
-[**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
-Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
 
 ## OVERHAULS
 
@@ -541,9 +535,6 @@ Retextures weapons to look all pretty and stuff.
 [**Toggle-able Night Vision**](https://www.nexusmods.com/newvegas/mods/39825)  
 Adds Night Vision mode to selected headwear, activated via the Pip-Boy Light.
 
-[**HUD Only Explosion Shake**](https://www.nexusmods.com/newvegas/mods/75064)  
-Makes it so that only HUD shakes when hit by explosion.
-
 [**Bullet Trails**](https://www.nexusmods.com/newvegas/mods/75122)  
 Adds smoky trails to bullets.
 
@@ -675,7 +666,10 @@ An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC 
 Star texture and mesh using NASA satellite images to create a real-world accurate starfield.
 
 Files to install:
-- **Accurate Stars 4k** (Main files)
+- **Accurate Stars 2k** (Main files)
+
+[**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
+Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 
 ## AUDIO
 
@@ -699,16 +693,9 @@ Lots of fixes and tweaks. Viva Life.
 
 Files to install:
 - **Mojave Raiders Tweaks** (Main files)
-- **Quick Grenade Hotkey Tweaks** (Main files)
 - **Uncut Wasteland** (Main Files)
 
 ## LOD
-
-[**Aqua Performa LOD**](https://www.nexusmods.com/newvegas/mods/78617)  
-Drastically improves performance on The Strip.
-
-Files to install:
-- **Strip Performance Fix - LODGen Data** (Optional files)
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on distant land.
@@ -740,17 +727,11 @@ Adds visible Strip signs and moves the Strip buildings to where they should be.
 Files to install:
 - **Better Strip View** (Main files)
 
-[**Better Strip View - More Subtle New Vegas Light Pollution Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for More Subtle New Vegas Light Pollution.
-
 [**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
 Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
 
 Files to install:
 - **Hoover Dam Jets Restored and Distant** (Main files)
-
-[**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
-Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 
 Files to install:
 - **Strip Lights Region Fix** (Main files)
@@ -767,10 +748,10 @@ Files to install:
 
 ### Generated LOD
 
-[**MAXIMUM New Vegas LOD**](https://drive.google.com/file/d/1mXloRy61ZYO4EMEVd3b3JoF99-1R43tG/view?usp=sharing)  
+[**MAXIMUM LOD**](https://drive.google.com/file/d/1K9SL6IV8khDrywExJY1zJs2nuE28i9IW/view?usp=share_link)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
-> ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
+<sub>⚠️ ONLY INSTALL THIS IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS.</sub>
 
 ## FINISHING TOUCHES
 
@@ -778,23 +759,23 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 > ⚠️ **UNTESTED** ⚠️  
 
-[**MAXIMUM New Vegas MO2 Load Order**](/resources/profile/loadorder.txt)  
+[**MAXIMUM Load Order**](/resources/profile/loadorder.txt)  
 Adjusts load order for MAXIMUM New Vegas to work as intended.
 
 Installation:
 
 1) Right click and "Save Page As..."
 2) Click "Save", **DO NOT CHANGE THE FILE NAME**.
-3) Once the download has finished, click the  <img src="/assets/icon-mo2folder.png" alt="folder" width="20"/>  folders button at the top of MO2 and select "Open Profile folder".
+3) Once the download has finished, click the  <img src="assets/icon-mo2folder.png" alt="folder" width="20"/>  folders button at the top of MO2 and select "Open Profile folder".
 4) Move "loadorder.txt" to the opened folder and overwrite when prompted.
 
 ### Settings config
 
-[**MAXIMUM New Vegas Mod Config**](/resources/config/MAXIMUM_Config.7z)  
+[**MAXIMUM Config**](/resources/config/MAXIMUM_Config.7z)  
 Custom INI's for compatability, QOL features and more. Install manually.
 
 <details>
-  <summary>Applies Custom settings for the following mods:</summary>  
+  <summary>Applies Custom settings for the following mods:</summary>
     <br>
 	<li>Desert Natural Weathers
 	<li>Enhanced Camera
@@ -806,7 +787,7 @@ Custom INI's for compatability, QOL features and more. Install manually.
 	<li>lStewieAl's Tweaks and Engine Fixes
 	<li>Mojave Arsenal
 	<li>NVTF
-	<li>RAD
+	<li>RAD?
 	<li>Ragdolls
 	<li>Vanilla UI Plus (New Vegas)
 	<li>yUI - User Ynterface
@@ -843,7 +824,7 @@ The following settings need to be configured after you've already started a new 
 
 ### INI config
 
-**falloutcustom.ini (Optional)**:
+**falloutcustom.ini**:
 - Click the **Tools** ![Tools](assets/icon-mo2tools.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
 
 ```
@@ -876,11 +857,18 @@ bForceHighDetailReflections=1
 
 ```
 
-# MOD KEYBINDINGS
+# KEYBINDS
 
 [**This**](KEYBINDS.md) is a handy reference table which will hopefully help you have a better idea of what keys are available to you, having followed this guide from beginning to end.
 
-# CHANGELOG
+---
+
+**_Until next time, Wasteland Courier..._**
+
+---
+
+<details>
+<summary>Changelog</summary>
 
 ### 2022/04/25
 
@@ -983,6 +971,7 @@ bForceHighDetailReflections=1
 ---
 
 ### 2023-01-23
+
 ❌ **Removed Mods**:
 
 **Hit - Millenia Animations - Part 1**
@@ -995,7 +984,15 @@ bForceHighDetailReflections=1
 
 ---
 
-**_Until next time, Wasteland Courier..._**
+### 2023-01-24
+
+☢️ **Other**:
+
+- bruh.
+
+---
+
+</details>
 
 ---
 

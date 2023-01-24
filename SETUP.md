@@ -188,14 +188,15 @@ An advanced graphical module viewer/editor and conflict detector.
 - Manually download the **FNVEdit 4.0.4** main file.
 - Extract the contents of the archive to **Mods\FNVEdit**.
 
-## FNVLODGen
+## xLODGen (Optional)
 
-**FNVLODGen** lets you generate LOD for our installed mods. LOD stands for level of detail. Fallout: New Vegas has very poor distant statics, and this tool will not only let us improve it, but also increase the amount of rendered statics, including those modified or added by mods.
+**xLODGen** lets you generate [**LODs**](https://en.wikipedia.org/wiki/Level_of_detail_(computer_graphics)). Fallout: New Vegas has very poor distant statics, and this tool will not only let us improve it, but also increase the amount of rendered statics, including those modified or added by mods.As I've already included a generated one for Maximum New Vegas, it should't be neccesary unless you're using additional mods that edit the worldspace. [***Tutorial***](https://vivanewvegas.github.io/lod.html).
 
-[**FNVLODGen**](https://www.nexusmods.com/newvegas/mods/58562)  
+[**xLODGen**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-97-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/)  
 Allows generation of LOD for worldspaces by scanning all mods in the load order that add visible from distant objects.
-- Manually download the **FNVLODGen** main file.
-- Extract the contents of the archive to **Mods\FNVLODGen**.
+
+- Manually download the **xLODGen** main file.
+- Extract the contents of the archive to **Mods\xLODGen**.
 
 ## Registering tools in Mod Organizer 2
 
@@ -218,16 +219,16 @@ Follow these steps for **FNVEditQuickAutoClean**:
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
 - Click **Apply** and then **OK**.
 
-Follow these steps for **FNVLODGen**:
+Follow these steps for **xLODGen**:
 
 - Click the **Modify Executables** ![Executables](assets/icon-mo2executables.png) button.
 - Click the **Add an executable** ![AddExe](assets/icon-mo2addfile.png) button and choose **Add from file...**.
-- Navigate to FNVLODGen's folder (**C:\Mods\FNVLODGen**) and double click its .exe file.
+- Navigate to xLODGen's folder (**C:\Mods\xLODGen**) and double click "xLODGen.exe".
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
-- In the **Arguments** field, paste **-o:"C:\Mods\FNVLODGen Output\"**.
+- In the **Arguments** field, paste **-fnv -o:"C:\Mods\xLODGen Output\"**.
 - Click **Apply** and then **OK**.
 
-> ℹ️ This argument will make the files generated through FNVLODGen appear in a folder called **FNVLODGen Output** on your **Fallout New Vegas Mods** folder.
+> ℹ️ This argument will make the files generated through xLODGen appear in a folder called **xLODGen Output** on your **Fallout New Vegas Mods** folder.
 
 # GENERAL TIPS
 
