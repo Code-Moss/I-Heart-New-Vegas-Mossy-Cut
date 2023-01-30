@@ -75,7 +75,7 @@ NVSE plugin which adds new functions and allows modders to easily add new UI ele
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 [**DXVK**](https://www.nexusmods.com/newvegas/mods/79299)  
-DO NOT USE IF YOU DON'T KNOW WHAT THIS DOES EXACTLY, OR IF YOU DON'T HAVE A SOMEWHAT MODERN GPU.
+DO NOT USE IF YOU DON'T KNOW WHAT THIS DOES EXACTLY, OR IF YOU DON'T HAVE A SOMEWHAT MODERN GPU. Even then, has some lighting issues with my current 2021 card.
 
 ## GAME PATCHES
 
@@ -196,9 +196,6 @@ Sorting mod, using features of yUI to make inventory management a better experie
 [**ySI Sorting Icons - Push's Categories**](https://www.nexusmods.com/newvegas/mods/78532)  
 A simple categories config targeting only the most clutter-prone item types.
 
-[**WND - Weapon Name Display**](https://www.nexusmods.com/newvegas/mods/63687)  
-A simple mod that displays the name of your weapon when you want.
-
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
@@ -225,14 +222,6 @@ Increases the resolution of local maps.
 
 [**The HUD Editor**](https://www.nexusmods.com/newvegas/mods/67470)  
 Allows you to edit the HUD.
-
-[**The HUD Editor - Custom Config**](/resources/config/Hud_Editor_Custom_INI.7z)  
-DO NOT USE IF YOUR SCREEN ISN'T 4:3.
-
-Installation:
-
-1) In MO2, right-click "Ovewrite" and then "Open in Explorer"
-2) Extract the contents of the .7z file into the "overwrite" directory.
 
 ## GAMEPLAY
 
@@ -456,9 +445,6 @@ Removes the need to manually patch weapons for animations using the ISControl no
 [**Melee VATS Animation Restoration**](https://www.nexusmods.com/newvegas/mods/73480)  
 Brings VATS melee animations back from the dead, thanks to kNVSE.  
 
-[**Blended Locomotion**](https://www.nexusmods.com/newvegas/mods/79295)  
-Movement animations that look good.
-
 [**Immersive Recoil**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs
 
@@ -534,9 +520,6 @@ Retextures weapons to look all pretty and stuff.
 
 [**Toggle-able Night Vision**](https://www.nexusmods.com/newvegas/mods/39825)  
 Adds Night Vision mode to selected headwear, activated via the Pip-Boy Light.
-
-[**Bullet Trails**](https://www.nexusmods.com/newvegas/mods/75122)  
-Adds smoky trails to bullets.
 
 ### Characters
 
@@ -655,9 +638,6 @@ A cloud shadows effect powered by Climate Control NVSE.
 
 [**Cloud Upgrade NVSE**](https://www.nexusmods.com/newvegas/mods/79612)  
 NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud systems. 
-
-[**Heat Haze**](https://www.nexusmods.com/newvegas/mods/76286)  
-A subtle heat distortion effect.
 
 [**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437)  
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
@@ -787,12 +767,19 @@ Custom INI's for compatability, QOL features and more. Install manually.
 	<li>lStewieAl's Tweaks and Engine Fixes
 	<li>Mojave Arsenal
 	<li>NVTF
-	<li>RAD?
 	<li>Ragdolls
 	<li>Vanilla UI Plus (New Vegas)
 	<li>yUI - User Ynterface
 
 </details>
+
+[**MAXIMUM Overwrites**](/resources/config/MAXIMUM_Overwrites.7z)  
+Custom configs for some few other mods like the HUD Editor and TotNW.
+
+Installation:
+
+1) In MO2, right-click "Ovewrite" and then "Open in Explorer"
+2) Extract the contents of the .7z file into the "overwrite" directory.
 
 ---
 
@@ -813,14 +800,6 @@ The following settings need to be configured after you've already started a new 
 <img src="assets/main-config.png" alt="mcm_HelmetOverlay" width="150"/>
 
 <br>
-
-
-**Weapon Name Display**
-* Check: 
-	- [x] Always
-	- [x] Allow when weapon isn't drawn
-	- [x] Display 'Unarmed'
-	- [x] Suffix Type: '+' 
 
 ### INI config
 
@@ -859,7 +838,7 @@ bForceHighDetailReflections=1
 
 # KEYBINDS
 
-[**This**](KEYBINDS.md) is a handy reference table which will hopefully help you have a better idea of what keys are available to you, having followed this guide from beginning to end.
+[**This**](KEYBINDS.md) is a handy reference table which will hopefully help you have a better idea of what keys are available to you, having followed this guide from beginning to end. Just simply change what you can in the settings menu.
 
 ---
 
@@ -933,12 +912,6 @@ bForceHighDetailReflections=1
 - High Resolution Bloom NVSE
 - Toggle-able Night Vision
 
-🔀 **Replaced Mods**:
-
- **rockomotion -> Blended Locomotion**
-
-- Blended Locomotion includes the best parts of rockomotion and more.
-
 ❌ **Removed Mods**:
 
  **Building Bridges**
@@ -989,6 +962,12 @@ bForceHighDetailReflections=1
 ☢️ **Other**:
 
 - bruh.
+
+---
+
+### 2023-01-24
+
+- Fixes, Fixes and Fixes. Ironing out some roughness and fine tweaking tweaks.
 
 ---
 

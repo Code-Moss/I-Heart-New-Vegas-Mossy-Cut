@@ -1,7 +1,7 @@
 # **MAXIMUM NEW VEGAS**
 <sub>☢️ [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas), RIP </sub>
 
-Last updated: January 23th, 2023.
+Last updated: January 30th, 2023.
 
 🚧 The current state of the fork is... **UNSTABLE/WIP**.
 
@@ -33,28 +33,28 @@ Sigourn: _"I've worked on this modlist for a few years already, but only recentl
 
 ## My setup
 
-After installing everything, my framerate ranges anywhere from ?fps (at worst) to ?fps. For reference, here's my setup as well:
+After installing everything, my framerate averages around 60 - 75fps. For reference, here's my setup as well:
 
 System | My Specs
 ------------ | -------------
-Operative System | Windows 10 64-bit
+OS  | Windows 10 64-bit
 CPU | Intel Core i7-4790 (Initially an i3-4150)
-RAM | 16GB DDR3
+RAM | 16GB DDR3 1333Hz
 GPU | 2GB NVIDIA T400
 HDD | 1TB WD Blue 3.5" (Including an NVMe drive for my OS only)
-DP  | Dell S2721HN @ 1080P
+DP  | Dell S2721HN @ 1080P 75Hz
 
-> Both my CPU and GPU are at 50% load majority of the time, and RAM at about 5-6 GB. Really not a hard game to run honestly.
+> Both my CPU and GPU are at 50% load majority of the time, and RAM at about 4-6 GB. Really not a hard game to run honestly.
 
 ## Frequently asked questions
 
 ### How many plugins are there?
 
-There are about **?** plugins total.
+There are about **120** plugins total.
 
 ### How much space do I need to install these mods?
 
-Roughly ?GB.
+Roughly 7.5GB.
 
 ### Is this guide compatible with...?
 
