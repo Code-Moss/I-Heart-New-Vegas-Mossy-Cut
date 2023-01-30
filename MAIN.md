@@ -736,7 +736,7 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 > ⚠️ **UNTESTED** ⚠️  
 
-[**MAXIMUM Load Order**](/resources/profile/loadorder.txt)  
+[**MAXIMUM Load-Order**](/resources/profile/loadorder.txt) and [**MAXIMUM Mod-List**](/resources/profile/modlist.txt)  
 Adjusts load order for MAXIMUM New Vegas to work as intended.
 
 Installation:
@@ -744,7 +744,7 @@ Installation:
 1) Right click and "Save Page As..."
 2) Click "Save", **DO NOT CHANGE THE FILE NAME**.
 3) Once the download has finished, click the  <img src="assets/icon-mo2folder.png" alt="folder" width="20"/>  folders button at the top of MO2 and select "Open Profile folder".
-4) Move "loadorder.txt" to the opened folder and overwrite when prompted.
+4) Move both "loadorder.txt" and "modlist.txt" to the opened folder and overwrite when prompted.
 
 ### Settings config
 
@@ -950,7 +950,7 @@ bForceHighDetailReflections=1
 
 **Power Armor Audio Reworked**
 
-- Replaced by Titans of the New West 2.0
+- Replaced by Titans of the New West 2.0.
 
 ---
 
@@ -965,6 +965,7 @@ bForceHighDetailReflections=1
 ### 2023-01-24
 
 - Fixes, Fixes and Fixes. Ironing out some roughness and fine tweaking tweaks.
+- Finally released as BETA.
 
 ---
 
