@@ -184,9 +184,6 @@ Greatly improves the user interface without compromising the original style.
 
 > ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and only enables said font exclusively in the Pip-Boy screen.
 
-[**AidUI**](https://www.nexusmods.com/newvegas/mods/77782)  
-Displays remaining duration of consumed Aid items on the HUD.
-
 [**JIP Improved Recipe Menu ESPless**](https://www.nexusmods.com/newvegas/mods/75920)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
 
