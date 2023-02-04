@@ -8,6 +8,7 @@
 +LOD additions and improvements
 +FNVLODGen
 +Aqua Performa - Strip Performance Fix LOD
++Improved LOD Noise Texture
 -LOD_separator
 +MAXIMUM_Config
 +Viva New Vegas Resources
