@@ -284,6 +284,9 @@ The Big Difficulty and Rebalance mod.
 Files to install:
 - **JSawyer Ultimate Edition** (Main files)
 
+[**Varmint Rifle 22 Setter**](https://www.nexusmods.com/newvegas/mods/74423)  
+Forces the Varmint Rifle to use 22LR ammo.
+
 [**Food Effect Tweaks - Custom Food Healing**](https://www.nexusmods.com/newvegas/mods/75103)  
 Reduces food healing effects to help balance Survival versus Medicine. 
 
@@ -966,6 +969,14 @@ bForceHighDetailReflections=1
 
 - Fixes, Fixes and Fixes. Ironing out some roughness and fine tweaking tweaks.
 - Finally released as BETA.
+
+---
+
+## 2023-02-12
+
+✔️ **Mod Additions:**
+
+- Varmint Rifle 22 Setter *(JSUE was not working in this regard)*.
 
 ---
 

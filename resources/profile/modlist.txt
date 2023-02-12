@@ -13,6 +13,7 @@
 +MAXIMUM_Config
 +Viva New Vegas Resources
 +JSawyer Ultimate Edition Patches
++Varmint Rifle 22LR Setter
 -Patches_separator
 +Immersive Pickup Sounds Patched
 +Ed-E the Silent Eyebot

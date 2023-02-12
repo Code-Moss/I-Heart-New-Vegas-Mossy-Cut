@@ -66,6 +66,7 @@ DelayDLCRedux.esp
 Mojave Raiders.esp
 Mojave Raiders - 22LR Varmint Rifle.esp
 NVR2 - Mojave Raiders Patch.esp
+JSawyer Ultimate - Mojave Raiders Patch.esp
 NPCsSprint.esp
 NPC Use Aid.esp
 Silent Eyebot.esp
@@ -88,7 +89,6 @@ YourBuddyIsDead.esp
 Immersive Pickup Sounds FNV Patched.esp
 FNVOppositeTraits.esp
 Uncut Strip NPCs.esp
-JSawyer Ultimate - Mojave Raiders Patch.esp
 ImmersiveRecoil.esp
 B42Inertia.esp
 mil.esp
