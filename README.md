@@ -33,7 +33,7 @@ Sigourn: _"I've worked on this modlist for a few years already, but only recentl
 
 ## My setup
 
-After installing everything, my framerate averages around 60 - 75fps. For reference, here's my setup as well:
+After installing everything, my framerate averages around 50 - 75fps. For reference, here's my setup as well:
 
 System | My Specs
 ------------ | -------------
