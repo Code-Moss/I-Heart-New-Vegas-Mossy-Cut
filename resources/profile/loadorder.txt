@@ -29,7 +29,6 @@ HiddenValleyOverhauledMM.esp
 Improved Desert Overpass.esm
 Vanilla Enhancements.esm
 TheHUDEditor.esm
-Helmet Overlay.esm
 Functional Post Game Ending Lite.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
@@ -57,6 +56,8 @@ CPI Icons.esp
 NVMIM.esp
 JustAssortedMods.esp
 JBTImproved.esp
+JAM No AP Drain Outside Combat.esp
+JVS No AP Drain Outside Combat.esp
 Titans of The New West.esp
 Titans of The New West - Power Armor Sprint JAM.esp
 Titans of The New West - Power Armor Sprint JVS.esp
@@ -79,7 +80,6 @@ Lazarus - Interesting GunRunners.esp
 Universal Water Bottling.esp
 Better Hacking.esp
 Improved Traits.esp
-JIP Companions Command & Control.esp
 Little More Lamplight.esp
 DLC Enhancements.esp
 MigCrippled.esp
@@ -89,6 +89,7 @@ YourBuddyIsDead.esp
 Immersive Pickup Sounds FNV Patched.esp
 FNVOppositeTraits.esp
 Uncut Strip NPCs.esp
+AwesomeBulletSounds3.1.esp
 ImmersiveRecoil.esp
 B42Inertia.esp
 mil.esp
@@ -109,14 +110,13 @@ Strip Lights Region Fix.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
 Strip Lights Region Fix - The Living Desert.esp
 Lucky 38 Lights Redone.esp
-FNVLODGen.esp
 tmzLODadditions.esp
 StripWaterLOD.esp
+FNVLODGen.esp
 Aim View Switcher.esp
 B42Dropmag.esp
 B42Retrievables.esp
 CC - 3D Rain.esp
 CC - Rain.esp
 Cloud Shadows.esp
-wirlwindremover.esp
 DNWeathers.esp

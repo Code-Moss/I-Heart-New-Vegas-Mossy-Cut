@@ -657,8 +657,11 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 
 ## AUDIO
 
-[**Awesome Bullet Sounds**]()  
+[**Awesome Bullet Sounds**](https://www.nexusmods.com/newvegas/mods/71605)  
 Flyby and ricochet sounds to make your shootouts far more dramatic.
+
+[**Quiter Bullet Sounds**](https://www.nexusmods.com/newvegas/mods/80480)  
+Makes above mod much more subtle.
 
 [**Ed-E the Silent Eyebot**](https://www.nexusmods.com/newvegas/mods/72430)  
 Removes ED-E's "Combat Initiated" Audio.
