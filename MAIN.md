@@ -466,9 +466,6 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
 
-[**B42 Inspect**](https://www.nexusmods.com/newvegas/mods/71624)   
-Adds a fully animated ammunition and weapon condition checking system.
-
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
 
@@ -505,9 +502,6 @@ Drop empty and/or partial magazines on reload.
 
 - Optional Files to install:
   - Another Millenia Dropmag Patch UPDATED
-
-[**Third Person Camera Overhaul**](https://www.nexusmods.com/newvegas/mods/79883)  
-A comprehensive overhaul of the 3rd Person Camera.
 
 ### VFX
 
@@ -662,6 +656,9 @@ Files to install:
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 
 ## AUDIO
+
+[**Awesome Bullet Sounds**]()  
+Flyby and ricochet sounds to make your shootouts far more dramatic.
 
 [**Ed-E the Silent Eyebot**](https://www.nexusmods.com/newvegas/mods/72430)  
 Removes ED-E's "Combat Initiated" Audio.
@@ -1001,13 +998,12 @@ bForceHighDetailReflections=1
 
 ✔️ **Mod Additions:**
 
-- B42 Inspect
 - B42 Notify
 - Wasteland Warrior Melee Animations
 - Exterior Emittance Fix
 - Alpha Rendering Tweaks
 - Clean Companion Wheel
-- 3rd Person Camera Overhaul
+- Awesome Bullet Sounds
 
 ❌ **Removed Mods:**
 
