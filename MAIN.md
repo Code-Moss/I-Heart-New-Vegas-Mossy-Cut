@@ -113,6 +113,12 @@ Improves framerate in combat by fixing an engine bug that lowered framerate whil
 [**Pip-Boy Shading Fix NVSE**](https://www.nexusmods.com/newvegas/mods/77957)  
 Fixes Pip-Boy's shading, making it not ignore lights around it.
 
+[**Exterior Emittance Fix**](https://www.nexusmods.com/newvegas/mods/80443)  
+Fixes incorrect exterior emittance handling which leads to particles being black. 
+
+[**Fallout Alpha Rendering Tweaks**](https://www.nexusmods.com/newvegas/mods/80316)  
+Fix some alpha rendering issues like broken effects when using Transparency Multisampling.
+
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
 Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility. Includes other gameplay tweaks.
 
@@ -193,6 +199,9 @@ Sorting mod, using features of yUI to make inventory management a better experie
 [**ySI Sorting Icons - Push's Categories**](https://www.nexusmods.com/newvegas/mods/78532)  
 A simple categories config targeting only the most clutter-prone item types.
 
+[**B42 Notify**](https://www.nexusmods.com/newvegas/mods/80085)   
+"Notifications! Or, in other words, shows more than one message at a time! Omg it's just like Skyrim!"
+
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
@@ -204,6 +213,9 @@ Files to install:
 
 - FOMOD options to install:
   - Skip the **Clean Fonts for DarnUI** box.
+
+[**Clean Companion Wheel**](https://www.nexusmods.com/newvegas/mods/70486)  
+Cleans up the companion wheel.
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Bug fixes and consistency tweaks for icons in terms of coloring and transparency.
@@ -263,6 +275,9 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 
 [**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
+
+[**JAM Sprint No AP Drain Outside Combat**](https://www.nexusmods.com/newvegas/mods/80322)  
+Disables AP loss while sprinting outside of combat.
 
 [**Bullet Time Improved - a JAM addon**](https://www.nexusmods.com/newvegas/mods/78324)  
 An addon for Just Assorted Mods that adds some new features for Just Bullet Time. 
@@ -336,15 +351,6 @@ This is a simple mod that distributes DLC items around the wasteland.
 
 [**Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 This is a NVSE plugin that enables a visible body and player shadows when in first person.
-
-[**JIP Companions Command and Control**](https://www.nexusmods.com/newvegas/mods/50468)  
-Revolutionize the way companions are controlled with.
-
-[**Perk Styled CCC Icons**](https://www.nexusmods.com/newvegas/mods/70849)  
-Replaces JIP Companions Command and Control's NPC icons.
-
-[**JIP CCC HD icons**](https://www.nexusmods.com/newvegas/mods/75378)  
-Higher resolution versions of JIP Companions Command and Control's icons. 
 
 [**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141)  
 Expands the idea of traits with opposite effects (seen in Fast Shot and Trigger Discipline) to the game's other traits.
@@ -434,10 +440,16 @@ Files to Install:
 - **Update 1.02** (Update Files)
 
 [**Butcher Pete Complete - A Melee Animation Overhaul**](https://www.nexusmods.com/newvegas/mods/79146)  
-Chop, slice, and bludgeon that Pete.
+Reanimates all one-handed melee weapons.
 
 Files to Install:
-- **2. Butcher Pete Complete - A Melee Animation Overhaul (No Locomotion)** (Main Files)
+- **1. Butcher Pete Complete - A Melee Animation Overhaul (Hitman Locomotion)** (Main Files)
+
+[**Wasteland Warrior - A Melee Animation Overhaul**](https://www.nexusmods.com/newvegas/mods/80277)  
+Reanimates all two-handed melee weapons.
+
+Files to Install:
+- **1. Wasteland Warrior - A Melee Animation Overhaul (Hitman Locomotion)** (Main Files)
 
 [**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
 Removes the need to manually patch weapons for animations using the ISControl node system.
@@ -453,6 +465,9 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
+
+[**B42 Inspect**](https://www.nexusmods.com/newvegas/mods/71624)   
+Adds a fully animated ammunition and weapon condition checking system.
 
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
@@ -473,7 +488,6 @@ Files to install:
 - **Diagonal Movement 0.6b** (Main files)
 - **Skeleton by MadAce (Ragdoll mod compat)** (Optional files)
 
-
 [**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741)  
 Enables headtracking for the player character.
 
@@ -492,10 +506,10 @@ Drop empty and/or partial magazines on reload.
 - Optional Files to install:
   - Another Millenia Dropmag Patch UPDATED
 
-### VFX
+[**Third Person Camera Overhaul**](https://www.nexusmods.com/newvegas/mods/79883)  
+A comprehensive overhaul of the 3rd Person Camera.
 
-[**DYNAVISION 3 - Total Visual Enhancement**](https://www.nexusmods.com/newvegas/mods/51577)  
-Vvisual overhaul mod that provides dynamic depth-of-field and auto-focus.
+### VFX
 
 [**High Resolution Bloom NVSE**](https://www.nexusmods.com/newvegas/mods/77933)  
 Allows for customizable bloom resolution, making it possible to use resolutions other than vanilla's quarter one. 
@@ -507,10 +521,6 @@ Files to install:
 - **PSRO - Peripheral Scope Reticle Overhaul** (Main files)
 
 - **PSRO - Peripheral Depth Blur - JIP ScriptRunner** (Update files files)
-
-
-[**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
-Adds helmet overlays similar to those found in various S.T.A.L.K.E.R. mods.
 
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
@@ -658,6 +668,13 @@ Removes ED-E's "Combat Initiated" Audio.
 
 [**Immersive Pickup Sounds Patched**](https://www.nexusmods.com/newvegas/mods/70552)  
 Adds a variety of sound effects for picking up numerous items.
+
+[**Hitmarker Sounds**](https://www.nexusmods.com/newvegas/mods/77268)  
+A mod that adds UI sounds when hitting a living target and taking damage.
+
+Files to install:
+- **Hit Marker Sounds - ESP** (Main files)
+- **Sounds - Clam Edit** (Optional Files)
 
 ## MOD PATCHES
 
@@ -977,6 +994,30 @@ bForceHighDetailReflections=1
 ✔️ **Mod Additions:**
 
 - Varmint Rifle 22 Setter *(JSUE was not working in this regard)*.
+
+---
+
+## 2023-03-19
+
+✔️ **Mod Additions:**
+
+- B42 Inspect
+- B42 Notify
+- Wasteland Warrior Melee Animations
+- Exterior Emittance Fix
+- Alpha Rendering Tweaks
+- Clean Companion Wheel
+- 3rd Person Camera Overhaul
+
+❌ **Removed Mods:**
+
+**JIP CC&C**
+
+- Wasn't that useful and it was conflicting Stewie Tweaks.
+
+**Helmet Overlay**
+
+- Config sometimes just wasn't loading and kept on resetting.
 
 ---
 

@@ -59,7 +59,7 @@ SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textu
 
 [**xNVSE**](https://github.com/xNVSE/NVSE/releases)  
 New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
-- Click the **nvse_6_2_9.7z** under **Assets** to download it.
+- Click the **nvse_6_3_0.7z** under **Assets** to download it.
 - Extract the contents of the archive to the game's **Root** folder. Allow it to merge and overwrite if asked.
 
 [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?)  

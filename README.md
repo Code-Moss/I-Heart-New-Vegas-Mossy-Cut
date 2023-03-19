@@ -1,9 +1,9 @@
 # **MAXIMUM NEW VEGAS**
 <sub>☢️ [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas), RIP </sub>
 
-Last updated: February 12th, 2023.
+Last updated: March 19th, 2023.
 
-🚧 The current state of the fork is... **UNSTABLE-WIP-PLAYABLE**.
+🚧 The current state of the fork is... **BETA**.
 
 ![Banner](assets/readme-banner.jpeg)
 > A personal modlist using Sigourns *"LEFT MY HEART IN NEW VEGAS"* as a base, with some extra mods and setups I **personally** use. NOT FOR FIRST TIME PLAYERS.
@@ -33,7 +33,7 @@ Sigourn: _"I've worked on this modlist for a few years already, but only recentl
 
 ## My setup
 
-After installing everything, my framerate averages around 50 - 75fps. For reference, here's my setup as well:
+After installing everything, my framerate averages around 55 - 75fps. For reference, here's my setup as well:
 
 System | My Specs
 ------------ | -------------
