@@ -11,7 +11,6 @@ TribalPack.esm
 CaravanPack.esm
 YUP - Base Game + All DLC.esm
 Landscape Disposition Fix.esm
-Ragdolls.esm
 New Vegas Landscape Overhaul.esm
 Enhanced Landscapes for NVLO.esm
 Navmesh Fixes and Improvements.esm
@@ -28,6 +27,7 @@ HelmetVisionEnhancementsPlusDLC.esm
 HiddenValleyOverhauledMM.esp
 Improved Desert Overpass.esm
 Vanilla Enhancements.esm
+Helmet Overlay.esm
 TheHUDEditor.esm
 Functional Post Game Ending Lite.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
@@ -93,8 +93,6 @@ AwesomeBulletSounds3.1.esp
 ImmersiveRecoil.esp
 B42Inertia.esp
 mil.esp
-Ragdolls YUP Patch.esp
-Ragdolls DLC Enhancements Patch.esp
 Diagonal movement.esp
 Player Headtracking.esp
 dD - Enhanced Blood Main NV.esp
@@ -106,6 +104,8 @@ VM_Recoil.esp
 PointThatSomewhereElse!.esp
 Ending Slideshows Ultimate Edition Overhaul.esp
 ImmersiveFastTravelEncounters.esp
+BLEEDLESSNV.esp
+C93 - FPS Health Regeneration - Minor Wound Healing.esp
 Strip Lights Region Fix.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
 Strip Lights Region Fix - The Living Desert.esp

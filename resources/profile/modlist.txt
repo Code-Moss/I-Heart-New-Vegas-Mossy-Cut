@@ -22,6 +22,7 @@
 +Quiter Bullet Sounds
 +Awesome Bullet Sounds - Flybys and Whizzes
 -Audio_separator
++Helmet Overlay
 +Accurate NASA Stars
 +Desert Natural Weathers - NV - TTW
 +Cloud Upgrade NVSE
@@ -62,8 +63,6 @@
 +NV Compatibility Skeleton
 +Player Headtracking
 +Diagonal movement
-+Sigourn's Misc Mods and Patches
-+Ragdolls
 +B42 Weapon Inertia
 +Viewmodel Recoil
 +Immersive Recoil 2.0
@@ -93,6 +92,7 @@
 +FNV Opposite Traits
 +New Vegas - Enhanced Camera
 +SIDE - Simple Items Distributed Everywhere
++BLEEDLESS
 +Inaccurate NPCs - ESPless - De-aimbotting the Wasteland
 +Point that somewhere else - NPCs react to you pointing a gun at them
 +Immersive Fast Travel Encounters
@@ -104,6 +104,7 @@
 +Food Effect Tweaks - Custom Food Healing
 +JSawyer Ultimate Edition
 -Overhauls_separator
++C93 - FPS Health Regeneration
 +NPCs use Aid items
 +NPCs Sprint In Combat
 +Melee Cleave (a.k.a. Sweep)

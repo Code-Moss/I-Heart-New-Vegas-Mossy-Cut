@@ -291,6 +291,12 @@ NPCs will now sprint in melee combat instead of casually jogging. Uses custom sp
 [**NPCs Use Aid Items**](https://www.nexusmods.com/newvegas/mods/68742)  
 NPCs will now use aid items in combat. They will not consume their loot; instead, they will simulate consuming items they can potentially carrying.
 
+[**BLEEDLESS**](https://www.nexusmods.com/newvegas/mods/75660)  
+Overhaul of how damage and force is applied.
+
+Files to install:
+- **BLEEDLESSNV** (Main files)
+
 ## OVERHAULS
 
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
@@ -316,6 +322,12 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 
 [**Famine - A Loot Rarity Mod**](https://www.nexusmods.com/newvegas/mods/74985)  
 Simple and comprehensive loot scarcity mod using event-based scripting.
+
+[**C93 - FPS Health Regeneration**](https://www.nexusmods.com/newvegas/mods/44454)  
+Adds limited FPS-style health regeneration, because fuck barrels.
+
+Files to install:
+- **C93 - FPS Health Regeneration - Minor Wound Healing** (Main files)
 
 [**Economy Overhaul**](https://www.nexusmods.com/newvegas/mods/62899)  
 Item value overhaul.
@@ -465,15 +477,6 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
-
-[**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
-Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
-
-Files to install:
-- **Ragdolls** (Main files)
-
-[**Sigourns Ragdolls YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268?tab=files&file_id=1000087271&nmm=1)  
-Compatibility patch for Yukichigai Unofficial Patch.
 
 [**Sigourns DLC Enhancements Patch**](https://www.nexusmods.com/newvegas/mods/75268?tab=files&file_id=1000087272&nmm=1)  
 Compatibility patch for Essential DLC Enhancements.
@@ -1019,6 +1022,17 @@ bForceHighDetailReflections=1
 - Config sometimes just wasn't loading and kept on resetting.
 
 ---
+
+## 2023-03-24
+
+✔️ **Mod Additions:**
+
+- C93 FPS Health Regeneration
+- BLEEDLESS
+
+☢️ **Other**:
+
+- Tried out B42 Inject, can't wait for it to be flushed out... still waiting for Samurai Numbers though soz.
 
 </details>
 

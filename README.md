@@ -1,9 +1,9 @@
 # **MAXIMUM NEW VEGAS**
 <sub>☢️ [_Sigourns Original Guide_](https://github.com/Sigourn/iheartnewvegas), RIP </sub>
 
-Last updated: March 19th, 2023.
+Last updated: March 24th, 2023.
 
-🚧 The current state of the fork is... **BETA**.
+🚧 The current state of the fork is... **BETA III**.
 
 ![Banner](assets/readme-banner.jpeg)
 > A personal modlist using Sigourns *"LEFT MY HEART IN NEW VEGAS"* as a base, with some extra mods and setups I **personally** use. NOT FOR FIRST TIME PLAYERS.

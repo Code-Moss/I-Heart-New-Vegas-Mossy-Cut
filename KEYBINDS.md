@@ -8,13 +8,13 @@ Key | Description | Origin
 E | Activate | Base Game
 Shift + E | Pick up and equip | lStewieAl's Tweaks
 WASD | Movement | Base Game
-G | Toggle Auto-Move | Base Game
+G | Grab | Base Game
 Shift + WASD | Sprint | Just Assorted Mods
 Caps Lock | Toggle Movement Speed | Base Game
 Spacebar | Jump | Base Game
 Left Control | Sneak | Base Game
 Tab | Wait | Base Game
-Left Alt | Grab | Base Game
+Left Alt | Auto-Move | Base Game
 Shift + E | Pick locked door even if you have the key | lStewieAl's Tweaks
 ----
 
@@ -38,23 +38,12 @@ Hold Tab | Toggle scope night vision when aiming down the scope | lStewieAl's Tw
 Key | Description | Origin
 ---- | ---- | ----
 F | Open Pip-Boy | Base Game
+Hold F | Pip-Boy Light / Night Vision | Base Game / lStewieAl's Tweaks
 Control + F | Search Menus | lStewieAl's Tweaks
 M | Open Pip-Boy world map tab | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 Ctrl + F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
 RMB | Drop | Base Game
-----
-
-### Companion Control:
-
-Key | Description | Origin
----- | ---- | ----
-Middle Mouse Button | Toggle Companion Control | JIP CC&C
-W / S | Scroll Up / Down | JIP CC&C
-LMB | Select | JIP CC&C
-RMB | Back | JIP CC&C
-Hold Numpad. + | Force-Recruit (Cheat) | JIP CC&C
-Hold LMB on Combat | Extra Options (Cheat) | JIP CC&C
 ----
 
 ### Miscellaneous:
